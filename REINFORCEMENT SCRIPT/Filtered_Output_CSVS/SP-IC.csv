@@ -1,0 +1,145 @@
+SP_VALUE,SP_VERSION,CONTEXT,SP_KEY1,SP_KEY2,SP_KEY3,SP_KEY4,SP_KEY5,IC_CAPTION,IP_VERSION,IP_SHORT_DESC,IC_ORDER
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,BEKAERT,ROGERS,,,BB01FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance ,"LONGLAVILLE,   FRANCE ",,,1x53,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Agent Approval Review,,ipFullAgentApprovalInformation,5
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,MIS Migrated Data,,ipMISMigration,6
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,MIS Migrated Data,,ipMISMigration,6
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,MIS Migrated Data,,ipMISMigration,6
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,MIS Migrated Data,,ipMISMigration,6
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,MIS Migrated Data,,ipMISMigration,6
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,MIS Migrated Data,,ipMISMigration,6
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,MIS Migrated Data,,ipMISMigration,6
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,MIS Migrated Data,,ipMISMigration,6
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,MIS Migrated Data,,ipMISMigration,6
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,MIS Migrated Data,,ipMISMigration,6
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,MIS Migrated Data,,ipMISMigration,6
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,MIS Migrated Data,,ipMISMigration,6
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,MIS Migrated Data,,ipMISMigration,6
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,MIS Migrated Data,,ipMISMigration,6
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,MIS Migrated Data,,ipMISMigration,6
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,MIS Migrated Data,,ipMISMigration,6
+RFW00044,1,Supplier,KISWIRE,YANGSAN,,,241CH,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,BEKAERT,SHENYANG BSSC,,,BL01FP,MIS Migrated Data,,ipMISMigration,6
+RFCH,1,Supplier,JIANGSU XINGDA,XING HUA,,,401CH,MIS Migrated Data,,ipMISMigration,6
+RFS00004,1,Supplier,BEKAERT,IZMIT,,,BA01FP,MIS Migrated Data,,ipMISMigration,6
+RF0040084,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,MIS Migrated Data,,ipMISMigration,6
+RF0040253,1,Supplier,BEKAERT,IZMIT,,,UNSPECIFIED,MIS Migrated Data,,ipMISMigration,6
+RFGL2060,1,Supplier,KERN,TRINEC - KONSKA,KERN,TRINEC - KONSKA,GL2060,MIS Migrated Data,,ipMISMigration,6
+RF0040652,1,Supplier,BEKAERT,VESPASIANO,,,B701FP,MIS Migrated Data,,ipMISMigration,6
+RFS00047,1,Supplier,KISWIRE,"Rongcheng, China",,,F901FP,MIS Migrated Data,,ipMISMigration,6
+RF0041582,1,Supplier,BEKAERT,IZMIT,,,BA01FP,MIS Migrated Data,,ipMISMigration,6
+RF0041590,1,Supplier,BEKAERT,SHENYANG BSSC,,,,MIS Migrated Data,,ipMISMigration,6
+RF0041619,1,Supplier,KISWIRE,QINGDAO,,,246CH,MIS Migrated Data,,ipMISMigration,6
+RF0041817,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,MIS Migrated Data,,ipMISMigration,6
+RF0041826,1,Supplier,JIAXING EASTERN,,,,,MIS Migrated Data,,ipMISMigration,6
+RF0043059,1,Supplier,CELIK HALAT,IZMIT,,,031CH,MIS Migrated Data,,ipMISMigration,6
+RFS00090,1,Supplier,JIAXING EASTERN,ZHEJIANG,,,Y101FP,MIS Migrated Data,,ipMISMigration,6
+RF0044389,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,,MIS Migrated Data,,ipMISMigration,6
+RF0045664,1,Supplier,BMZ,MICORD,,,,MIS Migrated Data,,ipMISMigration,6
+RF0046962,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,,,,MIS Migrated Data,,ipMISMigration,6
+RFW00044,1,Supplier,KISWIRE,YANGSAN,,,241CH,MIS Migrated Data,,ipMISMigration,6
+RFS00004,1,Supplier,BEKAERT,IZMIT,,,BA01FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RF0040084,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RF0040253,1,Supplier,BEKAERT,IZMIT,,,UNSPECIFIED,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFFP,1,Supplier,TREFILARBED,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7
+RFGL2060,1,Supplier,KERN,TRINEC - KONSKA,KERN,TRINEC - KONSKA,GL2060,GPS Full Supplier Approval Review,,ipFullApprovalInformation,7

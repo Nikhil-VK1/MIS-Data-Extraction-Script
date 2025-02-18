@@ -1,0 +1,1495 @@
+SP_VALUE,SP_VERSION,CONTEXT,SP_KEY1,SP_KEY2,SP_KEY3,SP_KEY4,SP_KEY5,IC_CAPTION,IC_ORDER,II_CAPTION,IE_SHORT_DESC,IE_VERSION,II_ORDER,IIVALUE
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Reason for Program,mleReasProg,,,FLEXIBILITY
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Assigned To,mleAssignedTo,,,Jim Kish
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,LA,cbRegionLA,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,AP,cbRegionAP,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Topeka
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Reason for Program,mleReasProg,,,cost savings
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Assigned To,mleAssignedTo,,,Srinivas Iyer
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,LA,cbRegionLA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,AP,cbRegionAP,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Reason for Program,mleReasProg,,,Flexibility
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Assigned To,mleAssignedTo,,,Anthony Hardy
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Reason for Program,mleReasProg,,,WILMA
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Assigned To,mleAssignedTo,,,Rob Wyszynski
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Reason for Program,mleReasProg,,,Security of Supply
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Assigned To,mleAssignedTo,,,Anthony Hardy
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Izmit
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Reason for Program,mleReasProg,,,"Textilcord agrees to pay for  cost of approval. Total Financial Benefit is 220,800."
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Program Type,ddlProgramType,,,New Material
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Requested By,cbReqBy,,,Prawin Pandian
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Assigned To,mleAssignedTo,,,Prawin Pandian
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,NA,cbRegionNA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,LA,cbRegionLA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,AP,cbRegionAP,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Hanau
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Akron,cbLabAkron,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Lux,cbLabLux,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Reason for Program,mleReasProg,,,"Contract obligation: this is part of Bekaert factoring deal with $ 30 MM working capital improvement, which is entered as acccout payable benefit; this is also in line with the strategy with Bekaert to gradually move the volume from HCC to LCC location."
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Assigned To,mleAssignedTo,,,Etienne Schauer
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Debica
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Reason for Program,mleReasProg,,,"This approval program is related to our 2015+ Polyester Negotiation and Agreements. Since we have a Market Price Mechanism starting with Hyosung for all Polyester supplied by them starting in 2016 (with a 36 MT PET commitment), we need to lock in competitive pricing with other Polyester suppliers in 2015, 2016, and 2017 so the Goodyear portion of the market price mechanism is as low as possible."
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Program Type,ddlProgramType,,,New Source
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Requested By,cbReqBy,,, 
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Assigned To,mleAssignedTo,,,Gabriel Bonnet
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,NA,cbRegionNA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,LA,cbRegionLA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,EMEA,cbRegionEMEA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,AP,cbRegionAP,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Debica
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Akron,cbLabAkron,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Lux,cbLabLux,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Reason for Program,mleReasProg,,,"SECURITY OF SUPPLY + PRODUCTIVITY (for the 3 codes package). This project aims to approve a new source for CH to Wittlich from a new plant built in a low-cost country in Europe (Czech Republic). Currently, this specific lane CH to Wittlich shows a headwind of 36,844¿ but the 3 codes package shows a total productivity of 32,419¿ (FUBH is a headwind of 16,962¿ and DFJH is a saving of 86,225¿). Kiswire shall be able to optimize its pricing for the future as Kiswire will switch its wire rod sourcing to local European sources (current wire rod sourcing is ex-Korea). In addition, Beakaert contract is terminating by end of 2017 and Goodyear needs to develop its supplier pool to leverage Bekaert and it is Goodyear strategy to develop suppliers in Low Cost Countries to improve Goodyear cost-structure. Kiswire Steel Cord line should be ready for trial purpose in 2018 which also represents a great opportunity for Goodyear to leverage its European suppliers pool."
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Assigned To,mleAssignedTo,,,Etienne Schauer
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Wittlich
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Reason for Program,mleReasProg,,,"Hyosung New Beadwire Proposal: Reinforcement would like to initiate this New Source project for material code CH to Danville from Hyosung. The primary purpose of this project is to drive cost savings opportunities for 2018 productivity. Hyosung's quote is about 0.11 cents cheaper than our current incumbent supplier, Kiswire. Based on the Annual Volume for CH in Danville, there would be an estimated costs saving of about $612,778."
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Assigned To,mleAssignedTo,,,Zachary Driscoll
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Reason for Program,mleReasProg,,,We would like to transition from a supplier development project to supplier qualification with Snton on CH. The primary purpose of this initiative is to develop a LCC supplier of BW to compete with Daye and create a competitive environment for BW in AP and Globally.  The quote price from Snton is about 0.241 cents cheaper than our current incumbent supplier. Estimate costs savings of about 566184.
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Assigned To,mleAssignedTo,,,Arun Manogaran
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Pulandian
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Reason for Program,mleReasProg,,,We are developing Daye as a bead wire supplier that will help increase competition in our AP region.
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Program Type,ddlProgramType,,,New Source
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Requested By,cbReqBy,,, 
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Assigned To,mleAssignedTo,,,Arun Manogaran
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,NA,cbRegionNA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,LA,cbRegionLA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Pulandian
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Reason for Program,mleReasProg,,,"Procurement would like to introduce FP with Rod Grade Change from Hyosung Vietnam to GY Danville.  The new Rod Grade will reduce the price in USD 20 per Ton (USD 0,02 /kg)   2023 Volume : 1,319,514  kg"
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Assigned To,mleAssignedTo,,,Lucas Isenhart
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Reason for Program,mleReasProg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Program Type,ddlProgramType,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Requested By,cbReqBy,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Assigned To,mleAssignedTo,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,NA,cbRegionNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,LA,cbRegionLA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,AP,cbRegionAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Reason for Program,mleReasProg,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Program Type,ddlProgramType,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Requested By,cbReqBy,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Assigned To,mleAssignedTo,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,NA,cbRegionNA,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,LA,cbRegionLA,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,EMEA,cbRegionEMEA,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,AP,cbRegionAP,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Akron,cbLabAkron,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Lux,cbLabLux,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,Kunshan,cbLabKunshan,,,0
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Reason for Program,mleReasProg,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Program Type,ddlProgramType,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Requested By,cbReqBy,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Assigned To,mleAssignedTo,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,NA,cbRegionNA,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,LA,cbRegionLA,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,AP,cbRegionAP,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Akron,cbLabAkron,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Lux,cbLabLux,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Reason for Program,mleReasProg,,,Cost Savings
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Program Type,ddlProgramType,,,New Source
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Requested By,cbReqBy,,,Gary Platz
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Assigned To,mleAssignedTo,,,Michael Putinski
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,NA,cbRegionNA,,,1
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,LA,cbRegionLA,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,EMEA,cbRegionEMEA,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,AP,cbRegionAP,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Fayetteville
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Akron,cbLabAkron,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Lux,cbLabLux,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,Kunshan,cbLabKunshan,,,0
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,Program Info,,,ieSAPStatusCode,,,ZZ
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Reason for Program,mleReasProg,,,New yarn approval
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Program Type,ddlProgramType,,,New Material
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Requested By,cbReqBy,,, 
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Assigned To,mleAssignedTo,,,Marie Chaidron
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,NA,cbRegionNA,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,LA,cbRegionLA,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,EMEA,cbRegionEMEA,,,1
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,AP,cbRegionAP,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Fulda
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Akron,cbLabAkron,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Lux,cbLabLux,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,Kunshan,cbLabKunshan,,,0
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Reason for Program,mleReasProg,,,Alternate sourcing
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Program Type,ddlProgramType,,,New Material
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Requested By,cbReqBy,,, 
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Assigned To,mleAssignedTo,,,Marie Chaidron
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,NA,cbRegionNA,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,LA,cbRegionLA,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,EMEA,cbRegionEMEA,,,1
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,AP,cbRegionAP,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Fulda
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Akron,cbLabAkron,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Lux,cbLabLux,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,Program Info,,,ieSAPStatusCode,,,ZZ
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Reason for Program,mleReasProg,,,low cost N66 yarn source
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Program Type,ddlProgramType,,,New Source
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Requested By,cbReqBy,,, 
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Assigned To,mleAssignedTo,,,Michael Putinski
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,NA,cbRegionNA,,,1
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,LA,cbRegionLA,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,EMEA,cbRegionEMEA,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,AP,cbRegionAP,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Topeka
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Akron,cbLabAkron,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Lux,cbLabLux,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,Kunshan,cbLabKunshan,,,0
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Reason for Program,mleReasProg,,,WILMA
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Assigned To,mleAssignedTo,,,Rob Wyszynski
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Reason for Program,mleReasProg,,,second source of YK26VF for Utica transition
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Program Type,ddlProgramType,,,New Source
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Requested By,cbReqBy,,, 
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Assigned To,mleAssignedTo,,,Doug Till
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,NA,cbRegionNA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,LA,cbRegionLA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,EMEA,cbRegionEMEA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,AP,cbRegionAP,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Buffalo / Tonawanda
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Akron,cbLabAkron,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Lux,cbLabLux,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,Kunshan,cbLabKunshan,,,0
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Reason for Program,mleReasProg,,,2016 Productivity
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Requested By,cbReqBy,,, 
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Assigned To,mleAssignedTo,,,Richard Porter
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,NA,cbRegionNA,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,LA,cbRegionLA,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,AP,cbRegionAP,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Reason for Program,mleReasProg,,,"As a part of the new Hyosung Fabric Contract, Hyosung Brazil Dip Unit is only obligated to stay open through 2015. However, now that Titan has their own calendar and will be purchasing dipped fabric from alternative suppliers, they will no longer be running their volume through the Hyosung dip unit. So Goodyear has agreed to help Hyosung shut down the Americana dip unit before the end of 2015¿they are targeting to close it down the end of 2014, but we are still discussing timing that Goodyear can commit to with them. We must approve alternative suppliers for fully dipped fabric to Americana plant as quickly as possible.  Program Value: Contractual Obligation; Security of Supply"
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Program Type,ddlProgramType,,,New Source
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Requested By,cbReqBy,,, 
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Assigned To,mleAssignedTo,,,Taylor Niehaus
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,NA,cbRegionNA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,LA,cbRegionLA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,EMEA,cbRegionEMEA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,AP,cbRegionAP,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Americana
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Akron,cbLabAkron,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Lux,cbLabLux,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Reason for Program,mleReasProg,,,"Introducing Kordsa Izmit Z01N (1400dtex) Yarn Source Change approval at Hyosung Lux for security of supply as PHP G09N yarn deliveries to EU (Hyosung Lux and Glanzstoff) are not secured in Q1 at minimum.  Z01N yarn from Kordsa Izmit is known yarn used in BN32 from Hyosung Lux RCCE, PL, SV, SLP  Move from PHP to Kordsa will creates a savings of 5.32 - 5.22 EUR/kg = 0,10 EUR/kg  Volume to Hanau = 250mt/year  Generating 25k USD/yr head wind mitigation"
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Program Type,ddlProgramType,,,New Source
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Requested By,cbReqBy,,, 
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Assigned To,mleAssignedTo,,,Thiago Martins Amaral
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,NA,cbRegionNA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,LA,cbRegionLA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,EMEA,cbRegionEMEA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,AP,cbRegionAP,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,RCCE
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Akron,cbLabAkron,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Lux,cbLabLux,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Reason for Program,mleReasProg,,,"add WY capacity from our supply base as goodyear demand and growth exceeds installed capacity.  adding Kiswire to our pool of approved supplier will help secure supply.  Additionnally, intent is to allocate min 50% of the lane and estimated productivity is 240k$ for approx 920mt."
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Requested By,cbReqBy,,, 
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Assigned To,mleAssignedTo,,,Julie Vanderhaeghen
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,NA,cbRegionNA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,LA,cbRegionLA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,EMEA,cbRegionEMEA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,AP,cbRegionAP,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Sava
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Akron,cbLabAkron,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Lux,cbLabLux,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Reason for Program,mleReasProg,,,"Procurement would like to introduce KISWIRE Malaysia for FR at Goodyear Danville with 30% allocation for 2021. Nowadays, KIswire is already sourcing 30% of FR to GY Danville but the FR (F510FR) is manufactured at KISWIRE plant in Korea (ALB - Kiswire - CHang Won Korea)."
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Program Type,ddlProgramType,,,New Source
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Requested By,cbReqBy,,, 
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Assigned To,mleAssignedTo,,,Matthew Hecht
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,NA,cbRegionNA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,LA,cbRegionLA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,EMEA,cbRegionEMEA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,AP,cbRegionAP,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,Danville
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Akron,cbLabAkron,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Lux,cbLabLux,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,Program Info,,,ieSAPStatusCode,,,ZZ
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Reason for Program,mleReasProg,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Program Type,ddlProgramType,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Requested By,cbReqBy,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Assigned To,mleAssignedTo,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,NA,cbRegionNA,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,LA,cbRegionLA,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,EMEA,cbRegionEMEA,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,AP,cbRegionAP,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Akron,cbLabAkron,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Lux,cbLabLux,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,Kunshan,cbLabKunshan,,,0
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Reason for Program,mleReasProg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Program Type,ddlProgramType,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Requested By,cbReqBy,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Assigned To,mleAssignedTo,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,NA,cbRegionNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,LA,cbRegionLA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,AP,cbRegionAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Akron,cbLabAkron,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Lux,cbLabLux,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Reason for Program,mleReasProg,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Program Type,ddlProgramType,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Requested By,cbReqBy,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Assigned To,mleAssignedTo,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,NA,cbRegionNA,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,LA,cbRegionLA,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,EMEA,cbRegionEMEA,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,AP,cbRegionAP,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Akron,cbLabAkron,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Lux,cbLabLux,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Reason for Program,mleReasProg,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Program Type,ddlProgramType,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Requested By,cbReqBy,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Assigned To,mleAssignedTo,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,NA,cbRegionNA,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,LA,cbRegionLA,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,AP,cbRegionAP,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Reason for Program,mleReasProg,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Program Type,ddlProgramType,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Requested By,cbReqBy,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Assigned To,mleAssignedTo,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,NA,cbRegionNA,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,LA,cbRegionLA,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,EMEA,cbRegionEMEA,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,AP,cbRegionAP,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Akron,cbLabAkron,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Lux,cbLabLux,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Reason for Program,mleReasProg,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Program Type,ddlProgramType,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Requested By,cbReqBy,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Assigned To,mleAssignedTo,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,NA,cbRegionNA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,LA,cbRegionLA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,EMEA,cbRegionEMEA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,AP,cbRegionAP,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Akron,cbLabAkron,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Lux,cbLabLux,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Reason for Program,mleReasProg,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Program Type,ddlProgramType,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Requested By,cbReqBy,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Assigned To,mleAssignedTo,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,NA,cbRegionNA,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,LA,cbRegionLA,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,EMEA,cbRegionEMEA,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,AP,cbRegionAP,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Akron,cbLabAkron,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Lux,cbLabLux,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,Program Info,,,ieSAPStatusCode,,,ZZ
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Reason for Program,mleReasProg,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Program Type,ddlProgramType,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Requested By,cbReqBy,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Assigned To,mleAssignedTo,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,NA,cbRegionNA,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,LA,cbRegionLA,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,EMEA,cbRegionEMEA,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,AP,cbRegionAP,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Akron,cbLabAkron,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Lux,cbLabLux,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,Kunshan,cbLabKunshan,,,0
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Reason for Program,mleReasProg,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Program Type,ddlProgramType,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Requested By,cbReqBy,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Assigned To,mleAssignedTo,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,NA,cbRegionNA,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,LA,cbRegionLA,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,AP,cbRegionAP,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Reason for Program,mleReasProg,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Program Type,ddlProgramType,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Requested By,cbReqBy,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Assigned To,mleAssignedTo,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,NA,cbRegionNA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,LA,cbRegionLA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,EMEA,cbRegionEMEA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,AP,cbRegionAP,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Akron,cbLabAkron,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Lux,cbLabLux,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,Kunshan,cbLabKunshan,,,0
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,Program Info,,,ieSAPStatusCode,,,ZZ
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Reason for Program,mleReasProg,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Program Type,ddlProgramType,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Requested By,cbReqBy,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Assigned To,mleAssignedTo,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,NA,cbRegionNA,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,LA,cbRegionLA,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,EMEA,cbRegionEMEA,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,AP,cbRegionAP,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Akron,cbLabAkron,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Lux,cbLabLux,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,Kunshan,cbLabKunshan,,,0
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,Program Info,,,ieSAPStatusCode,,,ZZ
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Reason for Program,mleReasProg,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Program Type,ddlProgramType,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Requested By,cbReqBy,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Assigned To,mleAssignedTo,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,NA,cbRegionNA,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,LA,cbRegionLA,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,EMEA,cbRegionEMEA,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,AP,cbRegionAP,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Akron,cbLabAkron,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Lux,cbLabLux,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,Kunshan,cbLabKunshan,,,0
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,Program Info,,,ieSAPStatusCode,,,ZZ
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Reason for Program,mleReasProg,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Program Type,ddlProgramType,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Requested By,cbReqBy,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Assigned To,mleAssignedTo,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,NA,cbRegionNA,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,LA,cbRegionLA,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,AP,cbRegionAP,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Akron,cbLabAkron,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Lux,cbLabLux,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Reason for Program,mleReasProg,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Program Type,ddlProgramType,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Requested By,cbReqBy,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Assigned To,mleAssignedTo,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,NA,cbRegionNA,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,LA,cbRegionLA,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,AP,cbRegionAP,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Akron,cbLabAkron,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Lux,cbLabLux,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Reason for Program,mleReasProg,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Program Type,ddlProgramType,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Requested By,cbReqBy,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Assigned To,mleAssignedTo,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,NA,cbRegionNA,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,LA,cbRegionLA,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,EMEA,cbRegionEMEA,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,AP,cbRegionAP,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Akron,cbLabAkron,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Lux,cbLabLux,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,Kunshan,cbLabKunshan,,,0
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,Program Info,,,ieSAPStatusCode,,,ZZ
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Reason for Program,mleReasProg,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Program Type,ddlProgramType,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Requested By,cbReqBy,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Assigned To,mleAssignedTo,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,NA,cbRegionNA,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,LA,cbRegionLA,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,EMEA,cbRegionEMEA,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,AP,cbRegionAP,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Akron,cbLabAkron,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Lux,cbLabLux,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,Kunshan,cbLabKunshan,,,0
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,Program Info,,,ieSAPStatusCode,,,ZZ
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Reason for Program,mleReasProg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Program Type,ddlProgramType,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Requested By,cbReqBy,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Assigned To,mleAssignedTo,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,NA,cbRegionNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,LA,cbRegionLA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,EMEA,cbRegionEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,AP,cbRegionAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Akron,cbLabAkron,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Lux,cbLabLux,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,Kunshan,cbLabKunshan,,,0
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,Program Info,,,ieSAPStatusCode,,,ZZ
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Reason for Program,mleReasProg,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Program Type,ddlProgramType,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Requested By,cbReqBy,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Assigned To,mleAssignedTo,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,NA,cbRegionNA,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,LA,cbRegionLA,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,EMEA,cbRegionEMEA,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,AP,cbRegionAP,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Akron,cbLabAkron,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Lux,cbLabLux,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,Kunshan,cbLabKunshan,,,0
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,Program Info,,,ieSAPStatusCode,,,ZZ
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Reason for Program,mleReasProg,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Program Type,ddlProgramType,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Requested By,cbReqBy,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Assigned To,mleAssignedTo,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,NA,cbRegionNA,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,LA,cbRegionLA,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,EMEA,cbRegionEMEA,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,AP,cbRegionAP,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Akron,cbLabAkron,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Lux,cbLabLux,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,Kunshan,cbLabKunshan,,,0
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,Program Info,,,ieSAPStatusCode,,,ZZ
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Reason for Program,mleReasProg,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Program Type,ddlProgramType,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Requested By,cbReqBy,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Assigned To,mleAssignedTo,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,NA,cbRegionNA,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,LA,cbRegionLA,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,EMEA,cbRegionEMEA,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,AP,cbRegionAP,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Akron,cbLabAkron,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Lux,cbLabLux,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,Kunshan,cbLabKunshan,,,0
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,Program Info,,,ieSAPStatusCode,,,ZZ
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Reason for Program,mleReasProg,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Program Type,ddlProgramType,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Requested By,cbReqBy,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Assigned To,mleAssignedTo,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,NA,cbRegionNA,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,LA,cbRegionLA,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,EMEA,cbRegionEMEA,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,AP,cbRegionAP,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Akron,cbLabAkron,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Lux,cbLabLux,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,Kunshan,cbLabKunshan,,,0
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Reason for Program,mleReasProg,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Program Type,ddlProgramType,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Requested By,cbReqBy,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Assigned To,mleAssignedTo,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,NA,cbRegionNA,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,LA,cbRegionLA,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,EMEA,cbRegionEMEA,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,AP,cbRegionAP,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Akron,cbLabAkron,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Lux,cbLabLux,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,Kunshan,cbLabKunshan,,,0
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,Program Info,,,ieSAPStatusCode,,,ZZ
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Reason for Program,mleReasProg,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Program Type,ddlProgramType,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Requested By,cbReqBy,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Assigned To,mleAssignedTo,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,NA,cbRegionNA,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,LA,cbRegionLA,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,EMEA,cbRegionEMEA,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,AP,cbRegionAP,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Akron,cbLabAkron,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Lux,cbLabLux,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,Kunshan,cbLabKunshan,,,0
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,Program Info,,,ieSAPStatusCode,,,ZZ
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Reason for Program,mleReasProg,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Program Type,ddlProgramType,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Requested By,cbReqBy,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Assigned To,mleAssignedTo,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,NA,cbRegionNA,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,LA,cbRegionLA,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,EMEA,cbRegionEMEA,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Cooper Americas,cbRegionCooperNA,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,AP,cbRegionAP,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Cooper EMEA,cbRegionCooperEMEA,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Cooper AP,cbRegionCooperAP,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Proposed Plant for Trial,cbProposedPlant,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Akron,cbLabAkron,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Lux,cbLabLux,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,Kunshan,cbLabKunshan,,,0
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,EHS Approval Region (hidden),efEHSApprovalReg,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,SAP Status,ddlSAPStatusDesc,,,See base specification
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,Program Info,,,ieSAPStatusCode,,,ZZ

@@ -1,0 +1,442 @@
+SP_VALUE,SP_VERSION,CONTEXT,SP_KEY1,SP_KEY2,SP_KEY3,SP_KEY4,SP_KEY5,IC_CAPTION,IC_ORDER,II_CAPTION,IE_SHORT_DESC,IE_VERSION,II_ORDER,IIVALUE
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,Topeka
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFFP,1,Supplier,KISWIRE,CHANGWON,,,F501FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFP,1,Supplier,BEKAERT,SHENYANG BSAP,,,BL01FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,JIANGSU XINGDA,PLANT 2 - XING HUA,,,401CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C401FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,BEKAERT,JIANGYIN,,,028CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFRW31SH,1,Supplier,INDORAMA VENTURES MOBILITY,LUXEMBOURG,INDORAMA VENTURES MOBILITY,LUXEMBOURG,Q09RW31SH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,BEKAERT,SLADKOVICOVO,,,027CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFQC32PF,1,Supplier,KORDSA,IZMIT,,,Z05QC32PF,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,KISWIRE,CZECH REPUBLIC,,,248CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,262CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,"
+Nippon Giant"
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,SHANDONG SNTON,SHANDONG,,,421CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,411CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, LA, NA"
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,C403FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,AP
+RFCH,1,Supplier,SHANDONG DAYE CO. LTD,SHANDONG XINXING INDUSTRIAL PARK,,,431CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,AP
+RFCH,1,Supplier,KISWIRE,RONGCHENG CITY,,,252CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFP,1,Supplier,HYOSUNG CORPORATION,DONG NAI - STEELCORD,,,C402FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,BEKAERT,ITAUNA - BRAZIL (BEAD WIRE),,,029CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,KISWIRE,Pine Bluff,,,247CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,KERN,TRINEC - KONSKA,,,391CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,AP
+RFLC16SD,1,Supplier,JUNMA,ZHANGJIAGANG,,,U08LC16SD,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,KISWIRE,QINGDAO,,,246CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,NATIONAL STANDARD,STILLWATER,,,142CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFCH,1,Supplier,KISWIRE,NEWBERRY,,,243CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFCH,1,Supplier,BMZ,MICORD,,,312CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"LA, NA"
+RFNT26QA,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,720NT26QA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,BEKAERT,ROME,,,022CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFCH,1,Supplier,TRAFILERIE MERIDIONALI,CHIETI SCALO,,,201CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFCH,1,Supplier,KISWIRE,HONG DUK,,,242CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFCH,1,Supplier,BEKAERT,IZMIT,,,023CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFCH,1,Supplier,BEKAERT,BRAZIL,,,091CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFS01Q,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HSP-40,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFE09A,1,Supplier,DUPONT,MAYDOWN,,,950,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFQ09R,1,Supplier,INDORAMA VENTURES MOBILITY,LOVOSICE,,,Rayon 1220 dtex super II,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFS03N,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,HND-20,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFP,1,Supplier,HYOSUNG CORPORATION,EONYANG,,,C101FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFTQ26HF,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,TQ26HF,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, LA, NA"
+RFFP,1,Supplier,JIAXING EASTERN,TENGZHOU EASTERN STEEL CORD CO. LTD,,,Y201FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFM14LP19JA,1,Supplier,DURAFIBER,QUERETARO,,,LP19JA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFZ01NG30GA,1,Supplier,HYOSUNG CORPORATION,LISA,,,G09NG30GA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFA01WY,1,Supplier,KISWIRE,SZENTGOTTHARD,,,FA01WY,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,,mlePlantMatProh,,,
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFC01FR,1,Supplier,KISWIRE,MALAYSIA,,,FC01FR,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFTEST1,1,Supplier,GOODYEAR TIRE AND RUBBER,AKRON,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,PPG INDUSTRIES,TOLL-ORIENTAL SILICA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,IND QUIMICAS BORDA CAMPO,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,COSMOQUIMICA,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,INDUSTRIA QUIMICA ELECTRO CLORO,BRAZIL,HERZOG,UNSPECIFIED,FLAKED CAUSTIC SODA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,DIAMOND SHAMROCK CHEMICAL,UNSPECIFIED,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,AFRICAN EXPLOSIVES AND CHEMICAL,SOUTH AFRICA,SCHAUDER AND SONS,UNSPECIFIED,CAUSTIC SODA FLAKES,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,CANADA COLORS,TORONTO,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,CANADIAN INDUSTRIES,CANADA,NICHOLS CHEMICAL,CANADA,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,"ALLIED CHEMICAL, SOLVAY",BRUSSELS,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,BILLARPUR,INDIA,,,UNSPECIFIED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,AP
+RFU07L,1,Supplier,JUNMA,ZHANGJIAGANG,,,U07L,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Agent Approval Review,5,NA,cbRegionNA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Agent Approval Review,5,LA,cbRegionLA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Agent Approval Review,5,EMEA,cbRegionEMEA,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Agent Approval Review,5,AP,cbRegionAP,,,1
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFJOAX_FDC,7,Supplier,INDUSTRIAS QUIMICAS DEL ISTMO,MEXICO,ESPECIALIDADES,MEXICO,SOSA CAUSTICA EN ECOMAS,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFQC32PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QC32PF,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFFP,1,Supplier,PIRELLI,FIGLINE,,,P101FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFQU26PF,1,Supplier,HYOSUNG CORPORATION,LISA,,,QU26PF,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFQV28,1,Supplier,HYOSUNG CORPORATION,DONG NAI,,,QV28,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFCH,1,Supplier,NAT STAN,UITENHAGE,,,145CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFQV28,1,Supplier,KORDSA,CAMACARI,,,QV28,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"EMEA, NA"
+RFC17GAZ,1,Supplier,NGF,GUELPH - ON,,,C17GAZ,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA, NA"
+RFFP,1,Supplier,BEKAERT,AALTER,,,B101FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFQV28,1,Supplier,HYOSUNG CORPORATION,ULSAN,,,QV28,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RF40HK2B,1,Supplier,OTTO KUHLMANN,HEMER GERMANY,,,RF40HK2B,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFNJ27JF,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,NJ27JF,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFNT30UA,1,Supplier,HYOSUNG CORPORATION,LISA,,,NT30UA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFLV19JA,1,Supplier,HYOSUNG CORPORATION,AMERICANA,,,LV19JA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFNC16KR,1,Supplier,HYOSUNG CORPORATION,UTICA,,,NC16KR,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RF9496,1,Supplier,FRONTIER SPINNING MILLS,SANDFORD,,,FILL,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFFP,1,Supplier,HYOSUNG CORPORATION,ASHEBORO,,,C201FP,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFB05L,1,Supplier,KORDSA,BA,,,400-5,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,AP
+RFLH23MA,1,Supplier,SRF,MANALI,,,LH23MA,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFJ35ZS,1,Supplier,NGF,GUELPH - ON,,,G30-500,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFP01L,1,Supplier,GRODNO KHIMVOLOKNO,GRODNO,,,POLYAMIDE STABILIZED,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFCH,1,Supplier,BEKAERT,CLARKSDALE,,,041CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFCH,1,Supplier,BMZ,MICORD,,,311CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,LA
+RFCH,1,Supplier,EMCOCABLES,BOGOTA,,,051CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFCH,1,Supplier,GUSTAV WOLF,GUTERSLOH,,,071CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,7,LA,cbRegionLA,,,1
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA, LA"
+RFCH,1,Supplier,BEKAERT,AALTER,,,021CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFCH,1,Supplier,SCAW METALS,JOHANNESBURG,,,271CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,GPS Full Supplier Approval Review,7,AP,cbRegionAP,,,1
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,"AP, EMEA"
+RFCH,1,Supplier,CELIK HALAT,IZMIT,,,031CH,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,GPS Full Supplier Approval Review,7,EMEA,cbRegionEMEA,,,1
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,EMEA
+RFF07Q,1,Supplier,INDORAMA VENTURES MOBILITY (Performance Fibers),"LONGLAVILLE,   FRANCE ",,,1x53,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,GPS Full Supplier Approval Review,7,NA,cbRegionNA,,,1
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,GPS Full Supplier Approval Review,7,SOS Appr. Reg. for Layout,efSOSApprovalReg,,,NA
+RFKC15JR,1,Supplier,HYOSUNG CORPORATION,DECATUR,,,KC15JR,GPS Full Supplier Approval Review,7,Full Approval Prefix Code (hidden),efFullAppCode,,,

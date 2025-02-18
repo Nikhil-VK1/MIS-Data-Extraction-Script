@@ -41629,749 +41629,749 @@ H412 Harmful to aquatic life with long lasting effects."
 34332,146417,41501,209,TAIW,Taiwan,IND,"Product is an article, Not hazardous according to CIRF at the time of approval."
 34333,146417,41501,210,SOAF,South Africa,THAI,"Product is an article, Not hazardous according to CIRF at the time of approval."
 34334,146417,41501,211,JAP,Japan,IECSA,"Product is an article, Not hazardous according to CIRF at the time of approval."
-34335,146419,41502,90,MSDS,MSDS Requirement,MSDS,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34336,146419,41502,91,TSCA,TSCA Certificate,TSCA,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34337,146419,41502,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34338,146419,41502,109,CEPA,Canadian Environmental Protection Act,,
-34339,146419,41502,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34340,146419,41502,111,ELINCS,European REACH,CEPAN,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34341,146419,41502,112,AICS,Australian Inventory of chemical Substances,ELINCS,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34342,134888,35921,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34343,134888,35921,109,CEPA,Canadian Environmental Protection Act,,
-34344,134888,35921,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,not all on DSL
-34345,134888,35921,111,ELINCS,European REACH,CEPAN,some on NDSL
-34346,134888,35921,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34347,134888,35921,113,ENCS,Japanese Existing and New Chemical substances,EINECS,EU supplier
-34348,134888,35921,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34349,134888,35921,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34350,134888,35921,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34351,134888,35921,117,NZTSD,New Zealand Toxic Substances Database,,
-34352,134888,35921,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34353,134888,35921,203,ISHL,Japanese Industrial Safety and Health Law,,
-34354,134888,35921,204,KKDIK,Turkey REACH compliance check completed,,per CIRF and insight
-34355,134888,35921,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34356,141320,37121,90,MSDS,MSDS Requirement,MSDS,
-34357,141320,37121,91,TSCA,TSCA Certificate,TSCA,
-34358,141320,37121,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34359,141320,37121,109,CEPA,Canadian Environmental Protection Act,,
-34360,141320,37121,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34361,141320,37121,111,ELINCS,European REACH,CEPAN,
-34362,141320,37121,112,AICS,Australian Inventory of chemical Substances,ELINCS,registered
-34363,141320,37121,113,ENCS,Japanese Existing and New Chemical substances,EINECS,registered
-34364,141320,37121,114,ECL,Korean Existing Chemicals Inventory,KKDIK,registered
-34365,141320,37121,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34366,141320,37121,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34367,141320,37121,117,NZTSD,New Zealand Toxic Substances Database,,
-34368,141320,37121,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34369,141320,37121,203,ISHL,Japanese Industrial Safety and Health Law,,
-34370,116572,34101,90,MSDS,MSDS Requirement,MSDS,SDS in pre approval
-34371,116572,34101,91,TSCA,TSCA Certificate,TSCA,per CIRF
-34372,116572,34101,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34373,116572,34101,109,CEPA,Canadian Environmental Protection Act,,per CIRF
-34374,116572,34101,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34375,116572,34101,111,ELINCS,European REACH,CEPAN,
-34376,116572,34101,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34377,116572,34101,113,ENCS,Japanese Existing and New Chemical substances,EINECS,did not provide reach information 
-34378,116572,34101,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34379,116572,34101,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34380,116572,34101,116,CLECS,Chinese List of Existing Chemical substances,SOAF,not approved for Japan
-34381,116572,34101,117,NZTSD,New Zealand Toxic Substances Database,,
-34382,116572,34101,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34383,116572,34101,203,ISHL,Japanese Industrial Safety and Health Law,,
-34384,116572,34101,204,KKDIK,Turkey REACH compliance check completed,,
-34385,116572,34101,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34386,141320,37121,204,KKDIK,Turkey REACH compliance check completed,,
-34387,141320,37121,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34388,139629,37221,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34389,139629,37221,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34390,139629,37221,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34391,139629,37221,109,CEPA,Canadian Environmental Protection Act,,
-34392,139629,37221,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34393,139629,37221,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34394,139629,37221,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34395,139629,37221,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34396,139629,37221,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34397,139629,37221,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34398,139629,37221,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34399,139629,37221,117,NZTSD,New Zealand Toxic Substances Database,,
-34400,139629,37221,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34401,139629,37221,203,ISHL,Japanese Industrial Safety and Health Law,,
-34402,139629,37221,204,KKDIK,Turkey REACH compliance check completed,,
-34403,139629,37221,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34404,139629,37221,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34405,139629,37221,207,IND,Indonesia,,
-34406,139629,37221,208,THAI,Thailand,,
-34407,139629,37221,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34408,139629,37221,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34409,139629,37221,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34410,141320,37121,206,SERB,Serbia,JAPAN,
-34411,141320,37121,207,IND,Indonesia,,
-34412,141320,37121,208,THAI,Thailand,,
-34413,141320,37121,209,TAIW,Taiwan,IND,
-34414,141320,37121,210,SOAF,South Africa,THAI,
-34415,141320,37121,211,JAP,Japan,IECSA,
-34416,139628,37222,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34417,139628,37222,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34418,139628,37222,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34419,139628,37222,109,CEPA,Canadian Environmental Protection Act,,
-34420,139628,37222,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34421,139628,37222,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34422,139628,37222,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34423,139628,37222,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34424,139628,37222,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34425,139628,37222,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34426,139628,37222,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34427,139628,37222,117,NZTSD,New Zealand Toxic Substances Database,,
-34428,139628,37222,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34429,139628,37222,203,ISHL,Japanese Industrial Safety and Health Law,,
-34430,139628,37222,204,KKDIK,Turkey REACH compliance check completed,,
-34431,139628,37222,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34432,139628,37222,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34433,139628,37222,207,IND,Indonesia,,
-34434,139628,37222,208,THAI,Thailand,,
-34435,139628,37222,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34436,139628,37222,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34437,139912,36601,90,MSDS,MSDS Requirement,MSDS,
-34438,139912,36601,91,TSCA,TSCA Certificate,TSCA,
-34439,139912,36601,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34440,139912,36601,109,CEPA,Canadian Environmental Protection Act,,
-34441,139912,36601,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34442,139912,36601,111,ELINCS,European REACH,CEPAN,
-34443,139912,36601,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34444,139912,36601,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34445,139912,36601,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34446,139912,36601,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34447,139912,36601,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34448,139912,36601,117,NZTSD,New Zealand Toxic Substances Database,,
-34449,139912,36601,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34450,139912,36601,203,ISHL,Japanese Industrial Safety and Health Law,,
-34451,139912,36601,204,KKDIK,Turkey REACH compliance check completed,,
-34452,139912,36601,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34453,139912,36601,206,SERB,Serbia,JAPAN,
-34454,139912,36601,207,IND,Indonesia,,
-34455,139912,36601,208,THAI,Thailand,,
-34456,139912,36601,209,TAIW,Taiwan,IND,
-34457,139912,36601,210,SOAF,South Africa,THAI,
-34458,139912,36601,211,JAP,Japan,IECSA,
-34459,145607,40381,90,MSDS,MSDS Requirement,MSDS,"Combustible liquid - H316, H322 Prolonged or repeated skin contact with the material will remove natural oils and could lead to dermatitis"
-34460,145607,40381,91,TSCA,TSCA Certificate,TSCA,Listed per 3E
-34461,145607,40381,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34462,145607,40381,109,CEPA,Canadian Environmental Protection Act,,
-34463,145607,40381,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Listed per 3E
-34464,145607,40381,111,ELINCS,European REACH,CEPAN,Listed per 3E
-34465,145607,40381,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34466,145607,40381,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34467,145607,40381,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34468,145607,40381,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34469,145607,40381,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34470,145607,40381,117,NZTSD,New Zealand Toxic Substances Database,,
-34471,145607,40381,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,restrict Japan - per 3E
-34472,145607,40381,203,ISHL,Japanese Industrial Safety and Health Law,,
-34473,145607,40381,204,KKDIK,Turkey REACH compliance check completed,,
-34474,145607,40381,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,restrict Japan - per 3E
-34475,145607,40381,206,SERB,Serbia,JAPAN,restrict Japan - per 3E
-34476,145607,40381,207,IND,Indonesia,,
-34477,145607,40381,208,THAI,Thailand,,
-34478,145607,40381,209,TAIW,Taiwan,IND,per 3E
-34479,145607,40381,210,SOAF,South Africa,THAI,per 3E
-34480,145607,40381,211,JAP,Japan,IECSA,per 3E
-34481,145311,40121,90,MSDS,MSDS Requirement,MSDS,OK - filling in for Vicki while on vacation 
-34482,145311,40121,91,TSCA,TSCA Certificate,TSCA,OK - filling in for Vicki while on vacation 
-34483,145311,40121,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34484,145311,40121,109,CEPA,Canadian Environmental Protection Act,,
-34485,145311,40121,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,OK - filling in for Vicki while on vacation 
-34486,145311,40121,111,ELINCS,European REACH,CEPAN,OK - filling in for Vicki while on vacation 
-34487,145311,40121,112,AICS,Australian Inventory of chemical Substances,ELINCS,OK - filling in for Vicki while on vacation 
-34488,145311,40121,113,ENCS,Japanese Existing and New Chemical substances,EINECS,OK - filling in for Vicki while on vacation 
-34489,145311,40121,114,ECL,Korean Existing Chemicals Inventory,KKDIK,OK - filling in for Vicki while on vacation 
-34490,145311,40121,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,OK - filling in for Vicki while on vacation 
-34491,145311,40121,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK - filling in for Vicki while on vacation 
-34492,145311,40121,117,NZTSD,New Zealand Toxic Substances Database,,
-34493,145311,40121,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,OK - filling in for Vicki while on vacation 
-34494,145311,40121,203,ISHL,Japanese Industrial Safety and Health Law,,
-34495,145311,40121,204,KKDIK,Turkey REACH compliance check completed,,
-34496,145311,40121,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,OK - filling in for Vicki while on vacation 
-34497,145311,40121,206,SERB,Serbia,JAPAN,OK - filling in for Vicki while on vacation 
-34498,145311,40121,207,IND,Indonesia,,
-34499,145311,40121,208,THAI,Thailand,,
-34500,145311,40121,209,TAIW,Taiwan,IND,OK - filling in for Vicki while on vacation 
-34501,145311,40121,210,SOAF,South Africa,THAI,OK - filling in for Vicki while on vacation 
-34502,145311,40121,211,JAP,Japan,IECSA,OK - filling in for Vicki while on vacation 
-34503,145680,40421,90,MSDS,MSDS Requirement,MSDS,"GHS05
+34335,134888,35921,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34336,134888,35921,109,CEPA,Canadian Environmental Protection Act,,
+34337,134888,35921,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,not all on DSL
+34338,134888,35921,111,ELINCS,European REACH,CEPAN,some on NDSL
+34339,134888,35921,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34340,134888,35921,113,ENCS,Japanese Existing and New Chemical substances,EINECS,EU supplier
+34341,134888,35921,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34342,134888,35921,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34343,134888,35921,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34344,134888,35921,117,NZTSD,New Zealand Toxic Substances Database,,
+34345,134888,35921,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34346,134888,35921,203,ISHL,Japanese Industrial Safety and Health Law,,
+34347,134888,35921,204,KKDIK,Turkey REACH compliance check completed,,per CIRF and insight
+34348,134888,35921,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34349,141320,37121,90,MSDS,MSDS Requirement,MSDS,
+34350,141320,37121,91,TSCA,TSCA Certificate,TSCA,
+34351,141320,37121,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34352,141320,37121,109,CEPA,Canadian Environmental Protection Act,,
+34353,141320,37121,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34354,141320,37121,111,ELINCS,European REACH,CEPAN,
+34355,141320,37121,112,AICS,Australian Inventory of chemical Substances,ELINCS,registered
+34356,141320,37121,113,ENCS,Japanese Existing and New Chemical substances,EINECS,registered
+34357,141320,37121,114,ECL,Korean Existing Chemicals Inventory,KKDIK,registered
+34358,141320,37121,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34359,141320,37121,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34360,141320,37121,117,NZTSD,New Zealand Toxic Substances Database,,
+34361,141320,37121,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34362,141320,37121,203,ISHL,Japanese Industrial Safety and Health Law,,
+34363,116572,34101,90,MSDS,MSDS Requirement,MSDS,SDS in pre approval
+34364,116572,34101,91,TSCA,TSCA Certificate,TSCA,per CIRF
+34365,116572,34101,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34366,116572,34101,109,CEPA,Canadian Environmental Protection Act,,per CIRF
+34367,116572,34101,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34368,116572,34101,111,ELINCS,European REACH,CEPAN,
+34369,116572,34101,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34370,116572,34101,113,ENCS,Japanese Existing and New Chemical substances,EINECS,did not provide reach information 
+34371,116572,34101,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34372,116572,34101,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34373,116572,34101,116,CLECS,Chinese List of Existing Chemical substances,SOAF,not approved for Japan
+34374,116572,34101,117,NZTSD,New Zealand Toxic Substances Database,,
+34375,116572,34101,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34376,116572,34101,203,ISHL,Japanese Industrial Safety and Health Law,,
+34377,116572,34101,204,KKDIK,Turkey REACH compliance check completed,,
+34378,116572,34101,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34379,141320,37121,204,KKDIK,Turkey REACH compliance check completed,,
+34380,141320,37121,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34381,139629,37221,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34382,139629,37221,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34383,139629,37221,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34384,139629,37221,109,CEPA,Canadian Environmental Protection Act,,
+34385,139629,37221,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34386,139629,37221,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34387,139629,37221,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34388,139629,37221,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34389,139629,37221,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34390,139629,37221,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34391,139629,37221,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34392,139629,37221,117,NZTSD,New Zealand Toxic Substances Database,,
+34393,139629,37221,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34394,139629,37221,203,ISHL,Japanese Industrial Safety and Health Law,,
+34395,139629,37221,204,KKDIK,Turkey REACH compliance check completed,,
+34396,139629,37221,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34397,139629,37221,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34398,139629,37221,207,IND,Indonesia,,
+34399,139629,37221,208,THAI,Thailand,,
+34400,139629,37221,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34401,139629,37221,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34402,139629,37221,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34403,141320,37121,206,SERB,Serbia,JAPAN,
+34404,141320,37121,207,IND,Indonesia,,
+34405,141320,37121,208,THAI,Thailand,,
+34406,141320,37121,209,TAIW,Taiwan,IND,
+34407,141320,37121,210,SOAF,South Africa,THAI,
+34408,141320,37121,211,JAP,Japan,IECSA,
+34409,139628,37222,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34410,139628,37222,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34411,139628,37222,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34412,139628,37222,109,CEPA,Canadian Environmental Protection Act,,
+34413,139628,37222,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34414,139628,37222,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34415,139628,37222,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34416,139628,37222,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34417,139628,37222,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34418,139628,37222,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34419,139628,37222,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34420,139628,37222,117,NZTSD,New Zealand Toxic Substances Database,,
+34421,139628,37222,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34422,139628,37222,203,ISHL,Japanese Industrial Safety and Health Law,,
+34423,139628,37222,204,KKDIK,Turkey REACH compliance check completed,,
+34424,139628,37222,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34425,139628,37222,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34426,139628,37222,207,IND,Indonesia,,
+34427,139628,37222,208,THAI,Thailand,,
+34428,139628,37222,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34429,139628,37222,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34430,139912,36601,90,MSDS,MSDS Requirement,MSDS,
+34431,139912,36601,91,TSCA,TSCA Certificate,TSCA,
+34432,139912,36601,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34433,139912,36601,109,CEPA,Canadian Environmental Protection Act,,
+34434,139912,36601,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34435,139912,36601,111,ELINCS,European REACH,CEPAN,
+34436,139912,36601,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34437,139912,36601,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34438,139912,36601,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34439,139912,36601,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34440,139912,36601,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34441,139912,36601,117,NZTSD,New Zealand Toxic Substances Database,,
+34442,139912,36601,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34443,139912,36601,203,ISHL,Japanese Industrial Safety and Health Law,,
+34444,139912,36601,204,KKDIK,Turkey REACH compliance check completed,,
+34445,139912,36601,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34446,139912,36601,206,SERB,Serbia,JAPAN,
+34447,139912,36601,207,IND,Indonesia,,
+34448,139912,36601,208,THAI,Thailand,,
+34449,139912,36601,209,TAIW,Taiwan,IND,
+34450,139912,36601,210,SOAF,South Africa,THAI,
+34451,139912,36601,211,JAP,Japan,IECSA,
+34452,145607,40381,90,MSDS,MSDS Requirement,MSDS,"Combustible liquid - H316, H322 Prolonged or repeated skin contact with the material will remove natural oils and could lead to dermatitis"
+34453,145607,40381,91,TSCA,TSCA Certificate,TSCA,Listed per 3E
+34454,145607,40381,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34455,145607,40381,109,CEPA,Canadian Environmental Protection Act,,
+34456,145607,40381,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Listed per 3E
+34457,145607,40381,111,ELINCS,European REACH,CEPAN,Listed per 3E
+34458,145607,40381,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34459,145607,40381,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34460,145607,40381,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34461,145607,40381,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34462,145607,40381,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34463,145607,40381,117,NZTSD,New Zealand Toxic Substances Database,,
+34464,145607,40381,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,restrict Japan - per 3E
+34465,145607,40381,203,ISHL,Japanese Industrial Safety and Health Law,,
+34466,145607,40381,204,KKDIK,Turkey REACH compliance check completed,,
+34467,145607,40381,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,restrict Japan - per 3E
+34468,145607,40381,206,SERB,Serbia,JAPAN,restrict Japan - per 3E
+34469,145607,40381,207,IND,Indonesia,,
+34470,145607,40381,208,THAI,Thailand,,
+34471,145607,40381,209,TAIW,Taiwan,IND,per 3E
+34472,145607,40381,210,SOAF,South Africa,THAI,per 3E
+34473,145607,40381,211,JAP,Japan,IECSA,per 3E
+34474,145311,40121,90,MSDS,MSDS Requirement,MSDS,OK - filling in for Vicki while on vacation 
+34475,145311,40121,91,TSCA,TSCA Certificate,TSCA,OK - filling in for Vicki while on vacation 
+34476,145311,40121,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34477,145311,40121,109,CEPA,Canadian Environmental Protection Act,,
+34478,145311,40121,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,OK - filling in for Vicki while on vacation 
+34479,145311,40121,111,ELINCS,European REACH,CEPAN,OK - filling in for Vicki while on vacation 
+34480,145311,40121,112,AICS,Australian Inventory of chemical Substances,ELINCS,OK - filling in for Vicki while on vacation 
+34481,145311,40121,113,ENCS,Japanese Existing and New Chemical substances,EINECS,OK - filling in for Vicki while on vacation 
+34482,145311,40121,114,ECL,Korean Existing Chemicals Inventory,KKDIK,OK - filling in for Vicki while on vacation 
+34483,145311,40121,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,OK - filling in for Vicki while on vacation 
+34484,145311,40121,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK - filling in for Vicki while on vacation 
+34485,145311,40121,117,NZTSD,New Zealand Toxic Substances Database,,
+34486,145311,40121,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,OK - filling in for Vicki while on vacation 
+34487,145311,40121,203,ISHL,Japanese Industrial Safety and Health Law,,
+34488,145311,40121,204,KKDIK,Turkey REACH compliance check completed,,
+34489,145311,40121,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,OK - filling in for Vicki while on vacation 
+34490,145311,40121,206,SERB,Serbia,JAPAN,OK - filling in for Vicki while on vacation 
+34491,145311,40121,207,IND,Indonesia,,
+34492,145311,40121,208,THAI,Thailand,,
+34493,145311,40121,209,TAIW,Taiwan,IND,OK - filling in for Vicki while on vacation 
+34494,145311,40121,210,SOAF,South Africa,THAI,OK - filling in for Vicki while on vacation 
+34495,145311,40121,211,JAP,Japan,IECSA,OK - filling in for Vicki while on vacation 
+34496,145680,40421,90,MSDS,MSDS Requirement,MSDS,"GHS05
 Eye Irrit. 1 H318 Causes serious eye damage.
 Aquatic Chronic 3 H412 Harmful to aquatic life with long lasting effects"
-34504,145680,40421,91,TSCA,TSCA Certificate,TSCA,
-34505,145680,40421,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34506,145680,40421,109,CEPA,Canadian Environmental Protection Act,,
-34507,145680,40421,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,restrict Canada
-34508,145680,40421,111,ELINCS,European REACH,CEPAN,restrict Canada
-34509,145680,40421,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34510,145680,40421,113,ENCS,Japanese Existing and New Chemical substances,EINECS,restrict UK
-34511,145680,40421,114,ECL,Korean Existing Chemicals Inventory,KKDIK,restrict Turkey
-34512,145680,40421,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34513,145680,40421,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34514,145680,40421,117,NZTSD,New Zealand Toxic Substances Database,,
-34515,145680,40421,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Restrict Japan
-34516,145680,40421,203,ISHL,Japanese Industrial Safety and Health Law,,
-34517,145680,40421,204,KKDIK,Turkey REACH compliance check completed,,
-34518,145680,40421,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Restrict Japan
-34519,145680,40421,206,SERB,Serbia,JAPAN,
-34520,145680,40421,207,IND,Indonesia,,
-34521,145680,40421,208,THAI,Thailand,,
-34522,145680,40421,209,TAIW,Taiwan,IND,
-34523,145680,40421,210,SOAF,South Africa,THAI,
-34524,145680,40421,211,JAP,Japan,IECSA,
-34525,143342,40505,90,MSDS,MSDS Requirement,MSDS,
-34526,143342,40505,91,TSCA,TSCA Certificate,TSCA,
-34527,143342,40505,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34528,143342,40505,109,CEPA,Canadian Environmental Protection Act,,
-34529,143342,40505,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34530,143342,40505,111,ELINCS,European REACH,CEPAN,
-34531,143342,40505,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34532,143342,40505,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34533,143342,40505,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34534,143342,40505,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34535,143342,40505,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34536,143342,40505,117,NZTSD,New Zealand Toxic Substances Database,,
-34537,143342,40505,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34538,143342,40505,203,ISHL,Japanese Industrial Safety and Health Law,,
-34539,143342,40505,204,KKDIK,Turkey REACH compliance check completed,,
-34540,143342,40505,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34541,143342,40505,206,SERB,Serbia,JAPAN,
-34542,143342,40505,207,IND,Indonesia,,
-34543,143342,40505,208,THAI,Thailand,,
-34544,143342,40505,209,TAIW,Taiwan,IND,
-34545,143342,40505,210,SOAF,South Africa,THAI,
-34546,143342,40505,211,JAP,Japan,IECSA,
-34547,13063,40503,90,MSDS,MSDS Requirement,MSDS,
-34548,13063,40503,91,TSCA,TSCA Certificate,TSCA,
-34549,13063,40503,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34550,13063,40503,109,CEPA,Canadian Environmental Protection Act,,
-34551,13063,40503,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34552,13063,40503,111,ELINCS,European REACH,CEPAN,
-34553,13063,40503,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34554,13063,40503,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34555,13063,40503,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34556,13063,40503,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34557,13063,40503,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34558,13063,40503,117,NZTSD,New Zealand Toxic Substances Database,,
-34559,13063,40503,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34560,13063,40503,203,ISHL,Japanese Industrial Safety and Health Law,,
-34561,13063,40503,204,KKDIK,Turkey REACH compliance check completed,,
-34562,13063,40503,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34563,13063,40503,206,SERB,Serbia,JAPAN,
-34564,143344,40506,90,MSDS,MSDS Requirement,MSDS,
-34565,143344,40506,91,TSCA,TSCA Certificate,TSCA,
-34566,143344,40506,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34567,143344,40506,109,CEPA,Canadian Environmental Protection Act,,
-34568,143344,40506,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34569,143344,40506,111,ELINCS,European REACH,CEPAN,
-34570,143344,40506,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34571,143344,40506,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34572,143344,40506,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34573,143344,40506,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34574,143344,40506,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34575,143344,40506,117,NZTSD,New Zealand Toxic Substances Database,,
-34576,97180,31241,204,KKDIK,Turkey REACH compliance check completed,,
-34577,97180,31241,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34578,97180,31241,206,SERB,Serbia,JAPAN,
-34579,97180,31241,207,IND,Indonesia,,
-34580,126255,35281,206,SERB,Serbia,JAPAN,
-34581,135826,35781,206,SERB,Serbia,JAPAN,
-34582,132414,35341,206,SERB,Serbia,JAPAN,OK Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34583,132550,35421,206,SERB,Serbia,JAPAN, OK Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34584,42842,23821,90,MSDS,MSDS Requirement,MSDS,
-34585,42842,23821,91,TSCA,TSCA Certificate,TSCA,
-34586,42842,23821,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34587,42842,23821,109,CEPA,Canadian Environmental Protection Act,,
-34588,42842,23821,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34589,42842,23821,111,ELINCS,European REACH,CEPAN,012119384822-xxxx
-34590,42842,23821,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34591,42842,23821,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34592,42842,23821,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34593,42842,23821,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34594,42842,23821,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34595,42842,23821,117,NZTSD,New Zealand Toxic Substances Database,,
-34596,42842,23821,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34597,42842,23821,203,ISHL,Japanese Industrial Safety and Health Law,,
-34598,42842,23821,204,KKDIK,Turkey REACH compliance check completed,,
-34599,42842,23821,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34600,42842,23821,206,SERB,Serbia,JAPAN,
-34601,21585,37201,90,MSDS,MSDS Requirement,MSDS,Classified as Aquatic Chronic Cat 3 
-34602,21585,37201,91,TSCA,TSCA Certificate,TSCA,Not in Scope of approval 
-34603,21585,37201,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,Not in Scope of approval 
-34604,21585,37201,109,CEPA,Canadian Environmental Protection Act,,Not in Scope of approval 
-34605,21585,37201,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34606,21585,37201,111,ELINCS,European REACH,CEPAN,
-34607,21585,37201,112,AICS,Australian Inventory of chemical Substances,ELINCS,OK for EU Approval Only - confirmed with Maurice 
-34608,21585,37201,113,ENCS,Japanese Existing and New Chemical substances,EINECS,OK for EU Approval Only - confirmed with Maurice 
-34609,21585,37201,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34610,21585,37201,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not in Scope of approval 
-34611,21585,37201,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Not in Scope of approval 
-34612,21585,37201,117,NZTSD,New Zealand Toxic Substances Database,,Not in Scope of approval 
-34613,21585,37201,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Not in Scope of approval 
-34614,21585,37201,203,ISHL,Japanese Industrial Safety and Health Law,,
-34615,21585,37201,204,KKDIK,Turkey REACH compliance check completed,,Not in Scope of approval 
-34616,21585,37201,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Not in Scope of approval 
-34617,21585,37201,206,SERB,Serbia,JAPAN,Not in Scope of approval 
-34618,142459,37581,90,MSDS,MSDS Requirement,MSDS,
-34619,142459,37581,91,TSCA,TSCA Certificate,TSCA,Listed
-34620,142459,37581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34621,142459,37581,109,CEPA,Canadian Environmental Protection Act,,
-34622,142459,37581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Listed
-34623,142459,37581,111,ELINCS,European REACH,CEPAN,No Listed
-34624,142459,37581,112,AICS,Australian Inventory of chemical Substances,ELINCS,Manufactured in Germany. 
-34625,142459,37581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,No Registration Information
-34626,142459,37581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,No Registration Information
-34627,142459,37581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not Listed
-34628,142459,37581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Not Listed
-34629,142459,37581,117,NZTSD,New Zealand Toxic Substances Database,,
-34630,142459,37581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Listed
-34631,142459,37581,203,ISHL,Japanese Industrial Safety and Health Law,,
-34632,142459,37581,204,KKDIK,Turkey REACH compliance check completed,,
-34633,142459,37581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Listed
-34634,142459,37581,206,SERB,Serbia,JAPAN,Not Listed
-34635,139598,38541,90,MSDS,MSDS Requirement,MSDS,"Business team must confirm compliance with GY Supplier Quality Manual, applicable regulatory reporting requirements, industry standards, and OE RSLs. Contains conflict minerals."
-34636,139598,38541,91,TSCA,TSCA Certificate,TSCA,ok per legal
-34637,139598,38541,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34638,139598,38541,109,CEPA,Canadian Environmental Protection Act,,
-34639,139598,38541,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,ok
-34640,139598,38541,111,ELINCS,European REACH,CEPAN,ok
-34641,139598,38541,112,AICS,Australian Inventory of chemical Substances,ELINCS,"Product contains conflict minerals, reporting required for compliance. Contains Substances of Very High Concern (SVHC), the supplier must maintain notifications to ECHA's SCIP database.  This product contains declarable substances per IAEG and GADSL"
-34642,139598,38541,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"Product contains conflict minerals, reporting required for compliance. Contains Substances of Very High Concern (SVHC), the supplier must maintain notifications to ECHA's SCIP database.  This product contains declarable substances per IAEG and GADSL"
-34643,139598,38541,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Restrict in Turkey
-34644,139598,38541,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Restrict in Serbia
-34645,139598,38541,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Restrict in South Africa
-34646,139598,38541,117,NZTSD,New Zealand Toxic Substances Database,,
-34647,139598,38541,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Restrict in AP 
-34648,139598,38541,203,ISHL,Japanese Industrial Safety and Health Law,,
-34649,139598,38541,204,KKDIK,Turkey REACH compliance check completed,,
-34650,139598,38541,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Restrict in AP
-34651,139598,38541,206,SERB,Serbia,JAPAN,Restrict in AP
-34652,139598,38541,207,IND,Indonesia,,
-34653,139598,38541,208,THAI,Thailand,,
-34654,139598,38541,209,TAIW,Taiwan,IND,Restrict in AP
-34655,139598,38541,210,SOAF,South Africa,THAI,Restrict in AP
-34656,139598,38541,211,JAP,Japan,IECSA,Restrict in AP
-34657,142459,37581,207,IND,Indonesia,,
-34658,142459,37581,208,THAI,Thailand,,
-34659,142459,37581,209,TAIW,Taiwan,IND,Not Listed
-34660,142459,37581,210,SOAF,South Africa,THAI,Not listed
-34661,142459,37581,211,JAP,Japan,IECSA,Listed
-34662,144397,40301,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34663,144397,40301,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34664,144397,40301,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34665,144397,40301,109,CEPA,Canadian Environmental Protection Act,,
-34666,144397,40301,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34667,144397,40301,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-34668,144397,40301,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34669,144397,40301,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34670,144397,40301,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34671,144397,40301,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34672,144397,40301,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34673,144397,40301,117,NZTSD,New Zealand Toxic Substances Database,,
-34674,144397,40301,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34675,144397,40301,203,ISHL,Japanese Industrial Safety and Health Law,,
-34676,144397,40301,204,KKDIK,Turkey REACH compliance check completed,,
-34677,144397,40301,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34678,144397,40301,206,SERB,Serbia,JAPAN,
-34679,144397,40301,207,IND,Indonesia,,
-34680,144397,40301,208,THAI,Thailand,,
-34681,144397,40301,209,TAIW,Taiwan,IND,
-34682,144397,40301,210,SOAF,South Africa,THAI,
-34683,144397,40301,211,JAP,Japan,IECSA,
-34684,117895,34502,90,MSDS,MSDS Requirement,MSDS,
-34685,117895,34502,91,TSCA,TSCA Certificate,TSCA,All substance(s) in this product are listed on the Toxic Substances Control Act (TSCA) - Active Inventory or are exempt.
-34686,117895,34502,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34687,117895,34502,109,CEPA,Canadian Environmental Protection Act,, All substance(s) in this product are listed on the Domestic Substances List (DSL) or are exempt.
-34688,117895,34502,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34689,117895,34502,111,ELINCS,European REACH,CEPAN,
-34690,117895,34502,112,AICS,Australian Inventory of chemical Substances,ELINCS,reviewed with Maurice- he is okay for approval for EMEA based on Exxon having a EU manufcaturing lcoation
-34691,117895,34502,113,ENCS,Japanese Existing and New Chemical substances,EINECS,reviewed with Maurice- he is okay for approval for EMEA based on Exxon having a EU manufcaturing lcoation
-34692,117895,34502,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34693,117895,34502,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34694,117895,34502,116,CLECS,Chinese List of Existing Chemical substances,SOAF,All substance(s) in this product are listed on the Japanese inventory of Existing and New Chemical Substances (ENCS/ISHL) or are exempt.
-34695,117895,34502,117,NZTSD,New Zealand Toxic Substances Database,,
-34696,117895,34502,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34697,117895,34502,203,ISHL,Japanese Industrial Safety and Health Law,,
-34698,117895,34502,204,KKDIK,Turkey REACH compliance check completed,,All substance(s) in this product are listed on the Inventory of Existing Chemical Substances in China (IECSC) or are exempt.
-34699,117895,34502,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34700,146419,41502,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34701,146419,41502,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34702,146419,41502,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34703,146419,41502,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34704,146419,41502,117,NZTSD,New Zealand Toxic Substances Database,,
-34705,146419,41502,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34706,146419,41502,203,ISHL,Japanese Industrial Safety and Health Law,,
-34707,146419,41502,204,KKDIK,Turkey REACH compliance check completed,,
-34708,146419,41502,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34709,146419,41502,206,SERB,Serbia,JAPAN,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34710,45913,33201,90,MSDS,MSDS Requirement,MSDS,
-34711,45913,33201,91,TSCA,TSCA Certificate,TSCA,
-34712,45913,33201,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,See CIRF
-34713,45913,33201,109,CEPA,Canadian Environmental Protection Act,,DSL
-34714,45913,33201,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34715,45913,33201,111,ELINCS,European REACH,CEPAN,
-34716,45913,33201,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34717,45913,33201,113,ENCS,Japanese Existing and New Chemical substances,EINECS,See CIRF
-34718,45913,33201,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34719,45913,33201,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not Reviewed
-34720,45913,33201,116,CLECS,Chinese List of Existing Chemical substances,SOAF,See CIRF
-34721,45913,33201,117,NZTSD,New Zealand Toxic Substances Database,,Not reviewed
-34722,45913,33201,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Not reviewed
-34723,45913,33201,203,ISHL,Japanese Industrial Safety and Health Law,,
-34724,45913,33201,204,KKDIK,Turkey REACH compliance check completed,,See CIRF
-34725,45913,33201,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34726,146419,41502,207,IND,Indonesia,,
-34727,146419,41502,208,THAI,Thailand,,
-34728,146419,41502,209,TAIW,Taiwan,IND,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34729,146419,41502,210,SOAF,South Africa,THAI,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34730,146419,41502,211,JAP,Japan,IECSA,Items is an article and not hazardous. Compliance check ok at the time of approval. 
-34731,146465,41521,90,MSDS,MSDS Requirement,MSDS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34732,146465,41521,91,TSCA,TSCA Certificate,TSCA,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34733,146465,41521,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34734,146465,41521,109,CEPA,Canadian Environmental Protection Act,,
-34735,146465,41521,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34736,146465,41521,111,ELINCS,European REACH,CEPAN,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34737,146465,41521,112,AICS,Australian Inventory of chemical Substances,ELINCS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34738,146465,41521,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34739,146465,41521,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34740,146465,41521,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34741,146465,41521,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34742,146465,41521,117,NZTSD,New Zealand Toxic Substances Database,,
-34743,146465,41521,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34744,146465,41521,203,ISHL,Japanese Industrial Safety and Health Law,,
-34745,146465,41521,204,KKDIK,Turkey REACH compliance check completed,,
-34746,146465,41521,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34747,146465,41521,206,SERB,Serbia,JAPAN,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34748,146465,41521,207,IND,Indonesia,,
-34749,146465,41521,208,THAI,Thailand,,
-34750,146465,41521,209,TAIW,Taiwan,IND,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34751,146465,41521,210,SOAF,South Africa,THAI,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34752,146465,41521,211,JAP,Japan,IECSA,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
-34753,119808,35621,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34754,119808,35621,109,CEPA,Canadian Environmental Protection Act,,
-34755,119808,35621,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34756,119808,35621,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34757,119808,35621,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34758,119808,35621,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34759,119808,35621,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34760,119808,35621,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34761,119808,35621,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34762,119808,35621,117,NZTSD,New Zealand Toxic Substances Database,,
-34763,119808,35621,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34764,119808,35621,203,ISHL,Japanese Industrial Safety and Health Law,,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34765,119808,35621,204,KKDIK,Turkey REACH compliance check completed,,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34766,119808,35621,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34767,132944,35382,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34768,132944,35382,109,CEPA,Canadian Environmental Protection Act,,
-34769,135166,35581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34770,135166,35581,109,CEPA,Canadian Environmental Protection Act,,
-34771,135166,35581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"OK per CIRF, Copy from NS_131037"
-34772,135166,35581,111,ELINCS,European REACH,CEPAN,"OK per CIRF, Copy from NS_131037"
-34773,135166,35581,112,AICS,Australian Inventory of chemical Substances,ELINCS,"OK per CIRF, Copy from NS_131037"
-34774,135166,35581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"OK per CIRF, Copy from NS_131037"
-34775,135166,35581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,"OK per CIRF, Copy from NS_131037"
-34776,135166,35581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34777,135166,35581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,"OK per CIRF, Copy from NS_131037"
-34778,135166,35581,117,NZTSD,New Zealand Toxic Substances Database,,
-34779,135166,35581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34780,135166,35581,203,ISHL,Japanese Industrial Safety and Health Law,,"OK per CIRF, Copy from NS_131037"
-34781,135166,35581,204,KKDIK,Turkey REACH compliance check completed,,"OK per CIRF, Copy from NS_131037"
-34782,135166,35581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34783,132944,35382,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"Says on NDSL per CIRF, not approved for Canada "
-34784,132944,35382,111,ELINCS,European REACH,CEPAN,"Says on NDSL per CIRF, not approved for Canada "
-34785,132944,35382,112,AICS,Australian Inventory of chemical Substances,ELINCS,"EU REACH registered, downstream user per CIRF "
-34786,132944,35382,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"EU REACH registered, downstream user per CIRF "
-34787,132944,35382,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Not registered for Turkey per CIRF 
-34788,132944,35382,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34789,132944,35382,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK per CIRF 
-34790,132944,35382,117,NZTSD,New Zealand Toxic Substances Database,,
-34791,132944,35382,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34792,132944,35382,203,ISHL,Japanese Industrial Safety and Health Law,,Not OK per CIRF - exclude Japan in approval 
-34793,132944,35382,204,KKDIK,Turkey REACH compliance check completed,,OK per CIRF 
-34794,132944,35382,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34795,130610,34801,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,On DSL
-34796,130610,34801,111,ELINCS,European REACH,CEPAN,Not on NDSL
-34797,130610,34801,112,AICS,Australian Inventory of chemical Substances,ELINCS,NR - exempt from registration 
-34798,130610,34801,113,ENCS,Japanese Existing and New Chemical substances,EINECS,NR - exempt from registration 
-34799,130610,34801,114,ECL,Korean Existing Chemicals Inventory,KKDIK,NR - exempt from registration 
-34800,130610,34801,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34801,141001,36841,90,MSDS,MSDS Requirement,MSDS,
-34802,141001,36841,91,TSCA,TSCA Certificate,TSCA,
-34803,141001,36841,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34804,141001,36841,109,CEPA,Canadian Environmental Protection Act,,
-34805,141001,36841,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34806,141001,36841,111,ELINCS,European REACH,CEPAN,
-34807,141001,36841,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34808,141001,36841,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34809,141001,36841,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34810,141001,36841,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34811,141001,36841,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34812,141001,36841,117,NZTSD,New Zealand Toxic Substances Database,,
-34813,141001,36841,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34814,141001,36841,203,ISHL,Japanese Industrial Safety and Health Law,,
-34815,141001,36841,204,KKDIK,Turkey REACH compliance check completed,,
-34816,141001,36841,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34817,141001,36841,206,SERB,Serbia,JAPAN,
-34818,141001,36841,207,IND,Indonesia,,
-34819,141001,36841,208,THAI,Thailand,,
-34820,141001,36841,209,TAIW,Taiwan,IND,
-34821,141001,36841,210,SOAF,South Africa,THAI,
-34822,141001,36841,211,JAP,Japan,IECSA,
-34823,126382,33681,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34824,130610,34801,116,CLECS,Chinese List of Existing Chemical substances,SOAF,NR - exempt from registration 
-34825,130610,34801,117,NZTSD,New Zealand Toxic Substances Database,,
-34826,130610,34801,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34827,130610,34801,203,ISHL,Japanese Industrial Safety and Health Law,,NR - exempt from registration 
-34828,130610,34801,204,KKDIK,Turkey REACH compliance check completed,,NR - exempt from registration 
-34829,130610,34801,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34830,129718,34241,90,MSDS,MSDS Requirement,MSDS,
-34831,129718,34241,91,TSCA,TSCA Certificate,TSCA,update approval to only approved for Chile 7/16/22
-34832,129718,34241,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34833,129718,34241,109,CEPA,Canadian Environmental Protection Act,,
-34834,129718,34241,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,update approval to only approved for Chile 7/16/22
-34835,129718,34241,111,ELINCS,European REACH,CEPAN,NO PER comp and CIRF
-34836,129718,34241,112,AICS,Australian Inventory of chemical Substances,ELINCS,update approval to only approved for Chile 7/16/22
-34837,129718,34241,113,ENCS,Japanese Existing and New Chemical substances,EINECS,update approval to only approved for Chile 7/16/22
-34838,129718,34241,114,ECL,Korean Existing Chemicals Inventory,KKDIK,update approval to only approved for Chile 7/16/22
-34839,129718,34241,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34840,129718,34241,116,CLECS,Chinese List of Existing Chemical substances,SOAF,update approval to only approved for Chile 7/16/22
-34841,129718,34241,117,NZTSD,New Zealand Toxic Substances Database,,
-34842,129718,34241,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34843,129718,34241,203,ISHL,Japanese Industrial Safety and Health Law,,update approval to only approved for Chile 7/16/22
-34844,129718,34241,204,KKDIK,Turkey REACH compliance check completed,,update approval to only approved for Chile 7/16/22
-34845,129718,34241,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34846,141465,37061,90,MSDS,MSDS Requirement,MSDS,
-34847,141465,37061,91,TSCA,TSCA Certificate,TSCA,
-34848,141465,37061,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34849,141465,37061,109,CEPA,Canadian Environmental Protection Act,,
-34850,141465,37061,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34851,141465,37061,111,ELINCS,European REACH,CEPAN,
-34852,141465,37061,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34853,141465,37061,113,ENCS,Japanese Existing and New Chemical substances,EINECS,No registration information
-34854,141465,37061,114,ECL,Korean Existing Chemicals Inventory,KKDIK,No registration information
-34855,141465,37061,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34856,141465,37061,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34857,141465,37061,117,NZTSD,New Zealand Toxic Substances Database,,
-34858,141465,37061,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34859,141465,37061,203,ISHL,Japanese Industrial Safety and Health Law,,
-34860,141465,37061,204,KKDIK,Turkey REACH compliance check completed,,
-34861,141465,37061,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34862,141465,37061,206,SERB,Serbia,JAPAN,
-34863,141465,37061,207,IND,Indonesia,,
-34864,141465,37061,208,THAI,Thailand,,
-34865,141465,37061,209,TAIW,Taiwan,IND,
-34866,141465,37061,210,SOAF,South Africa,THAI,
-34867,141465,37061,211,JAP,Japan,IECSA,
-34868,143344,40506,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34869,143344,40506,203,ISHL,Japanese Industrial Safety and Health Law,,
-34870,143344,40506,204,KKDIK,Turkey REACH compliance check completed,,
-34871,143344,40506,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34872,143344,40506,206,SERB,Serbia,JAPAN,
-34873,143344,40506,207,IND,Indonesia,,
-34874,143344,40506,208,THAI,Thailand,,
-34875,143344,40506,209,TAIW,Taiwan,IND,
-34876,143344,40506,210,SOAF,South Africa,THAI,
-34877,143344,40506,211,JAP,Japan,IECSA,
-34878,143345,40507,90,MSDS,MSDS Requirement,MSDS,
-34879,143345,40507,91,TSCA,TSCA Certificate,TSCA,
-34880,143345,40507,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34881,143345,40507,109,CEPA,Canadian Environmental Protection Act,,
-34882,143345,40507,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34883,143345,40507,111,ELINCS,European REACH,CEPAN,
-34884,143345,40507,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34885,143345,40507,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34886,143345,40507,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34887,143345,40507,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34888,143345,40507,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34889,143345,40507,117,NZTSD,New Zealand Toxic Substances Database,,
-34890,143345,40507,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34891,143345,40507,203,ISHL,Japanese Industrial Safety and Health Law,,
-34892,143345,40507,204,KKDIK,Turkey REACH compliance check completed,,
-34893,143345,40507,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34894,143345,40507,206,SERB,Serbia,JAPAN,
-34895,143345,40507,207,IND,Indonesia,,
-34896,143345,40507,208,THAI,Thailand,,
-34897,143345,40507,209,TAIW,Taiwan,IND,
-34898,143345,40507,210,SOAF,South Africa,THAI,
-34899,143345,40507,211,JAP,Japan,IECSA,
-34900,145827,40581,91,TSCA,TSCA Certificate,TSCA,Natural rubber is exempt.
-34901,145827,40581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34902,145827,40581,109,CEPA,Canadian Environmental Protection Act,,
-34903,145827,40581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Natural rubber is exempt.
-34904,145827,40581,111,ELINCS,European REACH,CEPAN,Natural rubber is exempt.
-34905,145827,40581,112,AICS,Australian Inventory of chemical Substances,ELINCS,Natural rubber is exempt.
-34906,145827,40581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34907,145827,40581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34908,145827,40581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34909,145827,40581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34910,145827,40581,117,NZTSD,New Zealand Toxic Substances Database,,
-34911,145827,40581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Natural rubber is exempt.
-34912,145827,40581,203,ISHL,Japanese Industrial Safety and Health Law,,
-34913,145827,40581,204,KKDIK,Turkey REACH compliance check completed,,
-34914,145827,40581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34915,145827,40581,206,SERB,Serbia,JAPAN,
-34916,145827,40581,207,IND,Indonesia,,
-34917,145827,40581,208,THAI,Thailand,,
-34918,145827,40581,209,TAIW,Taiwan,IND,
-34919,145827,40581,210,SOAF,South Africa,THAI,
-34920,145827,40581,211,JAP,Japan,IECSA,
-34921,145760,40541,90,MSDS,MSDS Requirement,MSDS,Not considered hazardous.
-34922,145760,40541,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34923,145760,40541,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34924,145760,40541,109,CEPA,Canadian Environmental Protection Act,,
-34925,145760,40541,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34926,145760,40541,111,ELINCS,European REACH,CEPAN,
-34927,145760,40541,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34928,145760,40541,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34929,145760,40541,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34930,145760,40541,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34931,145760,40541,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34932,145760,40541,117,NZTSD,New Zealand Toxic Substances Database,,
-34933,145760,40541,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34934,145760,40541,203,ISHL,Japanese Industrial Safety and Health Law,,
-34935,145760,40541,204,KKDIK,Turkey REACH compliance check completed,,
-34936,145760,40541,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34937,145760,40541,206,SERB,Serbia,JAPAN,
-34938,145760,40541,207,IND,Indonesia,,
-34939,145760,40541,208,THAI,Thailand,,
-34940,145760,40541,209,TAIW,Taiwan,IND,
-34941,145760,40541,210,SOAF,South Africa,THAI,
-34942,145760,40541,211,JAP,Japan,IECSA,
-34943,145769,40561,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34944,145769,40561,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34945,145769,40561,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34946,145769,40561,109,CEPA,Canadian Environmental Protection Act,,
-34947,145769,40561,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34948,145769,40561,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34949,145769,40561,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34950,145769,40561,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34951,145769,40561,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34952,145769,40561,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34953,145769,40561,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34954,145769,40561,117,NZTSD,New Zealand Toxic Substances Database,,
-34955,145769,40561,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
-34956,145769,40561,203,ISHL,Japanese Industrial Safety and Health Law,,
-34957,145769,40561,204,KKDIK,Turkey REACH compliance check completed,,
-34958,145769,40561,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34959,145769,40561,206,SERB,Serbia,JAPAN,
-34960,145769,40561,207,IND,Indonesia,,
-34961,145769,40561,208,THAI,Thailand,,
-34962,145769,40561,209,TAIW,Taiwan,IND,
-34963,145769,40561,210,SOAF,South Africa,THAI,
-34964,145769,40561,211,JAP,Japan,IECSA,
-34965,145827,40581,90,MSDS,MSDS Requirement,MSDS,Not classified as a hazard
-34966,145832,40641,90,MSDS,MSDS Requirement,MSDS,"		&#9675; Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34497,145680,40421,91,TSCA,TSCA Certificate,TSCA,
+34498,145680,40421,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34499,145680,40421,109,CEPA,Canadian Environmental Protection Act,,
+34500,145680,40421,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,restrict Canada
+34501,145680,40421,111,ELINCS,European REACH,CEPAN,restrict Canada
+34502,145680,40421,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34503,145680,40421,113,ENCS,Japanese Existing and New Chemical substances,EINECS,restrict UK
+34504,145680,40421,114,ECL,Korean Existing Chemicals Inventory,KKDIK,restrict Turkey
+34505,145680,40421,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34506,145680,40421,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34507,145680,40421,117,NZTSD,New Zealand Toxic Substances Database,,
+34508,145680,40421,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Restrict Japan
+34509,145680,40421,203,ISHL,Japanese Industrial Safety and Health Law,,
+34510,145680,40421,204,KKDIK,Turkey REACH compliance check completed,,
+34511,145680,40421,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Restrict Japan
+34512,145680,40421,206,SERB,Serbia,JAPAN,
+34513,145680,40421,207,IND,Indonesia,,
+34514,145680,40421,208,THAI,Thailand,,
+34515,145680,40421,209,TAIW,Taiwan,IND,
+34516,145680,40421,210,SOAF,South Africa,THAI,
+34517,145680,40421,211,JAP,Japan,IECSA,
+34518,143342,40505,90,MSDS,MSDS Requirement,MSDS,
+34519,143342,40505,91,TSCA,TSCA Certificate,TSCA,
+34520,143342,40505,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34521,143342,40505,109,CEPA,Canadian Environmental Protection Act,,
+34522,143342,40505,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34523,143342,40505,111,ELINCS,European REACH,CEPAN,
+34524,143342,40505,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34525,143342,40505,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34526,143342,40505,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34527,143342,40505,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34528,143342,40505,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34529,143342,40505,117,NZTSD,New Zealand Toxic Substances Database,,
+34530,143342,40505,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34531,143342,40505,203,ISHL,Japanese Industrial Safety and Health Law,,
+34532,143342,40505,204,KKDIK,Turkey REACH compliance check completed,,
+34533,143342,40505,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34534,143342,40505,206,SERB,Serbia,JAPAN,
+34535,143342,40505,207,IND,Indonesia,,
+34536,143342,40505,208,THAI,Thailand,,
+34537,143342,40505,209,TAIW,Taiwan,IND,
+34538,143342,40505,210,SOAF,South Africa,THAI,
+34539,143342,40505,211,JAP,Japan,IECSA,
+34540,13063,40503,90,MSDS,MSDS Requirement,MSDS,
+34541,13063,40503,91,TSCA,TSCA Certificate,TSCA,
+34542,13063,40503,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34543,13063,40503,109,CEPA,Canadian Environmental Protection Act,,
+34544,13063,40503,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34545,13063,40503,111,ELINCS,European REACH,CEPAN,
+34546,13063,40503,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34547,13063,40503,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34548,13063,40503,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34549,13063,40503,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34550,13063,40503,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34551,13063,40503,117,NZTSD,New Zealand Toxic Substances Database,,
+34552,13063,40503,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34553,13063,40503,203,ISHL,Japanese Industrial Safety and Health Law,,
+34554,13063,40503,204,KKDIK,Turkey REACH compliance check completed,,
+34555,13063,40503,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34556,13063,40503,206,SERB,Serbia,JAPAN,
+34557,143344,40506,90,MSDS,MSDS Requirement,MSDS,
+34558,143344,40506,91,TSCA,TSCA Certificate,TSCA,
+34559,143344,40506,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34560,143344,40506,109,CEPA,Canadian Environmental Protection Act,,
+34561,143344,40506,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34562,143344,40506,111,ELINCS,European REACH,CEPAN,
+34563,143344,40506,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34564,143344,40506,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34565,143344,40506,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34566,143344,40506,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34567,143344,40506,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34568,143344,40506,117,NZTSD,New Zealand Toxic Substances Database,,
+34569,97180,31241,204,KKDIK,Turkey REACH compliance check completed,,
+34570,97180,31241,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34571,97180,31241,206,SERB,Serbia,JAPAN,
+34572,97180,31241,207,IND,Indonesia,,
+34573,126255,35281,206,SERB,Serbia,JAPAN,
+34574,135826,35781,206,SERB,Serbia,JAPAN,
+34575,132414,35341,206,SERB,Serbia,JAPAN,OK Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34576,132550,35421,206,SERB,Serbia,JAPAN, OK Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34577,42842,23821,90,MSDS,MSDS Requirement,MSDS,
+34578,42842,23821,91,TSCA,TSCA Certificate,TSCA,
+34579,42842,23821,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34580,42842,23821,109,CEPA,Canadian Environmental Protection Act,,
+34581,42842,23821,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34582,42842,23821,111,ELINCS,European REACH,CEPAN,012119384822-xxxx
+34583,42842,23821,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34584,42842,23821,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34585,42842,23821,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34586,42842,23821,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34587,42842,23821,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34588,42842,23821,117,NZTSD,New Zealand Toxic Substances Database,,
+34589,42842,23821,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34590,42842,23821,203,ISHL,Japanese Industrial Safety and Health Law,,
+34591,42842,23821,204,KKDIK,Turkey REACH compliance check completed,,
+34592,42842,23821,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34593,42842,23821,206,SERB,Serbia,JAPAN,
+34594,21585,37201,90,MSDS,MSDS Requirement,MSDS,Classified as Aquatic Chronic Cat 3 
+34595,21585,37201,91,TSCA,TSCA Certificate,TSCA,Not in Scope of approval 
+34596,21585,37201,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,Not in Scope of approval 
+34597,21585,37201,109,CEPA,Canadian Environmental Protection Act,,Not in Scope of approval 
+34598,21585,37201,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34599,21585,37201,111,ELINCS,European REACH,CEPAN,
+34600,21585,37201,112,AICS,Australian Inventory of chemical Substances,ELINCS,OK for EU Approval Only - confirmed with Maurice 
+34601,21585,37201,113,ENCS,Japanese Existing and New Chemical substances,EINECS,OK for EU Approval Only - confirmed with Maurice 
+34602,21585,37201,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34603,21585,37201,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not in Scope of approval 
+34604,21585,37201,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Not in Scope of approval 
+34605,21585,37201,117,NZTSD,New Zealand Toxic Substances Database,,Not in Scope of approval 
+34606,21585,37201,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Not in Scope of approval 
+34607,21585,37201,203,ISHL,Japanese Industrial Safety and Health Law,,
+34608,21585,37201,204,KKDIK,Turkey REACH compliance check completed,,Not in Scope of approval 
+34609,21585,37201,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Not in Scope of approval 
+34610,21585,37201,206,SERB,Serbia,JAPAN,Not in Scope of approval 
+34611,142459,37581,90,MSDS,MSDS Requirement,MSDS,
+34612,142459,37581,91,TSCA,TSCA Certificate,TSCA,Listed
+34613,142459,37581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34614,142459,37581,109,CEPA,Canadian Environmental Protection Act,,
+34615,142459,37581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Listed
+34616,142459,37581,111,ELINCS,European REACH,CEPAN,No Listed
+34617,142459,37581,112,AICS,Australian Inventory of chemical Substances,ELINCS,Manufactured in Germany. 
+34618,142459,37581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,No Registration Information
+34619,142459,37581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,No Registration Information
+34620,142459,37581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not Listed
+34621,142459,37581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Not Listed
+34622,142459,37581,117,NZTSD,New Zealand Toxic Substances Database,,
+34623,142459,37581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Listed
+34624,142459,37581,203,ISHL,Japanese Industrial Safety and Health Law,,
+34625,142459,37581,204,KKDIK,Turkey REACH compliance check completed,,
+34626,142459,37581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Listed
+34627,142459,37581,206,SERB,Serbia,JAPAN,Not Listed
+34628,139598,38541,90,MSDS,MSDS Requirement,MSDS,"Business team must confirm compliance with GY Supplier Quality Manual, applicable regulatory reporting requirements, industry standards, and OE RSLs. Contains conflict minerals."
+34629,139598,38541,91,TSCA,TSCA Certificate,TSCA,ok per legal
+34630,139598,38541,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34631,139598,38541,109,CEPA,Canadian Environmental Protection Act,,
+34632,139598,38541,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,ok
+34633,139598,38541,111,ELINCS,European REACH,CEPAN,ok
+34634,139598,38541,112,AICS,Australian Inventory of chemical Substances,ELINCS,"Product contains conflict minerals, reporting required for compliance. Contains Substances of Very High Concern (SVHC), the supplier must maintain notifications to ECHA's SCIP database.  This product contains declarable substances per IAEG and GADSL"
+34635,139598,38541,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"Product contains conflict minerals, reporting required for compliance. Contains Substances of Very High Concern (SVHC), the supplier must maintain notifications to ECHA's SCIP database.  This product contains declarable substances per IAEG and GADSL"
+34636,139598,38541,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Restrict in Turkey
+34637,139598,38541,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Restrict in Serbia
+34638,139598,38541,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Restrict in South Africa
+34639,139598,38541,117,NZTSD,New Zealand Toxic Substances Database,,
+34640,139598,38541,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Restrict in AP 
+34641,139598,38541,203,ISHL,Japanese Industrial Safety and Health Law,,
+34642,139598,38541,204,KKDIK,Turkey REACH compliance check completed,,
+34643,139598,38541,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Restrict in AP
+34644,139598,38541,206,SERB,Serbia,JAPAN,Restrict in AP
+34645,139598,38541,207,IND,Indonesia,,
+34646,139598,38541,208,THAI,Thailand,,
+34647,139598,38541,209,TAIW,Taiwan,IND,Restrict in AP
+34648,139598,38541,210,SOAF,South Africa,THAI,Restrict in AP
+34649,139598,38541,211,JAP,Japan,IECSA,Restrict in AP
+34650,142459,37581,207,IND,Indonesia,,
+34651,142459,37581,208,THAI,Thailand,,
+34652,142459,37581,209,TAIW,Taiwan,IND,Not Listed
+34653,142459,37581,210,SOAF,South Africa,THAI,Not listed
+34654,142459,37581,211,JAP,Japan,IECSA,Listed
+34655,144397,40301,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34656,144397,40301,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34657,144397,40301,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34658,144397,40301,109,CEPA,Canadian Environmental Protection Act,,
+34659,144397,40301,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34660,144397,40301,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+34661,144397,40301,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34662,144397,40301,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34663,144397,40301,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34664,144397,40301,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34665,144397,40301,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34666,144397,40301,117,NZTSD,New Zealand Toxic Substances Database,,
+34667,144397,40301,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34668,144397,40301,203,ISHL,Japanese Industrial Safety and Health Law,,
+34669,144397,40301,204,KKDIK,Turkey REACH compliance check completed,,
+34670,144397,40301,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34671,144397,40301,206,SERB,Serbia,JAPAN,
+34672,144397,40301,207,IND,Indonesia,,
+34673,144397,40301,208,THAI,Thailand,,
+34674,144397,40301,209,TAIW,Taiwan,IND,
+34675,144397,40301,210,SOAF,South Africa,THAI,
+34676,144397,40301,211,JAP,Japan,IECSA,
+34677,117895,34502,90,MSDS,MSDS Requirement,MSDS,
+34678,117895,34502,91,TSCA,TSCA Certificate,TSCA,All substance(s) in this product are listed on the Toxic Substances Control Act (TSCA) - Active Inventory or are exempt.
+34679,117895,34502,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34680,117895,34502,109,CEPA,Canadian Environmental Protection Act,, All substance(s) in this product are listed on the Domestic Substances List (DSL) or are exempt.
+34681,117895,34502,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34682,117895,34502,111,ELINCS,European REACH,CEPAN,
+34683,117895,34502,112,AICS,Australian Inventory of chemical Substances,ELINCS,reviewed with Maurice- he is okay for approval for EMEA based on Exxon having a EU manufcaturing lcoation
+34684,117895,34502,113,ENCS,Japanese Existing and New Chemical substances,EINECS,reviewed with Maurice- he is okay for approval for EMEA based on Exxon having a EU manufcaturing lcoation
+34685,117895,34502,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34686,117895,34502,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34687,117895,34502,116,CLECS,Chinese List of Existing Chemical substances,SOAF,All substance(s) in this product are listed on the Japanese inventory of Existing and New Chemical Substances (ENCS/ISHL) or are exempt.
+34688,117895,34502,117,NZTSD,New Zealand Toxic Substances Database,,
+34689,117895,34502,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34690,117895,34502,203,ISHL,Japanese Industrial Safety and Health Law,,
+34691,117895,34502,204,KKDIK,Turkey REACH compliance check completed,,All substance(s) in this product are listed on the Inventory of Existing Chemical Substances in China (IECSC) or are exempt.
+34692,117895,34502,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34693,45913,33201,90,MSDS,MSDS Requirement,MSDS,
+34694,45913,33201,91,TSCA,TSCA Certificate,TSCA,
+34695,45913,33201,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,See CIRF
+34696,45913,33201,109,CEPA,Canadian Environmental Protection Act,,DSL
+34697,45913,33201,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34698,45913,33201,111,ELINCS,European REACH,CEPAN,
+34699,45913,33201,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34700,45913,33201,113,ENCS,Japanese Existing and New Chemical substances,EINECS,See CIRF
+34701,45913,33201,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34702,45913,33201,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Not Reviewed
+34703,45913,33201,116,CLECS,Chinese List of Existing Chemical substances,SOAF,See CIRF
+34704,45913,33201,117,NZTSD,New Zealand Toxic Substances Database,,Not reviewed
+34705,45913,33201,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Not reviewed
+34706,45913,33201,203,ISHL,Japanese Industrial Safety and Health Law,,
+34707,45913,33201,204,KKDIK,Turkey REACH compliance check completed,,See CIRF
+34708,45913,33201,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34709,146465,41521,90,MSDS,MSDS Requirement,MSDS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34710,146465,41521,91,TSCA,TSCA Certificate,TSCA,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34711,146465,41521,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34712,146465,41521,109,CEPA,Canadian Environmental Protection Act,,
+34713,146465,41521,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34714,146465,41521,111,ELINCS,European REACH,CEPAN,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34715,146465,41521,112,AICS,Australian Inventory of chemical Substances,ELINCS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34716,146465,41521,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34717,146465,41521,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34718,146465,41521,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34719,146465,41521,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34720,146465,41521,117,NZTSD,New Zealand Toxic Substances Database,,
+34721,146465,41521,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34722,146465,41521,203,ISHL,Japanese Industrial Safety and Health Law,,
+34723,146465,41521,204,KKDIK,Turkey REACH compliance check completed,,
+34724,146465,41521,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34725,146465,41521,206,SERB,Serbia,JAPAN,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34726,146465,41521,207,IND,Indonesia,,
+34727,146465,41521,208,THAI,Thailand,,
+34728,146465,41521,209,TAIW,Taiwan,IND,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34729,146465,41521,210,SOAF,South Africa,THAI,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34730,146465,41521,211,JAP,Japan,IECSA,Ok for Compliance check. Product not hazardous at time of approval. DB/11Feb25 
+34731,119808,35621,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34732,119808,35621,109,CEPA,Canadian Environmental Protection Act,,
+34733,119808,35621,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34734,119808,35621,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34735,119808,35621,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34736,119808,35621,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34737,119808,35621,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34738,119808,35621,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34739,119808,35621,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34740,119808,35621,117,NZTSD,New Zealand Toxic Substances Database,,
+34741,119808,35621,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34742,119808,35621,203,ISHL,Japanese Industrial Safety and Health Law,,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34743,119808,35621,204,KKDIK,Turkey REACH compliance check completed,,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34744,119808,35621,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34745,132944,35382,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34746,132944,35382,109,CEPA,Canadian Environmental Protection Act,,
+34747,135166,35581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34748,135166,35581,109,CEPA,Canadian Environmental Protection Act,,
+34749,135166,35581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"OK per CIRF, Copy from NS_131037"
+34750,135166,35581,111,ELINCS,European REACH,CEPAN,"OK per CIRF, Copy from NS_131037"
+34751,135166,35581,112,AICS,Australian Inventory of chemical Substances,ELINCS,"OK per CIRF, Copy from NS_131037"
+34752,135166,35581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"OK per CIRF, Copy from NS_131037"
+34753,135166,35581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,"OK per CIRF, Copy from NS_131037"
+34754,135166,35581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34755,135166,35581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,"OK per CIRF, Copy from NS_131037"
+34756,135166,35581,117,NZTSD,New Zealand Toxic Substances Database,,
+34757,135166,35581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34758,135166,35581,203,ISHL,Japanese Industrial Safety and Health Law,,"OK per CIRF, Copy from NS_131037"
+34759,135166,35581,204,KKDIK,Turkey REACH compliance check completed,,"OK per CIRF, Copy from NS_131037"
+34760,135166,35581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34761,132944,35382,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"Says on NDSL per CIRF, not approved for Canada "
+34762,132944,35382,111,ELINCS,European REACH,CEPAN,"Says on NDSL per CIRF, not approved for Canada "
+34763,132944,35382,112,AICS,Australian Inventory of chemical Substances,ELINCS,"EU REACH registered, downstream user per CIRF "
+34764,132944,35382,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"EU REACH registered, downstream user per CIRF "
+34765,132944,35382,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Not registered for Turkey per CIRF 
+34766,132944,35382,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34767,132944,35382,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK per CIRF 
+34768,132944,35382,117,NZTSD,New Zealand Toxic Substances Database,,
+34769,132944,35382,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34770,132944,35382,203,ISHL,Japanese Industrial Safety and Health Law,,Not OK per CIRF - exclude Japan in approval 
+34771,132944,35382,204,KKDIK,Turkey REACH compliance check completed,,OK per CIRF 
+34772,132944,35382,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34773,130610,34801,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,On DSL
+34774,130610,34801,111,ELINCS,European REACH,CEPAN,Not on NDSL
+34775,130610,34801,112,AICS,Australian Inventory of chemical Substances,ELINCS,NR - exempt from registration 
+34776,130610,34801,113,ENCS,Japanese Existing and New Chemical substances,EINECS,NR - exempt from registration 
+34777,130610,34801,114,ECL,Korean Existing Chemicals Inventory,KKDIK,NR - exempt from registration 
+34778,130610,34801,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34779,141001,36841,90,MSDS,MSDS Requirement,MSDS,
+34780,141001,36841,91,TSCA,TSCA Certificate,TSCA,
+34781,141001,36841,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34782,141001,36841,109,CEPA,Canadian Environmental Protection Act,,
+34783,141001,36841,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34784,141001,36841,111,ELINCS,European REACH,CEPAN,
+34785,141001,36841,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34786,141001,36841,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34787,141001,36841,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34788,141001,36841,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34789,141001,36841,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34790,141001,36841,117,NZTSD,New Zealand Toxic Substances Database,,
+34791,141001,36841,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34792,141001,36841,203,ISHL,Japanese Industrial Safety and Health Law,,
+34793,141001,36841,204,KKDIK,Turkey REACH compliance check completed,,
+34794,141001,36841,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34795,141001,36841,206,SERB,Serbia,JAPAN,
+34796,141001,36841,207,IND,Indonesia,,
+34797,141001,36841,208,THAI,Thailand,,
+34798,141001,36841,209,TAIW,Taiwan,IND,
+34799,141001,36841,210,SOAF,South Africa,THAI,
+34800,141001,36841,211,JAP,Japan,IECSA,
+34801,126382,33681,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34802,130610,34801,116,CLECS,Chinese List of Existing Chemical substances,SOAF,NR - exempt from registration 
+34803,130610,34801,117,NZTSD,New Zealand Toxic Substances Database,,
+34804,130610,34801,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34805,130610,34801,203,ISHL,Japanese Industrial Safety and Health Law,,NR - exempt from registration 
+34806,130610,34801,204,KKDIK,Turkey REACH compliance check completed,,NR - exempt from registration 
+34807,130610,34801,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34808,129718,34241,90,MSDS,MSDS Requirement,MSDS,
+34809,129718,34241,91,TSCA,TSCA Certificate,TSCA,update approval to only approved for Chile 7/16/22
+34810,129718,34241,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34811,129718,34241,109,CEPA,Canadian Environmental Protection Act,,
+34812,129718,34241,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,update approval to only approved for Chile 7/16/22
+34813,129718,34241,111,ELINCS,European REACH,CEPAN,NO PER comp and CIRF
+34814,129718,34241,112,AICS,Australian Inventory of chemical Substances,ELINCS,update approval to only approved for Chile 7/16/22
+34815,129718,34241,113,ENCS,Japanese Existing and New Chemical substances,EINECS,update approval to only approved for Chile 7/16/22
+34816,129718,34241,114,ECL,Korean Existing Chemicals Inventory,KKDIK,update approval to only approved for Chile 7/16/22
+34817,129718,34241,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34818,129718,34241,116,CLECS,Chinese List of Existing Chemical substances,SOAF,update approval to only approved for Chile 7/16/22
+34819,129718,34241,117,NZTSD,New Zealand Toxic Substances Database,,
+34820,129718,34241,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34821,129718,34241,203,ISHL,Japanese Industrial Safety and Health Law,,update approval to only approved for Chile 7/16/22
+34822,129718,34241,204,KKDIK,Turkey REACH compliance check completed,,update approval to only approved for Chile 7/16/22
+34823,129718,34241,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34824,141465,37061,90,MSDS,MSDS Requirement,MSDS,
+34825,141465,37061,91,TSCA,TSCA Certificate,TSCA,
+34826,141465,37061,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34827,141465,37061,109,CEPA,Canadian Environmental Protection Act,,
+34828,141465,37061,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34829,141465,37061,111,ELINCS,European REACH,CEPAN,
+34830,141465,37061,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34831,141465,37061,113,ENCS,Japanese Existing and New Chemical substances,EINECS,No registration information
+34832,141465,37061,114,ECL,Korean Existing Chemicals Inventory,KKDIK,No registration information
+34833,141465,37061,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34834,141465,37061,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34835,141465,37061,117,NZTSD,New Zealand Toxic Substances Database,,
+34836,141465,37061,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34837,141465,37061,203,ISHL,Japanese Industrial Safety and Health Law,,
+34838,141465,37061,204,KKDIK,Turkey REACH compliance check completed,,
+34839,141465,37061,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34840,141465,37061,206,SERB,Serbia,JAPAN,
+34841,141465,37061,207,IND,Indonesia,,
+34842,141465,37061,208,THAI,Thailand,,
+34843,141465,37061,209,TAIW,Taiwan,IND,
+34844,141465,37061,210,SOAF,South Africa,THAI,
+34845,141465,37061,211,JAP,Japan,IECSA,
+34846,143344,40506,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34847,143344,40506,203,ISHL,Japanese Industrial Safety and Health Law,,
+34848,143344,40506,204,KKDIK,Turkey REACH compliance check completed,,
+34849,143344,40506,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34850,143344,40506,206,SERB,Serbia,JAPAN,
+34851,143344,40506,207,IND,Indonesia,,
+34852,143344,40506,208,THAI,Thailand,,
+34853,143344,40506,209,TAIW,Taiwan,IND,
+34854,143344,40506,210,SOAF,South Africa,THAI,
+34855,143344,40506,211,JAP,Japan,IECSA,
+34856,143345,40507,90,MSDS,MSDS Requirement,MSDS,
+34857,143345,40507,91,TSCA,TSCA Certificate,TSCA,
+34858,143345,40507,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34859,143345,40507,109,CEPA,Canadian Environmental Protection Act,,
+34860,143345,40507,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34861,143345,40507,111,ELINCS,European REACH,CEPAN,
+34862,143345,40507,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34863,143345,40507,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34864,143345,40507,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34865,143345,40507,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34866,143345,40507,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34867,143345,40507,117,NZTSD,New Zealand Toxic Substances Database,,
+34868,143345,40507,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34869,143345,40507,203,ISHL,Japanese Industrial Safety and Health Law,,
+34870,143345,40507,204,KKDIK,Turkey REACH compliance check completed,,
+34871,143345,40507,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34872,143345,40507,206,SERB,Serbia,JAPAN,
+34873,143345,40507,207,IND,Indonesia,,
+34874,143345,40507,208,THAI,Thailand,,
+34875,143345,40507,209,TAIW,Taiwan,IND,
+34876,143345,40507,210,SOAF,South Africa,THAI,
+34877,143345,40507,211,JAP,Japan,IECSA,
+34878,145827,40581,91,TSCA,TSCA Certificate,TSCA,Natural rubber is exempt.
+34879,145827,40581,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34880,145827,40581,109,CEPA,Canadian Environmental Protection Act,,
+34881,145827,40581,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Natural rubber is exempt.
+34882,145827,40581,111,ELINCS,European REACH,CEPAN,Natural rubber is exempt.
+34883,145827,40581,112,AICS,Australian Inventory of chemical Substances,ELINCS,Natural rubber is exempt.
+34884,145827,40581,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34885,145827,40581,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34886,145827,40581,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34887,145827,40581,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34888,145827,40581,117,NZTSD,New Zealand Toxic Substances Database,,
+34889,145827,40581,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Natural rubber is exempt.
+34890,145827,40581,203,ISHL,Japanese Industrial Safety and Health Law,,
+34891,145827,40581,204,KKDIK,Turkey REACH compliance check completed,,
+34892,145827,40581,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34893,145827,40581,206,SERB,Serbia,JAPAN,
+34894,145827,40581,207,IND,Indonesia,,
+34895,145827,40581,208,THAI,Thailand,,
+34896,145827,40581,209,TAIW,Taiwan,IND,
+34897,145827,40581,210,SOAF,South Africa,THAI,
+34898,145827,40581,211,JAP,Japan,IECSA,
+34899,145760,40541,90,MSDS,MSDS Requirement,MSDS,Not considered hazardous.
+34900,145760,40541,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34901,145760,40541,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34902,145760,40541,109,CEPA,Canadian Environmental Protection Act,,
+34903,145760,40541,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34904,145760,40541,111,ELINCS,European REACH,CEPAN,
+34905,145760,40541,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34906,145760,40541,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34907,145760,40541,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34908,145760,40541,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34909,145760,40541,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34910,145760,40541,117,NZTSD,New Zealand Toxic Substances Database,,
+34911,145760,40541,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34912,145760,40541,203,ISHL,Japanese Industrial Safety and Health Law,,
+34913,145760,40541,204,KKDIK,Turkey REACH compliance check completed,,
+34914,145760,40541,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34915,145760,40541,206,SERB,Serbia,JAPAN,
+34916,145760,40541,207,IND,Indonesia,,
+34917,145760,40541,208,THAI,Thailand,,
+34918,145760,40541,209,TAIW,Taiwan,IND,
+34919,145760,40541,210,SOAF,South Africa,THAI,
+34920,145760,40541,211,JAP,Japan,IECSA,
+34921,145769,40561,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34922,145769,40561,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34923,145769,40561,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34924,145769,40561,109,CEPA,Canadian Environmental Protection Act,,
+34925,145769,40561,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34926,145769,40561,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34927,145769,40561,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34928,145769,40561,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34929,145769,40561,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34930,145769,40561,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34931,145769,40561,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34932,145769,40561,117,NZTSD,New Zealand Toxic Substances Database,,
+34933,145769,40561,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+34934,145769,40561,203,ISHL,Japanese Industrial Safety and Health Law,,
+34935,145769,40561,204,KKDIK,Turkey REACH compliance check completed,,
+34936,145769,40561,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34937,145769,40561,206,SERB,Serbia,JAPAN,
+34938,145769,40561,207,IND,Indonesia,,
+34939,145769,40561,208,THAI,Thailand,,
+34940,145769,40561,209,TAIW,Taiwan,IND,
+34941,145769,40561,210,SOAF,South Africa,THAI,
+34942,145769,40561,211,JAP,Japan,IECSA,
+34943,145827,40581,90,MSDS,MSDS Requirement,MSDS,Not classified as a hazard
+34944,145832,40641,90,MSDS,MSDS Requirement,MSDS,"		&#9675; Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
 "
-34967,145832,40641,91,TSCA,TSCA Certificate,TSCA,
-34968,145832,40641,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34969,145832,40641,109,CEPA,Canadian Environmental Protection Act,,
-34970,145832,40641,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34971,145832,40641,111,ELINCS,European REACH,CEPAN,
-34972,145832,40641,112,AICS,Australian Inventory of chemical Substances,ELINCS,
-34973,145832,40641,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-34974,145832,40641,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
-34975,145832,40641,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-34976,145832,40641,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34977,145832,40641,117,NZTSD,New Zealand Toxic Substances Database,,
-34978,145832,40641,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34979,145832,40641,203,ISHL,Japanese Industrial Safety and Health Law,,
-34980,145832,40641,204,KKDIK,Turkey REACH compliance check completed,,
-34981,145832,40641,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34982,145832,40641,206,SERB,Serbia,JAPAN,
-34983,145832,40641,207,IND,Indonesia,,
-34984,145832,40641,208,THAI,Thailand,,
-34985,145832,40641,209,TAIW,Taiwan,IND,
-34986,145832,40641,210,SOAF,South Africa,THAI,
-34987,145832,40641,211,JAP,Japan,IECSA,
-34988,145040,40321,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
-34989,145040,40321,117,NZTSD,New Zealand Toxic Substances Database,,
-34990,145040,40321,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-34991,145040,40321,203,ISHL,Japanese Industrial Safety and Health Law,,
-34992,145040,40321,204,KKDIK,Turkey REACH compliance check completed,,
-34993,145040,40321,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-34994,145040,40321,90,MSDS,MSDS Requirement,MSDS,
-34995,145040,40321,91,TSCA,TSCA Certificate,TSCA,
-34996,145040,40321,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-34997,145040,40321,109,CEPA,Canadian Environmental Protection Act,,
-34998,145040,40321,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-34999,145040,40321,111,ELINCS,European REACH,CEPAN,
-35000,145040,40321,112,AICS,Australian Inventory of chemical Substances,ELINCS,per CIRF
-35001,145040,40321,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
-35002,137030,35861,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-35003,137030,35861,109,CEPA,Canadian Environmental Protection Act,,
-35004,137030,35861,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"On DSL per CIRF, no flags"
-35005,137030,35861,111,ELINCS,European REACH,CEPAN,"Not on NDSL, OK "
-35006,137030,35861,112,AICS,Australian Inventory of chemical Substances,ELINCS,"OK, Polymer exempt and monomers registered (German supplier, OR information provided on CIRF) "
-35007,137030,35861,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"OK, Polymer exempt and monomers registered (German supplier, OR information provided on CIRF)"
-35008,137030,35861,114,ECL,Korean Existing Chemicals Inventory,KKDIK,"OK, polymer and they have pre-registered monomer "
-35009,137030,35861,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-35010,137030,35861,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK per CIRF 
-35011,137030,35861,117,NZTSD,New Zealand Toxic Substances Database,,
-35012,137030,35861,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
-35013,137030,35861,203,ISHL,Japanese Industrial Safety and Health Law,,OK per CIRF 
-35014,137030,35861,204,KKDIK,Turkey REACH compliance check completed,,OK per CIRF 
-35015,137030,35861,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
-35016,145040,40321,114,ECL,Korean Existing Chemicals Inventory,KKDIK,per CIRF
-35017,145040,40321,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
-35018,145040,40321,206,SERB,Serbia,JAPAN,
-35019,145040,40321,207,IND,Indonesia,,
-35020,145040,40321,208,THAI,Thailand,,
-35021,145040,40321,209,TAIW,Taiwan,IND,
-35022,145040,40321,210,SOAF,South Africa,THAI,
-35023,145040,40321,211,JAP,Japan,IECSA,
-35024,143210,38322,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35025,143210,38322,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35026,143210,38322,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-35027,143210,38322,109,CEPA,Canadian Environmental Protection Act,,
-35028,143210,38322,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35029,143210,38322,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35030,143210,38322,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35031,143210,38322,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35032,143210,38322,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35033,143210,38322,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35034,143210,38322,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35035,143210,38322,117,NZTSD,New Zealand Toxic Substances Database,,
-35036,143210,38322,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35037,143210,38322,203,ISHL,Japanese Industrial Safety and Health Law,,
-35038,143210,38322,204,KKDIK,Turkey REACH compliance check completed,,
-35039,143210,38322,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35040,143210,38322,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35041,143210,38322,207,IND,Indonesia,,
-35042,143210,38322,208,THAI,Thailand,,
-35043,143210,38322,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35044,143210,38322,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35045,143210,38322,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35046,143577,38501,90,MSDS,MSDS Requirement,MSDS, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35047,143577,38501,91,TSCA,TSCA Certificate,TSCA, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35048,143577,38501,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-35049,143577,38501,109,CEPA,Canadian Environmental Protection Act,,
-35050,143577,38501,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35051,143577,38501,111,ELINCS,European REACH,CEPAN, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35052,143577,38501,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35053,143577,38501,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35054,143577,38501,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35055,143577,38501,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35056,143577,38501,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35057,143577,38501,117,NZTSD,New Zealand Toxic Substances Database,,
-35058,143577,38501,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35059,143577,38501,203,ISHL,Japanese Industrial Safety and Health Law,,
-35060,143577,38501,204,KKDIK,Turkey REACH compliance check completed,,
-35061,143577,38501,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35062,143577,38501,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35063,143577,38501,207,IND,Indonesia,,
-35064,143577,38501,208,THAI,Thailand,,
-35065,143577,38501,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35066,143577,38501,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35067,143577,38501,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
-35068,77978,40362,90,MSDS,MSDS Requirement,MSDS,The product is not classified as hazardous pursuant to the provisions set forth in EC Regulation 1272/2008 (CLP) (and subsequent amendments and supplement).
-35069,77978,40362,91,TSCA,TSCA Certificate,TSCA,
-35070,77978,40362,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
-35071,77978,40362,109,CEPA,Canadian Environmental Protection Act,,
-35072,77978,40362,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
-35073,77978,40362,111,ELINCS,European REACH,CEPAN,
-35074,77978,40362,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34945,145832,40641,91,TSCA,TSCA Certificate,TSCA,
+34946,145832,40641,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34947,145832,40641,109,CEPA,Canadian Environmental Protection Act,,
+34948,145832,40641,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34949,145832,40641,111,ELINCS,European REACH,CEPAN,
+34950,145832,40641,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+34951,145832,40641,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34952,145832,40641,114,ECL,Korean Existing Chemicals Inventory,KKDIK,
+34953,145832,40641,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34954,145832,40641,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34955,145832,40641,117,NZTSD,New Zealand Toxic Substances Database,,
+34956,145832,40641,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34957,145832,40641,203,ISHL,Japanese Industrial Safety and Health Law,,
+34958,145832,40641,204,KKDIK,Turkey REACH compliance check completed,,
+34959,145832,40641,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34960,145832,40641,206,SERB,Serbia,JAPAN,
+34961,145832,40641,207,IND,Indonesia,,
+34962,145832,40641,208,THAI,Thailand,,
+34963,145832,40641,209,TAIW,Taiwan,IND,
+34964,145832,40641,210,SOAF,South Africa,THAI,
+34965,145832,40641,211,JAP,Japan,IECSA,
+34966,145040,40321,116,CLECS,Chinese List of Existing Chemical substances,SOAF,
+34967,145040,40321,117,NZTSD,New Zealand Toxic Substances Database,,
+34968,145040,40321,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34969,145040,40321,203,ISHL,Japanese Industrial Safety and Health Law,,
+34970,145040,40321,204,KKDIK,Turkey REACH compliance check completed,,
+34971,145040,40321,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34972,145040,40321,90,MSDS,MSDS Requirement,MSDS,
+34973,145040,40321,91,TSCA,TSCA Certificate,TSCA,
+34974,145040,40321,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34975,145040,40321,109,CEPA,Canadian Environmental Protection Act,,
+34976,145040,40321,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+34977,145040,40321,111,ELINCS,European REACH,CEPAN,
+34978,145040,40321,112,AICS,Australian Inventory of chemical Substances,ELINCS,per CIRF
+34979,145040,40321,113,ENCS,Japanese Existing and New Chemical substances,EINECS,
+34980,137030,35861,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+34981,137030,35861,109,CEPA,Canadian Environmental Protection Act,,
+34982,137030,35861,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,"On DSL per CIRF, no flags"
+34983,137030,35861,111,ELINCS,European REACH,CEPAN,"Not on NDSL, OK "
+34984,137030,35861,112,AICS,Australian Inventory of chemical Substances,ELINCS,"OK, Polymer exempt and monomers registered (German supplier, OR information provided on CIRF) "
+34985,137030,35861,113,ENCS,Japanese Existing and New Chemical substances,EINECS,"OK, Polymer exempt and monomers registered (German supplier, OR information provided on CIRF)"
+34986,137030,35861,114,ECL,Korean Existing Chemicals Inventory,KKDIK,"OK, polymer and they have pre-registered monomer "
+34987,137030,35861,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34988,137030,35861,116,CLECS,Chinese List of Existing Chemical substances,SOAF,OK per CIRF 
+34989,137030,35861,117,NZTSD,New Zealand Toxic Substances Database,,
+34990,137030,35861,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,
+34991,137030,35861,203,ISHL,Japanese Industrial Safety and Health Law,,OK per CIRF 
+34992,137030,35861,204,KKDIK,Turkey REACH compliance check completed,,OK per CIRF 
+34993,137030,35861,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,
+34994,145040,40321,114,ECL,Korean Existing Chemicals Inventory,KKDIK,per CIRF
+34995,145040,40321,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,
+34996,145040,40321,206,SERB,Serbia,JAPAN,
+34997,145040,40321,207,IND,Indonesia,,
+34998,145040,40321,208,THAI,Thailand,,
+34999,145040,40321,209,TAIW,Taiwan,IND,
+35000,145040,40321,210,SOAF,South Africa,THAI,
+35001,145040,40321,211,JAP,Japan,IECSA,
+35002,143210,38322,90,MSDS,MSDS Requirement,MSDS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35003,143210,38322,91,TSCA,TSCA Certificate,TSCA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35004,143210,38322,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+35005,143210,38322,109,CEPA,Canadian Environmental Protection Act,,
+35006,143210,38322,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35007,143210,38322,111,ELINCS,European REACH,CEPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35008,143210,38322,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35009,143210,38322,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35010,143210,38322,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35011,143210,38322,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35012,143210,38322,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35013,143210,38322,117,NZTSD,New Zealand Toxic Substances Database,,
+35014,143210,38322,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35015,143210,38322,203,ISHL,Japanese Industrial Safety and Health Law,,
+35016,143210,38322,204,KKDIK,Turkey REACH compliance check completed,,
+35017,143210,38322,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35018,143210,38322,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35019,143210,38322,207,IND,Indonesia,,
+35020,143210,38322,208,THAI,Thailand,,
+35021,143210,38322,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35022,143210,38322,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35023,143210,38322,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35024,143577,38501,90,MSDS,MSDS Requirement,MSDS, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35025,143577,38501,91,TSCA,TSCA Certificate,TSCA, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35026,143577,38501,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+35027,143577,38501,109,CEPA,Canadian Environmental Protection Act,,
+35028,143577,38501,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35029,143577,38501,111,ELINCS,European REACH,CEPAN, Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35030,143577,38501,112,AICS,Australian Inventory of chemical Substances,ELINCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35031,143577,38501,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35032,143577,38501,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35033,143577,38501,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35034,143577,38501,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35035,143577,38501,117,NZTSD,New Zealand Toxic Substances Database,,
+35036,143577,38501,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35037,143577,38501,203,ISHL,Japanese Industrial Safety and Health Law,,
+35038,143577,38501,204,KKDIK,Turkey REACH compliance check completed,,
+35039,143577,38501,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35040,143577,38501,206,SERB,Serbia,JAPAN,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35041,143577,38501,207,IND,Indonesia,,
+35042,143577,38501,208,THAI,Thailand,,
+35043,143577,38501,209,TAIW,Taiwan,IND,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35044,143577,38501,210,SOAF,South Africa,THAI,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35045,143577,38501,211,JAP,Japan,IECSA,Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions
+35046,77978,40362,90,MSDS,MSDS Requirement,MSDS,The product is not classified as hazardous pursuant to the provisions set forth in EC Regulation 1272/2008 (CLP) (and subsequent amendments and supplement).
+35047,77978,40362,91,TSCA,TSCA Certificate,TSCA,
+35048,77978,40362,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+35049,77978,40362,109,CEPA,Canadian Environmental Protection Act,,
+35050,77978,40362,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,
+35051,77978,40362,111,ELINCS,European REACH,CEPAN,
+35052,77978,40362,112,AICS,Australian Inventory of chemical Substances,ELINCS,
+35053,146419,41502,90,MSDS,MSDS Requirement,MSDS,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35054,146419,41502,91,TSCA,TSCA Certificate,TSCA,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35055,146419,41502,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
+35056,146419,41502,109,CEPA,Canadian Environmental Protection Act,,
+35057,146419,41502,110,EINECS,European Inventory of Existing Commercial Chemical,CEPAD,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35058,146419,41502,111,ELINCS,European REACH,CEPAN,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35059,146419,41502,112,AICS,Australian Inventory of chemical Substances,ELINCS,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35060,146419,41502,113,ENCS,Japanese Existing and New Chemical substances,EINECS,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35061,146419,41502,114,ECL,Korean Existing Chemicals Inventory,KKDIK,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35062,146419,41502,115,PICCS,Philippine Inventory of Chemicals and Chemic,SERB,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35063,146419,41502,116,CLECS,Chinese List of Existing Chemical substances,SOAF,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35064,146419,41502,117,NZTSD,New Zealand Toxic Substances Database,,
+35065,146419,41502,202,TAIWANECN,Taiwan Existing and New Chemical Notification,ENCS,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35066,146419,41502,203,ISHL,Japanese Industrial Safety and Health Law,,
+35067,146419,41502,204,KKDIK,Turkey REACH compliance check completed,,
+35068,146419,41502,205,CEPAN,Canadian Environmental Protection Act NDSL,ISHL,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35069,146419,41502,206,SERB,Serbia,JAPAN,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35070,146419,41502,207,IND,Indonesia,,
+35071,146419,41502,208,THAI,Thailand,,
+35072,146419,41502,209,TAIW,Taiwan,IND,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35073,146419,41502,210,SOAF,South Africa,THAI,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
+35074,146419,41502,211,JAP,Japan,IECSA,Items is an article and not hazardous. Compliance check ok at the time of approval. Per supplier CIRF at the time of review component meets EU article and Global inventory exemptions.
 35075,141662,37204,90,MSDS,MSDS Requirement,MSDS,Not classified as hazardous 
 35076,141662,37204,91,TSCA,TSCA Certificate,TSCA,Country not in scope of approval 
 35077,141662,37204,108,TSCASEC,"TSCA Sections 4,5,6,7,8 or 12 ",,
