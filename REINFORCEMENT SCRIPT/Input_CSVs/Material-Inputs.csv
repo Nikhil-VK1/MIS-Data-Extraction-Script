@@ -1,0 +1,10 @@
+FIELD_NAME,VALUE,Comments/Questions
+MA_VALUE,MATERIAL_CODE,
+DESCRIPTION,MATERIAL_DESC,
+BASE_UOM,,Not exist in MIS
+MA_SOURCE,,Not exist in MIS
+BASE_CONV_FACTOR,,Not exist in MIS
+BASE_TO_UNIT,,Not exist in MIS
+BASE_QUANTITY,,Not exist in MIS
+DATE_IMPORTED,,Not exist in MIS
+ACTIVE,1,Need confirmation on this.

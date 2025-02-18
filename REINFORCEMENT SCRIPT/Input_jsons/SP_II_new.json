@@ -1,0 +1,117 @@
+{
+    "SP_VALUE": null,
+    "SP_VERSION": null,
+    "CONTEXT": null,
+    "SP_KEY1": null,
+    "SP_KEY2": null,
+    "SP_KEY3": null,
+    "SP_KEY4": null,
+    "SP_KEY5": null,
+    "IC_CAPTION": [
+        "Raw Material - Basic",
+        "Raw Material General Information",
+        "Supplier/Agent Info"
+    ],
+    "IC_ORDER": null,
+    "II_CAPTION": {
+        "Raw Material - Basic": [
+            "Note:",
+            "Raw Material - Basic PPSG",
+            "Cements: GBS Class of Solvent",
+            "Ingredient Solids %"
+        ],
+        "Raw Material General Information": [
+            "Initial Exp Spec Code",
+            "Material Description",
+            "Material Class",
+            "GBS Material Type",
+            "GBS Type of Component",
+            "Staining",
+            "Material Form",
+            "Third Party Confidential",
+            "Material Subclass",
+            "GBS secondary Material Type",
+            "Compatible"
+        ],
+        "Supplier/Agent Info": [
+            "Initial Exp Spec Code",
+            "Material Code",
+            "Material Description",
+            "Supplier",
+            "Agent",
+            "Supplier Plant",
+            "Agent Plant",
+            "Supplier Plant - City",
+            "Agent Plant - City",
+            "Supplier Plant - State",
+            "Agent Plant - State",
+            "Agent Plant - Country",
+            "Supplier Plant - Country",
+            "Plant Code",
+            "Plant Code",
+            "Supplier Trade Name",
+            "Agent to Break Bulk?",
+            "Supplier Contact Name",
+            "Agent Contact Name",
+            "Supplier Contact Type",
+            "Agent Contact Type",
+            "Supplier email",
+            "Agent email",
+            "Supplier Phone",
+            "Agent Phone"
+        ]
+    },
+    "IE_SHORT_DESC": {
+        "Raw Material - Basic": {
+            "Note:": "mlComment",
+            "Raw Material - Basic PPSG": "ieRawMaterialBasicPPSG",
+            "Cements: GBS Class of Solvent": "ddlGBSSolvent",
+            "Ingredient Solids %": "efIngSolids"
+        },
+        "Raw Material General Information": {
+            "Initial Exp Spec Code":"ieInitialExpSpCode",
+            "Material Description": "ieMaterialDescription",
+            "Material Class": "ieMaterialClass",
+            "GBS Material Type": "cbGBSMatType",
+            "GBS Type of Component": "cbGBSTypeComp",
+            "Staining": "ddlStaining",
+            "Material Form": "ddlMatForm",
+            "Third Party Confidential": "ckThirdPartyConf",
+            "Material Subclass": "ieMaterialSubclass",
+            "GBS secondary Material Type": "cbGBSMatSecType",
+            "Compatible": "ddlCompatible"
+        },
+        "Supplier/Agent Info":{
+            "Initial Exp Spec Code":"ieInitialExpSpCode",
+            "Material Code":"cbMaterialCode",
+            "Material Description":"ieMatDescSupplier",
+            "Supplier":"ieSupplier",
+            "Agent":"ieAgent",
+            "Supplier Plant":"ieSupplierPlant",
+            "Agent Plant":"ieAgentPlant",
+            "Supplier Plant - City":"ieSupplierPlantLocationCity",
+            "Agent Plant - City":"ieAgentPlantLocationCity",
+            "Supplier Plant - State":"ieSupplierPlantLocationState",
+            "Agent Plant - State":"ieAgentPlantLocationState",
+            "Agent Plant - Country":"ieAgentPlantLocationCountry",
+            "Supplier Plant - Country":"ieSupplierPlantLocationCountry",
+            "Plant Code":"ieSISPlantCode",
+            "Plant Code_1":"ieAgentPlantCode",
+            "Supplier Trade Name":"ieSupplierTradeName",
+            "Agent to Break Bulk?":"cbBreakBulk",
+            "Supplier Contact Name":"ieSupplierContactName",
+            "Agent Contact Name":"ieAgentContactName",
+            "Supplier Contact Type":"ddlSupType",
+            "Agent Contact Type":"ddlAgentType",
+            "Supplier email":"ieSupplierEmail",
+            "Agent email":"ieAgentEmail",
+            "Supplier Phone":"ieSupplierPhone",
+            "Agent Phone":"ieAgentPhone"
+        }
+
+        
+    },
+    "IE_VERSION": null,
+    "II_ORDER": null,
+    "IIVALUE": null
+}

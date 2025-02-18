@@ -1,0 +1,1367 @@
+2024-07-18 08:54:18,924 - INFO - Success on 1: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:54:20,108 - INFO - Success on 1: 200 - {"StatusTo": 5}
+2024-07-18 08:54:20,425 - INFO - Success on 1: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:54:20,743 - INFO - Success on 1: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:21,082 - INFO - Success on 1: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:21,390 - INFO - Success on 1: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:21,703 - INFO - Success on 1: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:54:22,019 - INFO - Success on 1: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:54:22,278 - INFO - Success on 1: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:22,602 - INFO - Success on 1: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:54:22,928 - INFO - Success on 1: 200 - {"IIVALUE": "105-11-3", "IIVALUEF": 0}
+2024-07-18 08:54:23,242 - INFO - Success on 1: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 08:54:23,557 - INFO - Success on 1: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:54:23,898 - INFO - Success on 1: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:54:24,166 - INFO - Success on 1: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:24,492 - INFO - Success on 1: 200 - {"IIVALUE": "p-Benzoquinone dioxime, 95% ", "IIVALUEF": 0}
+2024-07-18 08:54:24,808 - INFO - Success on 1: 200 - {"IIVALUE": "Alfa Aesar", "IIVALUEF": 0}
+2024-07-18 08:54:25,116 - INFO - Success on 1: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:25,428 - INFO - Success on 1: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:54:25,694 - INFO - Success on 1: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:26,032 - INFO - Success on 1: 200 - {"IIVALUE": "H1231A", "IIVALUEF": 0}
+2024-07-18 08:54:26,355 - INFO - Success on 1: 200 - {"IIVALUE": "A17532", "IIVALUEF": 0}
+2024-07-18 08:54:26,730 - INFO - Success on 2: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:54:27,908 - INFO - Success on 2: 200 - {"StatusTo": 5}
+2024-07-18 08:54:29,783 - INFO - Success on 2: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:54:30,784 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:31,796 - INFO - Success on 2: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:32,797 - INFO - Success on 2: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:33,797 - INFO - Success on 2: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:54:34,814 - INFO - Success on 2: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:54:35,814 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:36,821 - INFO - Success on 2: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:54:38,835 - INFO - Success on 2: 200 - {"IIVALUE": "77-09-8", "IIVALUEF": 0}
+2024-07-18 08:54:39,836 - INFO - Success on 2: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:54:40,839 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:41,844 - INFO - Success on 2: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:54:42,846 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:43,855 - INFO - Success on 2: 200 - {"IIVALUE": "Phenolphthalein indicator ", "IIVALUEF": 0}
+2024-07-18 08:54:44,857 - INFO - Success on 2: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:54:45,891 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:46,215 - INFO - Success on 2: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:54:46,485 - INFO - Success on 2: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:46,805 - INFO - Success on 2: 200 - {"IIVALUE": "K42845433219", "IIVALUEF": 0}
+2024-07-18 08:54:47,113 - INFO - Success on 2: 200 - {"IIVALUE": "1.07233.0025", "IIVALUEF": 0}
+2024-07-18 08:54:47,494 - INFO - Success on 3: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:54:48,667 - INFO - Success on 3: 200 - {"StatusTo": 5}
+2024-07-18 08:54:48,997 - INFO - Success on 3: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:54:49,260 - INFO - Success on 3: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:49,561 - INFO - Success on 3: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:49,872 - INFO - Success on 3: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:54:50,182 - INFO - Success on 3: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:54:50,503 - INFO - Success on 3: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:54:50,750 - INFO - Success on 3: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:51,078 - INFO - Success on 3: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:54:51,395 - INFO - Success on 3: 200 - {"IIVALUE": "CE 215-181-3", "IIVALUEF": 0}
+2024-07-18 08:54:51,747 - INFO - Success on 3: 200 - {"IIVALUE": "80.0", "IIVALUEF": 0}
+2024-07-18 08:54:52,059 - INFO - Success on 3: 200 - {"IIVALUE": "Method/Project: QA 0056-01", "IIVALUEF": 0}
+2024-07-18 08:54:52,377 - INFO - Success on 3: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:54:52,642 - INFO - Success on 3: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:53,002 - INFO - Success on 3: 200 - {"IIVALUE": "Potassium hydroxyde pellets for analysis ", "IIVALUEF": 0}
+2024-07-18 08:54:53,939 - INFO - Success on 3: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:54:54,940 - INFO - Success on 3: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:55,942 - INFO - Success on 3: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:54:56,952 - INFO - Success on 3: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:54:57,969 - INFO - Success on 3: 200 - {"IIVALUE": "B533721 431", "IIVALUEF": 0}
+2024-07-18 08:54:58,986 - INFO - Success on 3: 200 - {"IIVALUE": "1.05021.0250", "IIVALUEF": 0}
+2024-07-18 08:54:59,994 - INFO - Success on 4: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:55:01,997 - INFO - Success on 4: 200 - {"StatusTo": 5}
+2024-07-18 08:55:03,004 - INFO - Success on 4: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:55:06,012 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:07,014 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:08,015 - INFO - Success on 4: 200 - {"IIVALUE": "10/31/2018 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:55:09,016 - INFO - Success on 4: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:55:10,026 - INFO - Success on 4: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:55:11,027 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:12,042 - INFO - Success on 4: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:55:13,058 - INFO - Success on 4: 200 - {"IIVALUE": "10025-77-1", "IIVALUEF": 0}
+2024-07-18 08:55:14,058 - INFO - Success on 4: 200 - {"IIVALUE": "250.0", "IIVALUEF": 0}
+2024-07-18 08:55:15,075 - INFO - Success on 4: 200 - {"IIVALUE": "Method/Project: QA0199-01", "IIVALUEF": 0}
+2024-07-18 08:55:16,088 - INFO - Success on 4: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:55:17,089 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:18,106 - INFO - Success on 4: 200 - {"IIVALUE": "Iron (III) chloride hexahydrate for analysis ", "IIVALUEF": 0}
+2024-07-18 08:55:19,104 - INFO - Success on 4: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:55:20,114 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:21,120 - INFO - Success on 4: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:55:22,122 - INFO - Success on 4: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:23,135 - INFO - Success on 4: 200 - {"IIVALUE": "B1241043626", "IIVALUEF": 0}
+2024-07-18 08:55:24,152 - INFO - Success on 4: 200 - {"IIVALUE": "1.03943.0250", "IIVALUEF": 0}
+2024-07-18 08:55:25,154 - INFO - Success on 5: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:55:27,170 - INFO - Success on 5: 200 - {"StatusTo": 5}
+2024-07-18 08:55:28,197 - INFO - Success on 5: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:55:29,215 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:30,227 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:31,243 - INFO - Success on 5: 200 - {"IIVALUE": "04/30/2021 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:55:32,244 - INFO - Success on 5: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:55:33,245 - INFO - Success on 5: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:55:34,258 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:35,260 - INFO - Success on 5: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:55:36,260 - INFO - Success on 5: 200 - {"IIVALUE": "7757-82-6", "IIVALUEF": 0}
+2024-07-18 08:55:37,283 - INFO - Success on 5: 200 - {"IIVALUE": "500.0", "IIVALUEF": 0}
+2024-07-18 08:55:38,297 - INFO - Success on 5: 200 - {"IIVALUE": "Method/Project: QA0006-08", "IIVALUEF": 0}
+2024-07-18 08:55:39,299 - INFO - Success on 5: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:55:40,307 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:40,660 - INFO - Success on 5: 200 - {"IIVALUE": "Sodium sulfate for analysis ", "IIVALUEF": 0}
+2024-07-18 08:55:40,979 - INFO - Success on 5: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:55:41,246 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:41,548 - INFO - Success on 5: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:55:41,818 - INFO - Success on 5: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:42,129 - INFO - Success on 5: 200 - {"IIVALUE": "AM1023849810", "IIVALUEF": 0}
+2024-07-18 08:55:42,461 - INFO - Success on 5: 200 - {"IIVALUE": "1.06649.0500", "IIVALUEF": 0}
+2024-07-18 08:55:42,823 - INFO - Success on 6: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:55:44,001 - INFO - Success on 6: 200 - {"StatusTo": 5}
+2024-07-18 08:55:44,309 - INFO - Success on 6: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:55:44,579 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:44,908 - INFO - Success on 6: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:55:45,246 - INFO - Success on 6: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:55:45,586 - INFO - Success on 6: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:55:45,906 - INFO - Success on 6: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:55:46,171 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:46,482 - INFO - Success on 6: 200 - {"IIVALUE": "Dier, Tobias", "IIVALUEF": 0}
+2024-07-18 08:55:46,748 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:47,069 - INFO - Success on 6: 200 - {"IIVALUE": "900.0", "IIVALUEF": 0}
+2024-07-18 08:55:47,329 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:48,406 - INFO - Success on 6: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:55:49,407 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:50,424 - INFO - Success on 6: 200 - {"IIVALUE": "Aluminiumoxid 60 active, basic for column chromatography", "IIVALUEF": 0}
+2024-07-18 08:55:51,438 - INFO - Success on 6: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:55:52,440 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:53,460 - INFO - Success on 6: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:55:54,956 - INFO - Success on 6: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:55:55,970 - INFO - Success on 6: 200 - {"IIVALUE": "9029192", "IIVALUEF": 0}
+2024-07-18 08:55:56,981 - INFO - Success on 6: 200 - {"IIVALUE": "1067", "IIVALUEF": 0}
+2024-07-18 08:55:57,367 - INFO - Success on 7: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:55:59,511 - INFO - Success on 7: 200 - {"StatusTo": 5}
+2024-07-18 08:56:00,513 - INFO - Success on 7: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:56:01,513 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:02,529 - INFO - Success on 7: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:03,546 - INFO - Success on 7: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:04,550 - INFO - Success on 7: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:56:05,549 - INFO - Success on 7: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:56:06,561 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:07,562 - INFO - Success on 7: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:56:08,563 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:09,574 - INFO - Success on 7: 200 - {"IIVALUE": "510.0", "IIVALUEF": 0}
+2024-07-18 08:56:10,591 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:11,591 - INFO - Success on 7: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:56:12,592 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:13,607 - INFO - Success on 7: 200 - {"IIVALUE": "Starch soluble for analysis", "IIVALUEF": 0}
+2024-07-18 08:56:14,609 - INFO - Success on 7: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:56:15,610 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:16,617 - INFO - Success on 7: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:56:17,624 - INFO - Success on 7: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:18,625 - INFO - Success on 7: 200 - {"IIVALUE": "1128233", "IIVALUEF": 0}
+2024-07-18 08:56:18,954 - INFO - Success on 7: 200 - {"IIVALUE": "1257", "IIVALUEF": 0}
+2024-07-18 08:56:20,129 - INFO - Success on 8: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:56:21,310 - INFO - Success on 8: 200 - {"StatusTo": 5}
+2024-07-18 08:56:22,157 - INFO - Success on 8: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:56:22,428 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:22,801 - INFO - Success on 8: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:23,131 - INFO - Success on 8: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:23,470 - INFO - Success on 8: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:56:23,788 - INFO - Success on 8: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:56:24,072 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:24,395 - INFO - Success on 8: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:56:24,657 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:25,016 - INFO - Success on 8: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:56:25,277 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:25,598 - INFO - Success on 8: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:56:25,856 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:26,157 - INFO - Success on 8: 200 - {"IIVALUE": "Bromophenol-blue indicator ", "IIVALUEF": 0}
+2024-07-18 08:56:26,795 - INFO - Success on 8: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:56:27,092 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:27,399 - INFO - Success on 8: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:56:28,202 - INFO - Success on 8: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:28,588 - INFO - Success on 8: 200 - {"IIVALUE": "78523", "IIVALUEF": 0}
+2024-07-18 08:56:28,931 - INFO - Success on 8: 200 - {"IIVALUE": "8122", "IIVALUEF": 0}
+2024-07-18 08:56:30,204 - INFO - Success on 9: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:56:31,391 - INFO - Success on 9: 200 - {"StatusTo": 5}
+2024-07-18 08:56:31,710 - INFO - Success on 9: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:56:32,725 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:33,065 - INFO - Success on 9: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:33,393 - INFO - Success on 9: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:34,237 - INFO - Success on 9: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:56:34,634 - INFO - Success on 9: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:56:35,743 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:36,106 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:36,364 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:37,248 - INFO - Success on 9: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:56:38,252 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:38,600 - INFO - Success on 9: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:56:39,765 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:40,075 - INFO - Success on 9: 200 - {"IIVALUE": "Hydroxynaphthol blue GR metal (pM) indicator ", "IIVALUEF": 0}
+2024-07-18 08:56:40,403 - INFO - Success on 9: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:56:41,282 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:41,622 - INFO - Success on 9: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:56:42,790 - INFO - Success on 9: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:43,097 - INFO - Success on 9: 200 - {"IIVALUE": "9602614", "IIVALUEF": 0}
+2024-07-18 08:56:43,470 - INFO - Success on 9: 200 - {"IIVALUE": "4593", "IIVALUEF": 0}
+2024-07-18 08:56:44,815 - INFO - Success on 10: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:56:45,993 - INFO - Success on 10: 200 - {"StatusTo": 5}
+2024-07-18 08:56:46,368 - INFO - Success on 10: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:56:46,642 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:46,956 - INFO - Success on 10: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:47,277 - INFO - Success on 10: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:47,592 - INFO - Success on 10: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:56:47,927 - INFO - Success on 10: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:56:48,841 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:49,164 - INFO - Success on 10: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:56:49,426 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:49,741 - INFO - Success on 10: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:56:50,050 - INFO - Success on 10: 200 - {"IIVALUE": "Method/Project: QA 0032-02 / QA0032-03", "IIVALUEF": 0}
+2024-07-18 08:56:50,365 - INFO - Success on 10: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:56:50,655 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:50,991 - INFO - Success on 10: 200 - {"IIVALUE": "Eriochromschwarz T ", "IIVALUEF": 0}
+2024-07-18 08:56:51,388 - INFO - Success on 10: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:56:51,678 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:52,032 - INFO - Success on 10: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:56:52,290 - INFO - Success on 10: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:52,683 - INFO - Success on 10: 200 - {"IIVALUE": "931 K12714870", "IIVALUEF": 0}
+2024-07-18 08:56:52,999 - INFO - Success on 10: 200 - {"IIVALUE": "3170", "IIVALUEF": 0}
+2024-07-18 08:56:53,360 - INFO - Success on 11: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:56:54,549 - INFO - Success on 11: 200 - {"StatusTo": 5}
+2024-07-18 08:56:54,899 - INFO - Success on 11: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:56:55,174 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:55,486 - INFO - Success on 11: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:55,819 - INFO - Success on 11: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:56:56,131 - INFO - Success on 11: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:56:56,490 - INFO - Success on 11: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:56:56,762 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:57,095 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:57,470 - INFO - Success on 11: 200 - {"IIVALUE": "607-144-00-9", "IIVALUEF": 0}
+2024-07-18 08:56:57,782 - INFO - Success on 11: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:56:58,046 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:58,382 - INFO - Success on 11: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:56:58,647 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:58,971 - INFO - Success on 11: 200 - {"IIVALUE": "Adipic acid for synthesis ", "IIVALUEF": 0}
+2024-07-18 08:56:59,296 - INFO - Success on 11: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:56:59,607 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:56:59,941 - INFO - Success on 11: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:57:00,240 - INFO - Success on 11: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:00,577 - INFO - Success on 11: 200 - {"IIVALUE": "S6212350207", "IIVALUEF": 0}
+2024-07-18 08:57:00,930 - INFO - Success on 11: 200 - {"IIVALUE": "8.18650.0100", "IIVALUEF": 0}
+2024-07-18 08:57:01,306 - INFO - Success on 12: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:57:02,484 - INFO - Success on 12: 200 - {"StatusTo": 5}
+2024-07-18 08:57:02,813 - INFO - Success on 12: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:57:03,079 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:03,411 - INFO - Success on 12: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:03,737 - INFO - Success on 12: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:04,071 - INFO - Success on 12: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:57:04,378 - INFO - Success on 12: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:57:04,650 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:05,927 - INFO - Success on 12: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 08:57:06,217 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:06,562 - INFO - Success on 12: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:57:07,443 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:07,762 - INFO - Success on 12: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:57:08,959 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:09,294 - INFO - Success on 12: 200 - {"IIVALUE": "Bromthymol blue indicator ", "IIVALUEF": 0}
+2024-07-18 08:57:09,615 - INFO - Success on 12: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:57:10,473 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:10,787 - INFO - Success on 12: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:57:11,989 - INFO - Success on 12: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:12,313 - INFO - Success on 12: 200 - {"IIVALUE": "1463719", "IIVALUEF": 0}
+2024-07-18 08:57:12,637 - INFO - Success on 12: 200 - {"IIVALUE": "3026", "IIVALUEF": 0}
+2024-07-18 08:57:14,020 - INFO - Success on 13: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:57:15,209 - INFO - Success on 13: 200 - {"StatusTo": 5}
+2024-07-18 08:57:15,534 - INFO - Success on 13: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:57:15,799 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:17,046 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:17,457 - INFO - Success on 13: 200 - {"IIVALUE": "08/31/2024 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:17,781 - INFO - Success on 13: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:57:19,053 - INFO - Success on 13: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:57:19,371 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:19,692 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:20,553 - INFO - Success on 13: 200 - {"IIVALUE": "6046-93-1", "IIVALUEF": 0}
+2024-07-18 08:57:20,886 - INFO - Success on 13: 200 - {"IIVALUE": "250.0", "IIVALUEF": 0}
+2024-07-18 08:57:22,091 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:22,443 - INFO - Success on 13: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:57:22,716 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:23,590 - INFO - Success on 13: 200 - {"IIVALUE": "Copper (II) acetate hydrate for analysis -ACS ", "IIVALUEF": 0}
+2024-07-18 08:57:23,903 - INFO - Success on 13: 200 - {"IIVALUE": "CARLO ERBA", "IIVALUEF": 0}
+2024-07-18 08:57:25,612 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:26,610 - INFO - Success on 13: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:57:26,890 - INFO - Success on 13: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:28,123 - INFO - Success on 13: 200 - {"IIVALUE": "V5G762028H", "IIVALUEF": 0}
+2024-07-18 08:57:28,453 - INFO - Success on 13: 200 - {"IIVALUE": "475405", "IIVALUEF": 0}
+2024-07-18 08:57:28,835 - INFO - Success on 14: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:57:30,010 - INFO - Success on 14: 200 - {"StatusTo": 5}
+2024-07-18 08:57:31,146 - INFO - Success on 14: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:57:31,421 - INFO - Success on 14: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:31,748 - INFO - Success on 14: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:32,653 - INFO - Success on 14: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:32,997 - INFO - Success on 14: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:57:34,168 - INFO - Success on 14: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:57:34,432 - INFO - Success on 14: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:34,758 - INFO - Success on 14: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:57:35,682 - INFO - Success on 14: 200 - {"IIVALUE": "6683-19-8", "IIVALUEF": 0}
+2024-07-18 08:57:36,003 - INFO - Success on 14: 200 - {"IIVALUE": "140.0", "IIVALUEF": 0}
+2024-07-18 08:57:37,183 - INFO - Success on 14: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:57:37,511 - INFO - Success on 14: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:57:37,780 - INFO - Success on 14: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:38,695 - INFO - Success on 14: 200 - {"IIVALUE": "pentaerythritol tetrakis(3,5-di-tert-butyl-4-hydroxyhydro-cinnamate)98% ", "IIVALUEF": 0}
+2024-07-18 08:57:39,015 - INFO - Success on 14: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:57:40,197 - INFO - Success on 14: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:40,519 - INFO - Success on 14: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:57:40,779 - INFO - Success on 14: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:41,109 - INFO - Success on 14: 200 - {"IIVALUE": "MKBV3769V", "IIVALUEF": 0}
+2024-07-18 08:57:41,427 - INFO - Success on 14: 200 - {"IIVALUE": "441783-100g", "IIVALUEF": 0}
+2024-07-18 08:57:41,797 - INFO - Success on 15: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:57:42,995 - INFO - Success on 15: 200 - {"StatusTo": 5}
+2024-07-18 08:57:43,336 - INFO - Success on 15: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:57:43,603 - INFO - Success on 15: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:43,915 - INFO - Success on 15: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:44,249 - INFO - Success on 15: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:44,560 - INFO - Success on 15: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:57:44,898 - INFO - Success on 15: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:57:45,184 - INFO - Success on 15: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:45,517 - INFO - Success on 15: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:57:45,830 - INFO - Success on 15: 200 - {"IIVALUE": "6683-19-8", "IIVALUEF": 0}
+2024-07-18 08:57:46,169 - INFO - Success on 15: 200 - {"IIVALUE": "120.0", "IIVALUEF": 0}
+2024-07-18 08:57:46,482 - INFO - Success on 15: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:57:46,819 - INFO - Success on 15: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:57:47,090 - INFO - Success on 15: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:47,399 - INFO - Success on 15: 200 - {"IIVALUE": "pentaerythritol tetrakis(3,5-di-tert-butyl-4-hydroxyhydro-cinnamate)98% ", "IIVALUEF": 0}
+2024-07-18 08:57:47,710 - INFO - Success on 15: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:57:47,974 - INFO - Success on 15: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:49,240 - INFO - Success on 15: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:57:49,563 - INFO - Success on 15: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:49,919 - INFO - Success on 15: 200 - {"IIVALUE": "MKBV3769V", "IIVALUEF": 0}
+2024-07-18 08:57:51,255 - INFO - Success on 15: 200 - {"IIVALUE": "441783-100g", "IIVALUEF": 0}
+2024-07-18 08:57:51,656 - INFO - Success on 16: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:57:52,834 - INFO - Success on 16: 200 - {"StatusTo": 5}
+2024-07-18 08:57:53,169 - INFO - Success on 16: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:57:54,261 - INFO - Success on 16: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:54,592 - INFO - Success on 16: 200 - {"IIVALUE": "09/30/2020 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:55,768 - INFO - Success on 16: 200 - {"IIVALUE": "09/30/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:57:56,099 - INFO - Success on 16: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:57:56,423 - INFO - Success on 16: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:57:57,269 - INFO - Success on 16: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:57:57,618 - INFO - Success on 16: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:57:58,783 - INFO - Success on 16: 200 - {"IIVALUE": "140-66-9", "IIVALUEF": 0}
+2024-07-18 08:57:59,110 - INFO - Success on 16: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:58:00,296 - INFO - Success on 16: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:00,623 - INFO - Success on 16: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:00,889 - INFO - Success on 16: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:01,213 - INFO - Success on 16: 200 - {"IIVALUE": "4-tert-octylphenol ", "IIVALUEF": 0}
+2024-07-18 08:58:01,543 - INFO - Success on 16: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:58:01,805 - INFO - Success on 16: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:02,157 - INFO - Success on 16: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:02,430 - INFO - Success on 16: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:02,751 - INFO - Success on 16: 200 - {"IIVALUE": "MKCC1183 ", "IIVALUEF": 0}
+2024-07-18 08:58:03,087 - INFO - Success on 16: 200 - {"IIVALUE": "290823-25g", "IIVALUEF": 0}
+2024-07-18 08:58:03,504 - INFO - Success on 17: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:04,725 - INFO - Success on 17: 200 - {"StatusTo": 5}
+2024-07-18 08:58:05,053 - INFO - Success on 17: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:05,317 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:05,633 - INFO - Success on 17: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:05,950 - INFO - Success on 17: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:06,275 - INFO - Success on 17: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:06,612 - INFO - Success on 17: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:06,873 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:07,240 - INFO - Success on 17: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:07,510 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:07,855 - INFO - Success on 17: 200 - {"IIVALUE": "180.0", "IIVALUEF": 0}
+2024-07-18 08:58:08,174 - INFO - Success on 17: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:08,501 - INFO - Success on 17: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:08,764 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:09,103 - INFO - Success on 17: 200 - {"IIVALUE": "Naphthalin 99+% ", "IIVALUEF": 0}
+2024-07-18 08:58:09,417 - INFO - Success on 17: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:58:09,687 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:10,009 - INFO - Success on 17: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:10,289 - INFO - Success on 17: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:10,613 - INFO - Success on 17: 200 - {"IIVALUE": "310", "IIVALUEF": 0}
+2024-07-18 08:58:10,941 - INFO - Success on 17: 200 - {"IIVALUE": "18,450-0", "IIVALUEF": 0}
+2024-07-18 08:58:11,349 - INFO - Success on 18: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:12,536 - INFO - Success on 18: 200 - {"StatusTo": 5}
+2024-07-18 08:58:13,857 - INFO - Success on 18: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:14,129 - INFO - Success on 18: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:14,459 - INFO - Success on 18: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:15,358 - INFO - Success on 18: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:15,702 - INFO - Success on 18: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:16,021 - INFO - Success on 18: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:16,870 - INFO - Success on 18: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:17,224 - INFO - Success on 18: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:18,370 - INFO - Success on 18: 200 - {"IIVALUE": "10017-37-5", "IIVALUEF": 0}
+2024-07-18 08:58:18,719 - INFO - Success on 18: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 08:58:19,039 - INFO - Success on 18: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:19,350 - INFO - Success on 18: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:19,616 - INFO - Success on 18: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:20,884 - INFO - Success on 18: 200 - {"IIVALUE": "tert-Butylamine hydro-chloride >98% ", "IIVALUEF": 0}
+2024-07-18 08:58:21,907 - INFO - Success on 18: 200 - {"IIVALUE": "Fluka", "IIVALUEF": 0}
+2024-07-18 08:58:22,183 - INFO - Success on 18: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:22,511 - INFO - Success on 18: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:22,777 - INFO - Success on 18: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:23,115 - INFO - Success on 18: 200 - {"IIVALUE": "1436684V", "IIVALUEF": 0}
+2024-07-18 08:58:23,434 - INFO - Success on 18: 200 - {"IIVALUE": "96328-25G-F", "IIVALUEF": 0}
+2024-07-18 08:58:23,942 - INFO - Success on 19: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:25,134 - INFO - Success on 19: 200 - {"StatusTo": 5}
+2024-07-18 08:58:25,459 - INFO - Success on 19: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:25,727 - INFO - Success on 19: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:26,050 - INFO - Success on 19: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:26,373 - INFO - Success on 19: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:26,721 - INFO - Success on 19: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:27,047 - INFO - Success on 19: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:27,316 - INFO - Success on 19: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:27,648 - INFO - Success on 19: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:27,955 - INFO - Success on 19: 200 - {"IIVALUE": "135-57-9", "IIVALUEF": 0}
+2024-07-18 08:58:28,293 - INFO - Success on 19: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:58:28,628 - INFO - Success on 19: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:28,962 - INFO - Success on 19: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:29,235 - INFO - Success on 19: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:29,603 - INFO - Success on 19: 200 - {"IIVALUE": "Bis(2-benzamidophenyl) disulfide, 97% ", "IIVALUEF": 0}
+2024-07-18 08:58:29,918 - INFO - Success on 19: 200 - {"IIVALUE": "Alfa Aesar", "IIVALUEF": 0}
+2024-07-18 08:58:30,987 - INFO - Success on 19: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:32,003 - INFO - Success on 19: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:32,281 - INFO - Success on 19: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:32,605 - INFO - Success on 19: 200 - {"IIVALUE": "10116005", "IIVALUEF": 0}
+2024-07-18 08:58:32,949 - INFO - Success on 19: 200 - {"IIVALUE": "L12110", "IIVALUEF": 0}
+2024-07-18 08:58:33,325 - INFO - Success on 20: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:34,514 - INFO - Success on 20: 200 - {"StatusTo": 5}
+2024-07-18 08:58:34,863 - INFO - Success on 20: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:35,183 - INFO - Success on 20: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:35,542 - INFO - Success on 20: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:36,523 - INFO - Success on 20: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:37,520 - INFO - Success on 20: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:38,539 - INFO - Success on 20: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:38,812 - INFO - Success on 20: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:39,130 - INFO - Success on 20: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:40,051 - INFO - Success on 20: 200 - {"IIVALUE": "80-05-7", "IIVALUEF": 0}
+2024-07-18 08:58:40,374 - INFO - Success on 20: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 08:58:40,701 - INFO - Success on 20: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:41,010 - INFO - Success on 20: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:42,054 - INFO - Success on 20: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:42,372 - INFO - Success on 20: 200 - {"IIVALUE": "Bisphenol A >99% ", "IIVALUEF": 0}
+2024-07-18 08:58:42,690 - INFO - Success on 20: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:58:43,557 - INFO - Success on 20: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:43,879 - INFO - Success on 20: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:44,150 - INFO - Success on 20: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:44,454 - INFO - Success on 20: 200 - {"IIVALUE": "MKBX9458V", "IIVALUEF": 0}
+2024-07-18 08:58:45,592 - INFO - Success on 20: 200 - {"IIVALUE": "239658-50g", "IIVALUEF": 0}
+2024-07-18 08:58:46,593 - INFO - Success on 21: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:47,787 - INFO - Success on 21: 200 - {"StatusTo": 5}
+2024-07-18 08:58:48,129 - INFO - Success on 21: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:48,406 - INFO - Success on 21: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:48,728 - INFO - Success on 21: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:49,044 - INFO - Success on 21: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:49,365 - INFO - Success on 21: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:49,683 - INFO - Success on 21: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:49,943 - INFO - Success on 21: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:50,274 - INFO - Success on 21: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:50,593 - INFO - Success on 21: 200 - {"IIVALUE": "EEC 2049273", "IIVALUEF": 0}
+2024-07-18 08:58:50,921 - INFO - Success on 21: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:58:51,245 - INFO - Success on 21: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:51,613 - INFO - Success on 21: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:51,867 - INFO - Success on 21: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:52,212 - INFO - Success on 21: 200 - {"IIVALUE": "Pyrene, 99% ", "IIVALUEF": 0}
+2024-07-18 08:58:52,526 - INFO - Success on 21: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:58:52,814 - INFO - Success on 21: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:53,139 - INFO - Success on 21: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:58:53,408 - INFO - Success on 21: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:53,719 - INFO - Success on 21: 200 - {"IIVALUE": "14611-046", "IIVALUEF": 0}
+2024-07-18 08:58:54,070 - INFO - Success on 21: 200 - {"IIVALUE": "18,551-5", "IIVALUEF": 0}
+2024-07-18 08:58:54,453 - INFO - Success on 22: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:58:55,630 - INFO - Success on 22: 200 - {"StatusTo": 5}
+2024-07-18 08:58:56,078 - INFO - Success on 22: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:58:56,351 - INFO - Success on 22: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:56,671 - INFO - Success on 22: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:56,984 - INFO - Success on 22: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:58:57,295 - INFO - Success on 22: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:58:57,611 - INFO - Success on 22: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:58:57,881 - INFO - Success on 22: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:58:58,192 - INFO - Success on 22: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:58:58,534 - INFO - Success on 22: 200 - {"IIVALUE": "2387-23-7", "IIVALUEF": 0}
+2024-07-18 08:58:58,866 - INFO - Success on 22: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:58:59,202 - INFO - Success on 22: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:58:59,525 - INFO - Success on 22: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:58:59,812 - INFO - Success on 22: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:00,144 - INFO - Success on 22: 200 - {"IIVALUE": "N,N'-Dicyclohexylurea ", "IIVALUEF": 0}
+2024-07-18 08:59:00,460 - INFO - Success on 22: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:59:00,718 - INFO - Success on 22: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:01,060 - INFO - Success on 22: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:01,327 - INFO - Success on 22: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:01,641 - INFO - Success on 22: 200 - {"IIVALUE": "MKBP0510V", "IIVALUEF": 0}
+2024-07-18 08:59:01,989 - INFO - Success on 22: 200 - {"IIVALUE": "D80800-25G", "IIVALUEF": 0}
+2024-07-18 08:59:02,369 - INFO - Success on 23: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:03,562 - INFO - Success on 23: 200 - {"StatusTo": 5}
+2024-07-18 08:59:03,886 - INFO - Success on 23: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:04,147 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:04,457 - INFO - Success on 23: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:04,796 - INFO - Success on 23: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:05,124 - INFO - Success on 23: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:05,439 - INFO - Success on 23: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:05,703 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:06,060 - INFO - Success on 23: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:59:06,326 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:06,648 - INFO - Success on 23: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:59:06,963 - INFO - Success on 23: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:59:08,192 - INFO - Success on 23: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:08,462 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:08,785 - INFO - Success on 23: 200 - {"IIVALUE": "Dehydroabietic acid for chromato", "IIVALUEF": 0}
+2024-07-18 08:59:09,701 - INFO - Success on 23: 200 - {"IIVALUE": "ICNPharmaceuticals", "IIVALUEF": 0}
+2024-07-18 08:59:09,961 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:10,292 - INFO - Success on 23: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:10,565 - INFO - Success on 23: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:10,881 - INFO - Success on 23: 200 - {"IIVALUE": "18144-A", "IIVALUEF": 0}
+2024-07-18 08:59:11,214 - INFO - Success on 23: 200 - {"IIVALUE": "1167", "IIVALUEF": 0}
+2024-07-18 08:59:11,610 - INFO - Success on 24: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:12,798 - INFO - Success on 24: 200 - {"StatusTo": 5}
+2024-07-18 08:59:13,170 - INFO - Success on 24: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:13,436 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:13,755 - INFO - Success on 24: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:14,128 - INFO - Success on 24: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:14,454 - INFO - Success on 24: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:14,782 - INFO - Success on 24: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:15,072 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:15,430 - INFO - Success on 24: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:59:15,699 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:16,023 - INFO - Success on 24: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:59:16,339 - INFO - Success on 24: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:59:16,653 - INFO - Success on 24: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:16,934 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:17,266 - INFO - Success on 24: 200 - {"IIVALUE": "Abietic acid ", "IIVALUEF": 0}
+2024-07-18 08:59:17,573 - INFO - Success on 24: 200 - {"IIVALUE": "Fluka AG", "IIVALUEF": 0}
+2024-07-18 08:59:17,840 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:18,177 - INFO - Success on 24: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:18,450 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:18,769 - INFO - Success on 24: 200 - {"IIVALUE": "168272103", "IIVALUEF": 0}
+2024-07-18 08:59:19,064 - INFO - Success on 24: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:19,469 - INFO - Success on 25: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:20,650 - INFO - Success on 25: 200 - {"StatusTo": 5}
+2024-07-18 08:59:21,061 - INFO - Success on 25: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:21,318 - INFO - Success on 25: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:21,627 - INFO - Success on 25: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:21,952 - INFO - Success on 25: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:22,275 - INFO - Success on 25: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:22,594 - INFO - Success on 25: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:22,861 - INFO - Success on 25: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:23,179 - INFO - Success on 25: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:59:23,516 - INFO - Success on 25: 200 - {"IIVALUE": "98-54-4", "IIVALUEF": 0}
+2024-07-18 08:59:23,836 - INFO - Success on 25: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:59:24,154 - INFO - Success on 25: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:59:24,472 - INFO - Success on 25: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:24,737 - INFO - Success on 25: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:25,063 - INFO - Success on 25: 200 - {"IIVALUE": "4-tert-Butyl-phenol for synthesis lot ", "IIVALUEF": 0}
+2024-07-18 08:59:25,387 - INFO - Success on 25: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:59:25,653 - INFO - Success on 25: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:25,991 - INFO - Success on 25: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:26,276 - INFO - Success on 25: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:27,271 - INFO - Success on 25: 200 - {"IIVALUE": "S6147050 141", "IIVALUEF": 0}
+2024-07-18 08:59:27,580 - INFO - Success on 25: 200 - {"IIVALUE": "8.20250.0100", "IIVALUEF": 0}
+2024-07-18 08:59:27,987 - INFO - Success on 26: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:29,175 - INFO - Success on 26: 200 - {"StatusTo": 5}
+2024-07-18 08:59:29,530 - INFO - Success on 26: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:30,785 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:31,105 - INFO - Success on 26: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:31,415 - INFO - Success on 26: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:31,736 - INFO - Success on 26: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:32,069 - INFO - Success on 26: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:32,328 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:33,299 - INFO - Success on 26: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:59:33,569 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:33,889 - INFO - Success on 26: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 08:59:34,811 - INFO - Success on 26: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:59:35,126 - INFO - Success on 26: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:35,389 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:35,704 - INFO - Success on 26: 200 - {"IIVALUE": "Fluoranthene, 98% lot ", "IIVALUEF": 0}
+2024-07-18 08:59:36,018 - INFO - Success on 26: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 08:59:36,814 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:37,130 - INFO - Success on 26: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:38,337 - INFO - Success on 26: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:38,663 - INFO - Success on 26: 200 - {"IIVALUE": "12301-055", "IIVALUEF": 0}
+2024-07-18 08:59:38,986 - INFO - Success on 26: 200 - {"IIVALUE": "F80-7", "IIVALUEF": 0}
+2024-07-18 08:59:39,380 - INFO - Success on 27: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:40,561 - INFO - Success on 27: 200 - {"StatusTo": 5}
+2024-07-18 08:59:40,877 - INFO - Success on 27: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:41,140 - INFO - Success on 27: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:41,499 - INFO - Success on 27: 200 - {"IIVALUE": "10/07/2018 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:41,821 - INFO - Success on 27: 200 - {"IIVALUE": "09/07/2021 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:42,187 - INFO - Success on 27: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:42,508 - INFO - Success on 27: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:43,358 - INFO - Success on 27: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:43,668 - INFO - Success on 27: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 08:59:43,983 - INFO - Success on 27: 200 - {"IIVALUE": "13081-97-5", "IIVALUEF": 0}
+2024-07-18 08:59:44,303 - INFO - Success on 27: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 08:59:44,628 - INFO - Success on 27: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 08:59:44,941 - INFO - Success on 27: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:45,874 - INFO - Success on 27: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:46,184 - INFO - Success on 27: 200 - {"IIVALUE": "Pentaerythritol distearate, 95% ", "IIVALUEF": 0}
+2024-07-18 08:59:46,505 - INFO - Success on 27: 200 - {"IIVALUE": "abcr", "IIVALUEF": 0}
+2024-07-18 08:59:46,769 - INFO - Success on 27: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:47,127 - INFO - Success on 27: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:47,388 - INFO - Success on 27: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:47,730 - INFO - Success on 27: 200 - {"IIVALUE": "1382660", "IIVALUEF": 0}
+2024-07-18 08:59:48,047 - INFO - Success on 27: 200 - {"IIVALUE": "AB140156", "IIVALUEF": 0}
+2024-07-18 08:59:48,476 - INFO - Success on 28: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 08:59:49,662 - INFO - Success on 28: 200 - {"StatusTo": 5}
+2024-07-18 08:59:50,014 - INFO - Success on 28: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 08:59:50,283 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:50,649 - INFO - Success on 28: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:50,968 - INFO - Success on 28: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 08:59:51,902 - INFO - Success on 28: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 08:59:52,230 - INFO - Success on 28: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 08:59:53,416 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:53,735 - INFO - Success on 28: 200 - {"IIVALUE": "BKF", "IIVALUEF": 0}
+2024-07-18 08:59:54,037 - INFO - Success on 28: 200 - {"IIVALUE": "119-47-1", "IIVALUEF": 0}
+2024-07-18 08:59:54,364 - INFO - Success on 28: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 08:59:54,678 - INFO - Success on 28: 200 - {"IIVALUE": "Method/Project: Vulkanox", "IIVALUEF": 0}
+2024-07-18 08:59:54,989 - INFO - Success on 28: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 08:59:55,936 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:56,277 - INFO - Success on 28: 200 - {"IIVALUE": "2,2'-Methylenebis(4-methyl-6-tert-butylphenol) for synthesis", "IIVALUEF": 0}
+2024-07-18 08:59:56,584 - INFO - Success on 28: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 08:59:56,861 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:57,950 - INFO - Success on 28: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 08:59:58,214 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:58,511 - INFO - Success on 28: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 08:59:59,463 - INFO - Success on 28: 200 - {"IIVALUE": "8.18447.0100", "IIVALUEF": 0}
+2024-07-18 08:59:59,987 - INFO - Success on 29: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:01,188 - INFO - Success on 29: 200 - {"StatusTo": 5}
+2024-07-18 09:00:01,564 - INFO - Success on 29: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:01,831 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:02,153 - INFO - Success on 29: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:02,468 - INFO - Success on 29: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:02,800 - INFO - Success on 29: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:03,115 - INFO - Success on 29: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:03,383 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:03,715 - INFO - Success on 29: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:00:03,986 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:04,311 - INFO - Success on 29: 200 - {"IIVALUE": "260.0", "IIVALUEF": 0}
+2024-07-18 09:00:05,495 - INFO - Success on 29: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:00:05,808 - INFO - Success on 29: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:06,085 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:06,431 - INFO - Success on 29: 200 - {"IIVALUE": "Phenanthren for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:00:06,774 - INFO - Success on 29: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:00:07,069 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:07,431 - INFO - Success on 29: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:07,717 - INFO - Success on 29: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:08,034 - INFO - Success on 29: 200 - {"IIVALUE": "7246811", "IIVALUEF": 0}
+2024-07-18 09:00:08,378 - INFO - Success on 29: 200 - {"IIVALUE": "822122", "IIVALUEF": 0}
+2024-07-18 09:00:08,784 - INFO - Success on 30: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:09,964 - INFO - Success on 30: 200 - {"StatusTo": 5}
+2024-07-18 09:00:10,292 - INFO - Success on 30: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:10,557 - INFO - Success on 30: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:10,899 - INFO - Success on 30: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:11,221 - INFO - Success on 30: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:11,543 - INFO - Success on 30: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:11,889 - INFO - Success on 30: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:12,156 - INFO - Success on 30: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:12,480 - INFO - Success on 30: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:00:12,809 - INFO - Success on 30: 200 - {"IIVALUE": "85-41-6", "IIVALUEF": 0}
+2024-07-18 09:00:13,138 - INFO - Success on 30: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 09:00:13,454 - INFO - Success on 30: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:00:13,774 - INFO - Success on 30: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:14,038 - INFO - Success on 30: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:14,399 - INFO - Success on 30: 200 - {"IIVALUE": "Phthalimide ", "IIVALUEF": 0}
+2024-07-18 09:00:14,715 - INFO - Success on 30: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 09:00:14,990 - INFO - Success on 30: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:16,027 - INFO - Success on 30: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:16,321 - INFO - Success on 30: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:16,637 - INFO - Success on 30: 200 - {"IIVALUE": "MKBJ4564V", "IIVALUEF": 0}
+2024-07-18 09:00:16,952 - INFO - Success on 30: 200 - {"IIVALUE": "240230-50g", "IIVALUEF": 0}
+2024-07-18 09:00:17,343 - INFO - Success on 31: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:18,535 - INFO - Success on 31: 200 - {"StatusTo": 5}
+2024-07-18 09:00:18,874 - INFO - Success on 31: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:19,171 - INFO - Success on 31: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:19,542 - INFO - Success on 31: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:19,871 - INFO - Success on 31: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:20,220 - INFO - Success on 31: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:21,071 - INFO - Success on 31: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:21,371 - INFO - Success on 31: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:21,695 - INFO - Success on 31: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:00:22,003 - INFO - Success on 31: 200 - {"IIVALUE": "96-76-4", "IIVALUEF": 0}
+2024-07-18 09:00:22,329 - INFO - Success on 31: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:00:22,691 - INFO - Success on 31: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:00:23,014 - INFO - Success on 31: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:23,303 - INFO - Success on 31: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:23,631 - INFO - Success on 31: 200 - {"IIVALUE": "2,4-Di-tert-butylphenol 99% ", "IIVALUEF": 0}
+2024-07-18 09:00:23,959 - INFO - Success on 31: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 09:00:24,220 - INFO - Success on 31: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:24,563 - INFO - Success on 31: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:24,823 - INFO - Success on 31: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:25,190 - INFO - Success on 31: 200 - {"IIVALUE": "BCBQ9479V", "IIVALUEF": 0}
+2024-07-18 09:00:25,515 - INFO - Success on 31: 200 - {"IIVALUE": "137731-100G", "IIVALUEF": 0}
+2024-07-18 09:00:26,004 - INFO - Success on 32: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:27,186 - INFO - Success on 32: 200 - {"StatusTo": 5}
+2024-07-18 09:00:27,514 - INFO - Success on 32: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:27,783 - INFO - Success on 32: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:28,098 - INFO - Success on 32: 200 - {"IIVALUE": "04/30/2021 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:28,423 - INFO - Success on 32: 200 - {"IIVALUE": "04/29/2024 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:28,749 - INFO - Success on 32: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:29,065 - INFO - Success on 32: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:29,334 - INFO - Success on 32: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:29,694 - INFO - Success on 32: 200 - {"IIVALUE": "Filho, Ricardo", "IIVALUEF": 0}
+2024-07-18 09:00:30,017 - INFO - Success on 32: 200 - {"IIVALUE": "882-33-7", "IIVALUEF": 0}
+2024-07-18 09:00:30,330 - INFO - Success on 32: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 09:00:30,668 - INFO - Success on 32: 200 - {"IIVALUE": "Method/Project: Devulcanization", "IIVALUEF": 0}
+2024-07-18 09:00:30,991 - INFO - Success on 32: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:31,260 - INFO - Success on 32: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:31,568 - INFO - Success on 32: 200 - {"IIVALUE": "Diphenyl disulfide, 99%  ", "IIVALUEF": 0}
+2024-07-18 09:00:31,880 - INFO - Success on 32: 200 - {"IIVALUE": "jk-scientific", "IIVALUEF": 0}
+2024-07-18 09:00:32,157 - INFO - Success on 32: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:32,501 - INFO - Success on 32: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:32,765 - INFO - Success on 32: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:33,079 - INFO - Success on 32: 200 - {"IIVALUE": "L820S39", "IIVALUEF": 0}
+2024-07-18 09:00:33,396 - INFO - Success on 32: 200 - {"IIVALUE": "333069", "IIVALUEF": 0}
+2024-07-18 09:00:33,775 - INFO - Success on 33: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:34,964 - INFO - Success on 33: 200 - {"StatusTo": 5}
+2024-07-18 09:00:35,293 - INFO - Success on 33: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:35,563 - INFO - Success on 33: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:35,903 - INFO - Success on 33: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:36,221 - INFO - Success on 33: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:36,575 - INFO - Success on 33: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:36,904 - INFO - Success on 33: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:37,181 - INFO - Success on 33: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:37,495 - INFO - Success on 33: 200 - {"IIVALUE": "Filho, Ricardo", "IIVALUEF": 0}
+2024-07-18 09:00:37,821 - INFO - Success on 33: 200 - {"IIVALUE": "143-27-1", "IIVALUEF": 0}
+2024-07-18 09:00:38,142 - INFO - Success on 33: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:00:38,452 - INFO - Success on 33: 200 - {"IIVALUE": "Method/Project: Devulcanization", "IIVALUEF": 0}
+2024-07-18 09:00:38,795 - INFO - Success on 33: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:39,062 - INFO - Success on 33: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:39,400 - INFO - Success on 33: 200 - {"IIVALUE": "Hexadecylamine 98% ", "IIVALUEF": 0}
+2024-07-18 09:00:39,722 - INFO - Success on 33: 200 - {"IIVALUE": "Aldrich", "IIVALUEF": 0}
+2024-07-18 09:00:39,990 - INFO - Success on 33: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:40,301 - INFO - Success on 33: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:40,571 - INFO - Success on 33: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:40,900 - INFO - Success on 33: 200 - {"IIVALUE": "BCCC8822", "IIVALUEF": 0}
+2024-07-18 09:00:41,220 - INFO - Success on 33: 200 - {"IIVALUE": "445312-25G", "IIVALUEF": 0}
+2024-07-18 09:00:41,614 - INFO - Success on 34: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:42,794 - INFO - Success on 34: 200 - {"StatusTo": 5}
+2024-07-18 09:00:43,111 - INFO - Success on 34: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:43,366 - INFO - Success on 34: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:43,670 - INFO - Success on 34: 200 - {"IIVALUE": "07/30/2021 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:43,984 - INFO - Success on 34: 200 - {"IIVALUE": "07/29/2024 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:44,298 - INFO - Success on 34: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:44,607 - INFO - Success on 34: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:44,874 - INFO - Success on 34: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:45,191 - INFO - Success on 34: 200 - {"IIVALUE": "Filho, Ricardo", "IIVALUEF": 0}
+2024-07-18 09:00:45,511 - INFO - Success on 34: 200 - {"IIVALUE": "135-57-9", "IIVALUEF": 0}
+2024-07-18 09:00:45,825 - INFO - Success on 34: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:00:46,139 - INFO - Success on 34: 200 - {"IIVALUE": "Method/Project: Devulcanization", "IIVALUEF": 0}
+2024-07-18 09:00:47,235 - INFO - Success on 34: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:48,238 - INFO - Success on 34: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:48,556 - INFO - Success on 34: 200 - {"IIVALUE": "Bis(2-benzamidophenyl) disulfide, 97% ", "IIVALUEF": 0}
+2024-07-18 09:00:48,886 - INFO - Success on 34: 200 - {"IIVALUE": "Alfa Aesar", "IIVALUEF": 0}
+2024-07-18 09:00:49,152 - INFO - Success on 34: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:49,478 - INFO - Success on 34: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:49,740 - INFO - Success on 34: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:50,086 - INFO - Success on 34: 200 - {"IIVALUE": "10116005", "IIVALUEF": 0}
+2024-07-18 09:00:50,410 - INFO - Success on 34: 200 - {"IIVALUE": "L12110", "IIVALUEF": 0}
+2024-07-18 09:00:50,821 - INFO - Success on 35: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:00:52,007 - INFO - Success on 35: 200 - {"StatusTo": 5}
+2024-07-18 09:00:52,326 - INFO - Success on 35: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:00:52,582 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:52,899 - INFO - Success on 35: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:53,212 - INFO - Success on 35: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:00:53,536 - INFO - Success on 35: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:00:53,854 - INFO - Success on 35: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:00:54,123 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:54,436 - INFO - Success on 35: 200 - {"IIVALUE": "BHT", "IIVALUEF": 0}
+2024-07-18 09:00:54,764 - INFO - Success on 35: 200 - {"IIVALUE": "128-37-0", "IIVALUEF": 0}
+2024-07-18 09:00:55,080 - INFO - Success on 35: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:00:55,340 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:55,690 - INFO - Success on 35: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:00:56,787 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:57,105 - INFO - Success on 35: 200 - {"IIVALUE": "2,6-Di-tert-butyl-4-methylphenol for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:00:57,424 - INFO - Success on 35: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:00:57,734 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:58,045 - INFO - Success on 35: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:00:58,310 - INFO - Success on 35: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:00:58,630 - INFO - Success on 35: 200 - {"IIVALUE": "S6928721549", "IIVALUEF": 0}
+2024-07-18 09:00:58,945 - INFO - Success on 35: 200 - {"IIVALUE": "8.22021.0100", "IIVALUEF": 0}
+2024-07-18 09:00:59,360 - INFO - Success on 36: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:00,548 - INFO - Success on 36: 200 - {"StatusTo": 5}
+2024-07-18 09:01:00,879 - INFO - Success on 36: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:01,148 - INFO - Success on 36: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:01,507 - INFO - Success on 36: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:01,866 - INFO - Success on 36: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:02,190 - INFO - Success on 36: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:02,513 - INFO - Success on 36: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:02,786 - INFO - Success on 36: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:03,119 - INFO - Success on 36: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:01:03,440 - INFO - Success on 36: 200 - {"IIVALUE": "112-61-8", "IIVALUEF": 0}
+2024-07-18 09:01:03,751 - INFO - Success on 36: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:01:04,063 - INFO - Success on 36: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:01:04,383 - INFO - Success on 36: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:04,647 - INFO - Success on 36: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:04,970 - INFO - Success on 36: 200 - {"IIVALUE": "Methyl stearate, 99% ", "IIVALUEF": 0}
+2024-07-18 09:01:05,281 - INFO - Success on 36: 200 - {"IIVALUE": "Alfa Aesar", "IIVALUEF": 0}
+2024-07-18 09:01:05,545 - INFO - Success on 36: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:05,864 - INFO - Success on 36: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:01:06,128 - INFO - Success on 36: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:06,447 - INFO - Success on 36: 200 - {"IIVALUE": "W10A031", "IIVALUEF": 0}
+2024-07-18 09:01:06,766 - INFO - Success on 36: 200 - {"IIVALUE": "A13265", "IIVALUEF": 0}
+2024-07-18 09:01:07,173 - INFO - Success on 37: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:08,359 - INFO - Success on 37: 200 - {"StatusTo": 5}
+2024-07-18 09:01:08,682 - INFO - Success on 37: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:08,952 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:09,306 - INFO - Success on 37: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:09,632 - INFO - Success on 37: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:09,948 - INFO - Success on 37: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:10,267 - INFO - Success on 37: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:10,562 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:10,885 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:11,160 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:11,486 - INFO - Success on 37: 200 - {"IIVALUE": "1.0", "IIVALUEF": 0}
+2024-07-18 09:01:11,749 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:12,863 - INFO - Success on 37: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:13,143 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:13,487 - INFO - Success on 37: 200 - {"IIVALUE": "4-tert-Octylphenol ", "IIVALUEF": 0}
+2024-07-18 09:01:13,840 - INFO - Success on 37: 200 - {"IIVALUE": "Fluka", "IIVALUEF": 0}
+2024-07-18 09:01:14,140 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:14,467 - INFO - Success on 37: 200 - {"IIVALUE": "kg", "IIVALUEF": 0}
+2024-07-18 09:01:14,728 - INFO - Success on 37: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:15,056 - INFO - Success on 37: 200 - {"IIVALUE": "319302/1 ", "IIVALUEF": 0}
+2024-07-18 09:01:15,388 - INFO - Success on 37: 200 - {"IIVALUE": "75070", "IIVALUEF": 0}
+2024-07-18 09:01:15,841 - INFO - Success on 38: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:17,026 - INFO - Success on 38: 200 - {"StatusTo": 5}
+2024-07-18 09:01:17,367 - INFO - Success on 38: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:17,629 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:17,951 - INFO - Success on 38: 200 - {"IIVALUE": "01/02/2024 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:18,271 - INFO - Success on 38: 200 - {"IIVALUE": "01/02/2024 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:18,592 - INFO - Success on 38: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:18,919 - INFO - Success on 38: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:19,209 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:19,550 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:19,881 - INFO - Success on 38: 200 - {"IIVALUE": "7757-82-6", "IIVALUEF": 0}
+2024-07-18 09:01:20,199 - INFO - Success on 38: 200 - {"IIVALUE": "1.0", "IIVALUEF": 0}
+2024-07-18 09:01:20,462 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:20,803 - INFO - Success on 38: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:21,071 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:21,387 - INFO - Success on 38: 200 - {"IIVALUE": "Sodium sulfate anhydrous for analysis ", "IIVALUEF": 0}
+2024-07-18 09:01:21,705 - INFO - Success on 38: 200 - {"IIVALUE": "TH.GEYER", "IIVALUEF": 0}
+2024-07-18 09:01:21,981 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:22,313 - INFO - Success on 38: 200 - {"IIVALUE": "kg", "IIVALUEF": 0}
+2024-07-18 09:01:22,591 - INFO - Success on 38: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:22,932 - INFO - Success on 38: 200 - {"IIVALUE": "84582", "IIVALUEF": 0}
+2024-07-18 09:01:23,257 - INFO - Success on 38: 200 - {"IIVALUE": "1337.1", "IIVALUEF": 0}
+2024-07-18 09:01:23,672 - INFO - Success on 39: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:24,851 - INFO - Success on 39: 200 - {"StatusTo": 5}
+2024-07-18 09:01:25,216 - INFO - Success on 39: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:25,483 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:25,843 - INFO - Success on 39: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:26,159 - INFO - Success on 39: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:26,490 - INFO - Success on 39: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:26,799 - INFO - Success on 39: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:27,091 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:27,403 - INFO - Success on 39: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:01:27,667 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:27,985 - INFO - Success on 39: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:01:28,269 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:28,600 - INFO - Success on 39: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:28,857 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:29,187 - INFO - Success on 39: 200 - {"IIVALUE": "methyl red for analysis ", "IIVALUEF": 0}
+2024-07-18 09:01:29,505 - INFO - Success on 39: 200 - {"IIVALUE": "ucb", "IIVALUEF": 0}
+2024-07-18 09:01:29,793 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:30,113 - INFO - Success on 39: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:01:30,383 - INFO - Success on 39: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:30,703 - INFO - Success on 39: 200 - {"IIVALUE": "709290", "IIVALUEF": 0}
+2024-07-18 09:01:31,297 - INFO - Success on 39: 200 - {"IIVALUE": "1461", "IIVALUEF": 0}
+2024-07-18 09:01:31,880 - INFO - Success on 40: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:33,060 - INFO - Success on 40: 200 - {"StatusTo": 5}
+2024-07-18 09:01:33,563 - INFO - Success on 40: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:33,866 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:34,211 - INFO - Success on 40: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:34,538 - INFO - Success on 40: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:34,863 - INFO - Success on 40: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:35,205 - INFO - Success on 40: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:35,471 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:35,799 - INFO - Success on 40: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:01:36,060 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:36,406 - INFO - Success on 40: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:01:36,727 - INFO - Success on 40: 200 - {"IIVALUE": "Method/Project: Dosage", "IIVALUEF": 0}
+2024-07-18 09:01:37,041 - INFO - Success on 40: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:37,311 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:37,625 - INFO - Success on 40: 200 - {"IIVALUE": "Methylorange", "IIVALUEF": 0}
+2024-07-18 09:01:37,942 - INFO - Success on 40: 200 - {"IIVALUE": "rieder", "IIVALUEF": 0}
+2024-07-18 09:01:38,253 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:38,574 - INFO - Success on 40: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:01:38,836 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:39,130 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:39,404 - INFO - Success on 40: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:40,144 - INFO - Success on 41: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:41,326 - INFO - Success on 41: 200 - {"StatusTo": 5}
+2024-07-18 09:01:41,667 - INFO - Success on 41: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:41,938 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:42,290 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:42,606 - INFO - Success on 41: 200 - {"IIVALUE": "01/12/1999 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:42,923 - INFO - Success on 41: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:43,248 - INFO - Success on 41: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:43,534 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:43,876 - INFO - Success on 41: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:01:44,142 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:44,464 - INFO - Success on 41: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:01:44,832 - INFO - Success on 41: 200 - {"IIVALUE": "Method/Project: Dosage", "IIVALUEF": 0}
+2024-07-18 09:01:45,152 - INFO - Success on 41: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:45,416 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:45,761 - INFO - Success on 41: 200 - {"IIVALUE": "Methyl violet ", "IIVALUEF": 0}
+2024-07-18 09:01:46,093 - INFO - Success on 41: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:01:46,357 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:46,678 - INFO - Success on 41: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:01:46,940 - INFO - Success on 41: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:47,271 - INFO - Success on 41: 200 - {"IIVALUE": "110 K13372045", "IIVALUEF": 0}
+2024-07-18 09:01:47,592 - INFO - Success on 41: 200 - {"IIVALUE": "15945", "IIVALUEF": 0}
+2024-07-18 09:01:48,073 - INFO - Success on 42: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:49,257 - INFO - Success on 42: 200 - {"StatusTo": 5}
+2024-07-18 09:01:49,611 - INFO - Success on 42: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:49,876 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:50,200 - INFO - Success on 42: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:50,548 - INFO - Success on 42: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:50,868 - INFO - Success on 42: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:51,198 - INFO - Success on 42: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:51,482 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:51,849 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:52,120 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:52,467 - INFO - Success on 42: 200 - {"IIVALUE": "50.0", "IIVALUEF": 0}
+2024-07-18 09:01:52,744 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:53,099 - INFO - Success on 42: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:01:53,385 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:53,723 - INFO - Success on 42: 200 - {"IIVALUE": "Potassium chloride ", "IIVALUEF": 0}
+2024-07-18 09:01:54,054 - INFO - Success on 42: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:01:54,338 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:54,682 - INFO - Success on 42: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:01:54,972 - INFO - Success on 42: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:55,301 - INFO - Success on 42: 200 - {"IIVALUE": "1327384", "IIVALUEF": 0}
+2024-07-18 09:01:55,642 - INFO - Success on 42: 200 - {"IIVALUE": "4938", "IIVALUEF": 0}
+2024-07-18 09:01:56,040 - INFO - Success on 43: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:01:57,243 - INFO - Success on 43: 200 - {"StatusTo": 5}
+2024-07-18 09:01:57,613 - INFO - Success on 43: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:01:57,898 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:58,225 - INFO - Success on 43: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:58,569 - INFO - Success on 43: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:01:58,887 - INFO - Success on 43: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:01:59,236 - INFO - Success on 43: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:01:59,516 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:01:59,864 - INFO - Success on 43: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:02:00,213 - INFO - Success on 43: 200 - {"IIVALUE": "7647-14-5", "IIVALUEF": 0}
+2024-07-18 09:02:00,536 - INFO - Success on 43: 200 - {"IIVALUE": "1000.0", "IIVALUEF": 0}
+2024-07-18 09:02:01,655 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:02,059 - INFO - Success on 43: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:02,408 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:02,813 - INFO - Success on 43: 200 - {"IIVALUE": "Sodium chloride for analysis ", "IIVALUEF": 0}
+2024-07-18 09:02:03,205 - INFO - Success on 43: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:03,561 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:03,960 - INFO - Success on 43: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:05,171 - INFO - Success on 43: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:05,504 - INFO - Success on 43: 200 - {"IIVALUE": "K46991504540", "IIVALUEF": 0}
+2024-07-18 09:02:05,817 - INFO - Success on 43: 200 - {"IIVALUE": "1.06404.1000", "IIVALUEF": 0}
+2024-07-18 09:02:06,210 - INFO - Success on 44: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:07,389 - INFO - Success on 44: 200 - {"StatusTo": 5}
+2024-07-18 09:02:07,722 - INFO - Success on 44: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:07,991 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:08,298 - INFO - Success on 44: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:08,629 - INFO - Success on 44: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:08,942 - INFO - Success on 44: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:09,255 - INFO - Success on 44: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:09,529 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:10,714 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:10,970 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:11,311 - INFO - Success on 44: 200 - {"IIVALUE": "500.0", "IIVALUEF": 0}
+2024-07-18 09:02:11,593 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:11,907 - INFO - Success on 44: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:12,179 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:12,493 - INFO - Success on 44: 200 - {"IIVALUE": "Polyethylene glycol 1500 for synthesis", "IIVALUEF": 0}
+2024-07-18 09:02:12,818 - INFO - Success on 44: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:13,113 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:13,474 - INFO - Success on 44: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:13,756 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:14,045 - INFO - Success on 44: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:14,385 - INFO - Success on 44: 200 - {"IIVALUE": "807489", "IIVALUEF": 0}
+2024-07-18 09:02:14,821 - INFO - Success on 45: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:16,014 - INFO - Success on 45: 200 - {"StatusTo": 5}
+2024-07-18 09:02:16,331 - INFO - Success on 45: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:16,594 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:16,910 - INFO - Success on 45: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:17,239 - INFO - Success on 45: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:17,557 - INFO - Success on 45: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:17,882 - INFO - Success on 45: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:18,144 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:18,455 - INFO - Success on 45: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:02:18,738 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:19,052 - INFO - Success on 45: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:02:19,313 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:19,631 - INFO - Success on 45: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:19,885 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:20,252 - INFO - Success on 45: 200 - {"IIVALUE": "Thymol blue indicator ", "IIVALUEF": 0}
+2024-07-18 09:02:20,585 - INFO - Success on 45: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:21,768 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:22,089 - INFO - Success on 45: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:22,353 - INFO - Success on 45: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:22,666 - INFO - Success on 45: 200 - {"IIVALUE": "018 L645876", "IIVALUEF": 0}
+2024-07-18 09:02:22,971 - INFO - Success on 45: 200 - {"IIVALUE": "8176", "IIVALUEF": 0}
+2024-07-18 09:02:23,328 - INFO - Success on 46: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:24,516 - INFO - Success on 46: 200 - {"StatusTo": 5}
+2024-07-18 09:02:24,852 - INFO - Success on 46: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:25,123 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:25,482 - INFO - Success on 46: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:25,796 - INFO - Success on 46: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:26,118 - INFO - Success on 46: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:26,462 - INFO - Success on 46: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:26,734 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:27,066 - INFO - Success on 46: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:02:27,343 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:27,687 - INFO - Success on 46: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:02:27,957 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:28,270 - INFO - Success on 46: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:28,541 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:28,900 - INFO - Success on 46: 200 - {"IIVALUE": "Thymolphthalein indicator ", "IIVALUEF": 0}
+2024-07-18 09:02:29,225 - INFO - Success on 46: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:29,488 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:29,852 - INFO - Success on 46: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:30,117 - INFO - Success on 46: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:30,442 - INFO - Success on 46: 200 - {"IIVALUE": "41528390", "IIVALUEF": 0}
+2024-07-18 09:02:30,750 - INFO - Success on 46: 200 - {"IIVALUE": "8175", "IIVALUEF": 0}
+2024-07-18 09:02:31,205 - INFO - Success on 47: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:32,392 - INFO - Success on 47: 200 - {"StatusTo": 5}
+2024-07-18 09:02:32,746 - INFO - Success on 47: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:33,032 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:33,356 - INFO - Success on 47: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:33,680 - INFO - Success on 47: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:34,041 - INFO - Success on 47: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:34,355 - INFO - Success on 47: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:34,632 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:34,941 - INFO - Success on 47: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:02:35,213 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:35,535 - INFO - Success on 47: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:02:35,795 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:36,114 - INFO - Success on 47: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:36,378 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:36,707 - INFO - Success on 47: 200 - {"IIVALUE": "Xylenol orange tetra-sodium salt metal (pM) indicator ", "IIVALUEF": 0}
+2024-07-18 09:02:37,018 - INFO - Success on 47: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:37,288 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:37,611 - INFO - Success on 47: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:37,869 - INFO - Success on 47: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:38,181 - INFO - Success on 47: 200 - {"IIVALUE": "130 L770777", "IIVALUEF": 0}
+2024-07-18 09:02:38,547 - INFO - Success on 47: 200 - {"IIVALUE": "8677", "IIVALUEF": 0}
+2024-07-18 09:02:38,915 - INFO - Success on 48: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:40,098 - INFO - Success on 48: 200 - {"StatusTo": 5}
+2024-07-18 09:02:40,423 - INFO - Success on 48: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:40,723 - INFO - Success on 48: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:41,045 - INFO - Success on 48: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:41,391 - INFO - Success on 48: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:41,698 - INFO - Success on 48: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:42,058 - INFO - Success on 48: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:42,335 - INFO - Success on 48: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:42,680 - INFO - Success on 48: 200 - {"IIVALUE": "Kayser, Francois", "IIVALUEF": 0}
+2024-07-18 09:02:43,079 - INFO - Success on 48: 200 - {"IIVALUE": "629-92-5", "IIVALUEF": 0}
+2024-07-18 09:02:43,461 - INFO - Success on 48: 200 - {"IIVALUE": "25.0", "IIVALUEF": 0}
+2024-07-18 09:02:43,788 - INFO - Success on 48: 200 - {"IIVALUE": "Method/Project: WORKBENCH", "IIVALUEF": 0}
+2024-07-18 09:02:44,101 - INFO - Success on 48: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:44,363 - INFO - Success on 48: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:44,712 - INFO - Success on 48: 200 - {"IIVALUE": "Nonadecane 99% ", "IIVALUEF": 0}
+2024-07-18 09:02:45,019 - INFO - Success on 48: 200 - {"IIVALUE": "Sigma-Aldrich", "IIVALUEF": 0}
+2024-07-18 09:02:45,296 - INFO - Success on 48: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:45,656 - INFO - Success on 48: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:45,918 - INFO - Success on 48: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:46,239 - INFO - Success on 48: 200 - {"IIVALUE": "MKBR0649V", "IIVALUEF": 0}
+2024-07-18 09:02:46,644 - INFO - Success on 48: 200 - {"IIVALUE": "N28906-25G", "IIVALUEF": 0}
+2024-07-18 09:02:47,023 - INFO - Success on 49: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:48,216 - INFO - Success on 49: 200 - {"StatusTo": 5}
+2024-07-18 09:02:48,572 - INFO - Success on 49: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:48,834 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:49,190 - INFO - Success on 49: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:49,513 - INFO - Success on 49: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:49,841 - INFO - Success on 49: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:50,154 - INFO - Success on 49: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:50,411 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:50,772 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:51,062 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:51,395 - INFO - Success on 49: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:02:51,661 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:52,003 - INFO - Success on 49: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:02:52,280 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:52,636 - INFO - Success on 49: 200 - {"IIVALUE": "Beta-Sitosterol", "IIVALUEF": 0}
+2024-07-18 09:02:52,943 - INFO - Success on 49: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:02:53,214 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:53,580 - INFO - Success on 49: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:02:53,835 - INFO - Success on 49: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:54,244 - INFO - Success on 49: 200 - {"IIVALUE": "851 K4016241", "IIVALUEF": 0}
+2024-07-18 09:02:54,567 - INFO - Success on 49: 200 - {"IIVALUE": "3741", "IIVALUEF": 0}
+2024-07-18 09:02:54,964 - INFO - Success on 50: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:02:56,165 - INFO - Success on 50: 200 - {"StatusTo": 5}
+2024-07-18 09:02:56,474 - INFO - Success on 50: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:02:56,758 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:57,227 - INFO - Success on 50: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:57,563 - INFO - Success on 50: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:02:57,884 - INFO - Success on 50: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:02:58,278 - INFO - Success on 50: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:02:58,569 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:58,919 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:02:59,232 - INFO - Success on 50: 200 - {"IIVALUE": "index n: 604-075-00-6", "IIVALUEF": 0}
+2024-07-18 09:02:59,568 - INFO - Success on 50: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:02:59,872 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:00,249 - INFO - Success on 50: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:00,526 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:00,841 - INFO - Success on 50: 200 - {"IIVALUE": "4-(1,1,3,3-Tetramethyl-butyl)phenol for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:03:01,180 - INFO - Success on 50: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:03:01,480 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:01,796 - INFO - Success on 50: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:02,084 - INFO - Success on 50: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:02,471 - INFO - Success on 50: 200 - {"IIVALUE": "S87197116", "IIVALUEF": 0}
+2024-07-18 09:03:02,782 - INFO - Success on 50: 200 - {"IIVALUE": "8.06904.0100", "IIVALUEF": 0}
+2024-07-18 09:03:03,160 - INFO - Success on 51: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:04,341 - INFO - Success on 51: 200 - {"StatusTo": 5}
+2024-07-18 09:03:04,655 - INFO - Success on 51: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:04,927 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:05,318 - INFO - Success on 51: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:05,689 - INFO - Success on 51: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:06,041 - INFO - Success on 51: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:06,361 - INFO - Success on 51: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:06,638 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:06,980 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:07,332 - INFO - Success on 51: 200 - {"IIVALUE": "7757-82-6", "IIVALUEF": 0}
+2024-07-18 09:03:07,644 - INFO - Success on 51: 200 - {"IIVALUE": "500.0", "IIVALUEF": 0}
+2024-07-18 09:03:07,961 - INFO - Success on 51: 200 - {"IIVALUE": "Method/Project: QA0006-08", "IIVALUEF": 0}
+2024-07-18 09:03:08,310 - INFO - Success on 51: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:08,602 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:08,998 - INFO - Success on 51: 200 - {"IIVALUE": "Sodium sulfate anhydrous >99% ", "IIVALUEF": 0}
+2024-07-18 09:03:09,327 - INFO - Success on 51: 200 - {"IIVALUE": "Sigma-Aldrich", "IIVALUEF": 0}
+2024-07-18 09:03:09,605 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:09,954 - INFO - Success on 51: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:10,239 - INFO - Success on 51: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:10,589 - INFO - Success on 51: 200 - {"IIVALUE": "MKBR3150V", "IIVALUEF": 0}
+2024-07-18 09:03:10,928 - INFO - Success on 51: 200 - {"IIVALUE": "746363-500G", "IIVALUEF": 0}
+2024-07-18 09:03:11,323 - INFO - Success on 52: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:12,515 - INFO - Success on 52: 200 - {"StatusTo": 5}
+2024-07-18 09:03:12,837 - INFO - Success on 52: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:13,162 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:13,523 - INFO - Success on 52: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:13,841 - INFO - Success on 52: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:14,147 - INFO - Success on 52: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:15,124 - INFO - Success on 52: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:15,415 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:15,735 - INFO - Success on 52: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:03:16,014 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:16,348 - INFO - Success on 52: 200 - {"IIVALUE": "2.5", "IIVALUEF": 0}
+2024-07-18 09:03:17,649 - INFO - Success on 52: 200 - {"IIVALUE": "Method/Project: Oil content std QC 58-4", "IIVALUEF": 0}
+2024-07-18 09:03:18,037 - INFO - Success on 52: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:18,297 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:18,622 - INFO - Success on 52: 200 - {"IIVALUE": "Sulfur finely divided ", "IIVALUEF": 0}
+2024-07-18 09:03:18,938 - INFO - Success on 52: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:03:19,238 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:19,555 - INFO - Success on 52: 200 - {"IIVALUE": "kg", "IIVALUEF": 0}
+2024-07-18 09:03:19,830 - INFO - Success on 52: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:20,193 - INFO - Success on 52: 200 - {"IIVALUE": "K25211587 839", "IIVALUEF": 0}
+2024-07-18 09:03:20,530 - INFO - Success on 52: 200 - {"IIVALUE": "1.07987.2500", "IIVALUEF": 0}
+2024-07-18 09:03:20,919 - INFO - Success on 53: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:22,108 - INFO - Success on 53: 200 - {"StatusTo": 5}
+2024-07-18 09:03:22,455 - INFO - Success on 53: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:22,719 - INFO - Success on 53: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:23,047 - INFO - Success on 53: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:23,387 - INFO - Success on 53: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:23,724 - INFO - Success on 53: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:24,047 - INFO - Success on 53: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:24,316 - INFO - Success on 53: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:24,674 - INFO - Success on 53: 200 - {"IIVALUE": "Kepenne, Veronique", "IIVALUEF": 0}
+2024-07-18 09:03:24,993 - INFO - Success on 53: 200 - {"IIVALUE": "EC 202-905-8", "IIVALUEF": 0}
+2024-07-18 09:03:25,323 - INFO - Success on 53: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:03:25,702 - INFO - Success on 53: 200 - {"IIVALUE": "Method/Project: QA0239-01", "IIVALUEF": 0}
+2024-07-18 09:03:26,031 - INFO - Success on 53: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:26,315 - INFO - Success on 53: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:26,633 - INFO - Success on 53: 200 - {"IIVALUE": "Hexamethylenetetramine for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:03:26,954 - INFO - Success on 53: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:03:27,240 - INFO - Success on 53: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:27,557 - INFO - Success on 53: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:27,836 - INFO - Success on 53: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:28,155 - INFO - Success on 53: 200 - {"IIVALUE": "S34655 148", "IIVALUEF": 0}
+2024-07-18 09:03:28,496 - INFO - Success on 53: 200 - {"IIVALUE": "8.18712.0100", "IIVALUEF": 0}
+2024-07-18 09:03:28,879 - INFO - Success on 54: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:30,063 - INFO - Success on 54: 200 - {"StatusTo": 5}
+2024-07-18 09:03:30,373 - INFO - Success on 54: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:30,634 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:30,975 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:31,299 - INFO - Success on 54: 200 - {"IIVALUE": "01/07/2019 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:31,614 - INFO - Success on 54: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:31,928 - INFO - Success on 54: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:32,199 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:32,550 - INFO - Success on 54: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:03:32,913 - INFO - Success on 54: 200 - {"IIVALUE": "334-48-5", "IIVALUEF": 0}
+2024-07-18 09:03:33,233 - INFO - Success on 54: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:03:33,590 - INFO - Success on 54: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:03:33,943 - INFO - Success on 54: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:34,216 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:34,607 - INFO - Success on 54: 200 - {"IIVALUE": "Decanoic acid ", "IIVALUEF": 0}
+2024-07-18 09:03:34,940 - INFO - Success on 54: 200 - {"IIVALUE": "Sigma Aldrich", "IIVALUEF": 0}
+2024-07-18 09:03:35,211 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:35,527 - INFO - Success on 54: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:35,816 - INFO - Success on 54: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:36,169 - INFO - Success on 54: 200 - {"IIVALUE": "#BCBS2252V", "IIVALUEF": 0}
+2024-07-18 09:03:36,490 - INFO - Success on 54: 200 - {"IIVALUE": "21409-5G", "IIVALUEF": 0}
+2024-07-18 09:03:36,855 - INFO - Success on 55: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:38,045 - INFO - Success on 55: 200 - {"StatusTo": 5}
+2024-07-18 09:03:38,371 - INFO - Success on 55: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:38,640 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:38,965 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:39,287 - INFO - Success on 55: 200 - {"IIVALUE": "01/07/2019 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:03:39,614 - INFO - Success on 55: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:39,923 - INFO - Success on 55: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:40,216 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:40,541 - INFO - Success on 55: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:03:40,937 - INFO - Success on 55: 200 - {"IIVALUE": "334-48-5", "IIVALUEF": 0}
+2024-07-18 09:03:41,275 - INFO - Success on 55: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:03:41,586 - INFO - Success on 55: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:03:41,905 - INFO - Success on 55: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:42,172 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:42,537 - INFO - Success on 55: 200 - {"IIVALUE": "Decanoic acid lot", "IIVALUEF": 0}
+2024-07-18 09:03:42,854 - INFO - Success on 55: 200 - {"IIVALUE": "Sigma Aldrich", "IIVALUEF": 0}
+2024-07-18 09:03:43,148 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:43,536 - INFO - Success on 55: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:43,806 - INFO - Success on 55: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:44,152 - INFO - Success on 55: 200 - {"IIVALUE": "#BCBS2252V", "IIVALUEF": 0}
+2024-07-18 09:03:44,470 - INFO - Success on 55: 200 - {"IIVALUE": "21409-5G", "IIVALUEF": 0}
+2024-07-18 09:03:44,858 - INFO - Success on 56: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:46,047 - INFO - Success on 56: 200 - {"StatusTo": 5}
+2024-07-18 09:03:46,416 - INFO - Success on 56: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:46,690 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:47,056 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:47,322 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:47,636 - INFO - Success on 56: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:47,947 - INFO - Success on 56: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:48,204 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:48,687 - INFO - Success on 56: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:03:49,093 - INFO - Success on 56: 200 - {"IIVALUE": "143-07-7", "IIVALUEF": 0}
+2024-07-18 09:03:49,496 - INFO - Success on 56: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:03:49,806 - INFO - Success on 56: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:03:50,267 - INFO - Success on 56: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:50,530 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:50,950 - INFO - Success on 56: 200 - {"IIVALUE": "Lauric acid for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:03:51,292 - INFO - Success on 56: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:03:51,608 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:51,980 - INFO - Success on 56: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:03:52,281 - INFO - Success on 56: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:52,608 - INFO - Success on 56: 200 - {"IIVALUE": "#S7225033644", "IIVALUEF": 0}
+2024-07-18 09:03:53,002 - INFO - Success on 56: 200 - {"IIVALUE": "8.05333.0100", "IIVALUEF": 0}
+2024-07-18 09:03:53,390 - INFO - Success on 57: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:03:54,575 - INFO - Success on 57: 200 - {"StatusTo": 5}
+2024-07-18 09:03:55,008 - INFO - Success on 57: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:03:55,290 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:55,632 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:55,907 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:56,239 - INFO - Success on 57: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:03:56,550 - INFO - Success on 57: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:03:56,813 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:57,138 - INFO - Success on 57: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:03:57,468 - INFO - Success on 57: 200 - {"IIVALUE": "544-63-8", "IIVALUEF": 0}
+2024-07-18 09:03:57,807 - INFO - Success on 57: 200 - {"IIVALUE": "100.0", "IIVALUEF": 0}
+2024-07-18 09:03:58,134 - INFO - Success on 57: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:03:58,494 - INFO - Success on 57: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:03:58,838 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:03:59,269 - INFO - Success on 57: 200 - {"IIVALUE": "Myristic acid for synthesis ", "IIVALUEF": 0}
+2024-07-18 09:03:59,600 - INFO - Success on 57: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:03:59,942 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:00,319 - INFO - Success on 57: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:04:00,654 - INFO - Success on 57: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:01,074 - INFO - Success on 57: 200 - {"IIVALUE": "#S7305799703", "IIVALUEF": 0}
+2024-07-18 09:04:01,501 - INFO - Success on 57: 200 - {"IIVALUE": "8.00399.0100", "IIVALUEF": 0}
+2024-07-18 09:04:01,876 - INFO - Success on 58: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:03,060 - INFO - Success on 58: 200 - {"StatusTo": 5}
+2024-07-18 09:04:03,401 - INFO - Success on 58: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:04:03,663 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:04,005 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:04,352 - INFO - Success on 58: 200 - {"IIVALUE": "01/07/2021 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:04,710 - INFO - Success on 58: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:04:05,092 - INFO - Success on 58: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:04:05,408 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:05,767 - INFO - Success on 58: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:04:06,169 - INFO - Success on 58: 200 - {"IIVALUE": "1002-84-2", "IIVALUEF": 0}
+2024-07-18 09:04:06,484 - INFO - Success on 58: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:04:06,792 - INFO - Success on 58: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:04:07,181 - INFO - Success on 58: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:04:07,489 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:07,819 - INFO - Success on 58: 200 - {"IIVALUE": "Pentadecanoic acid ", "IIVALUEF": 0}
+2024-07-18 09:04:08,270 - INFO - Success on 58: 200 - {"IIVALUE": "Sigma Aldrich", "IIVALUEF": 0}
+2024-07-18 09:04:08,596 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:08,990 - INFO - Success on 58: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:04:09,271 - INFO - Success on 58: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:09,731 - INFO - Success on 58: 200 - {"IIVALUE": "#BCBX5034", "IIVALUEF": 0}
+2024-07-18 09:04:10,092 - INFO - Success on 58: 200 - {"IIVALUE": "91446-5G", "IIVALUEF": 0}
+2024-07-18 09:04:10,479 - INFO - Success on 59: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:11,686 - INFO - Success on 59: 200 - {"StatusTo": 5}
+2024-07-18 09:04:12,038 - INFO - Success on 59: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:04:12,370 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:12,798 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:13,182 - INFO - Success on 59: 200 - {"IIVALUE": "01/01/2019 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:13,521 - INFO - Success on 59: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:04:13,959 - INFO - Success on 59: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:04:14,270 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:14,600 - INFO - Success on 59: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:04:14,978 - INFO - Success on 59: 200 - {"IIVALUE": "57-10-3", "IIVALUEF": 0}
+2024-07-18 09:04:15,331 - INFO - Success on 59: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:04:15,690 - INFO - Success on 59: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:04:16,019 - INFO - Success on 59: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:04:16,324 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:16,710 - INFO - Success on 59: 200 - {"IIVALUE": "Palmitic acid ", "IIVALUEF": 0}
+2024-07-18 09:04:17,078 - INFO - Success on 59: 200 - {"IIVALUE": "Sigma Aldrich", "IIVALUEF": 0}
+2024-07-18 09:04:17,364 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:17,702 - INFO - Success on 59: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:04:18,007 - INFO - Success on 59: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:18,373 - INFO - Success on 59: 200 - {"IIVALUE": "#BCBR3995V", "IIVALUEF": 0}
+2024-07-18 09:04:18,718 - INFO - Success on 59: 200 - {"IIVALUE": "76119-5G", "IIVALUEF": 0}
+2024-07-18 09:04:19,163 - INFO - Success on 60: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:20,354 - INFO - Success on 60: 200 - {"StatusTo": 5}
+2024-07-18 09:04:20,724 - INFO - Success on 60: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:04:21,018 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:21,414 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:21,705 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:22,101 - INFO - Success on 60: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:04:22,422 - INFO - Success on 60: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:04:22,691 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:23,016 - INFO - Success on 60: 200 - {"IIVALUE": "Dartevelle, Coralie", "IIVALUEF": 0}
+2024-07-18 09:04:23,393 - INFO - Success on 60: 200 - {"IIVALUE": "506-12-7", "IIVALUEF": 0}
+2024-07-18 09:04:23,714 - INFO - Success on 60: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:04:24,066 - INFO - Success on 60: 200 - {"IIVALUE": "Method/Project: Chromato", "IIVALUEF": 0}
+2024-07-18 09:04:24,384 - INFO - Success on 60: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:04:24,655 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:24,982 - INFO - Success on 60: 200 - {"IIVALUE": "Heptadecanoic acid ", "IIVALUEF": 0}
+2024-07-18 09:04:25,315 - INFO - Success on 60: 200 - {"IIVALUE": "Sigma Aldrich", "IIVALUEF": 0}
+2024-07-18 09:04:25,596 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:25,955 - INFO - Success on 60: 200 - {"IIVALUE": "g", "IIVALUEF": 0}
+2024-07-18 09:04:26,232 - INFO - Success on 60: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:26,593 - INFO - Success on 60: 200 - {"IIVALUE": "#SLBP5021V", "IIVALUEF": 0}
+2024-07-18 09:04:26,922 - INFO - Success on 60: 200 - {"IIVALUE": "H3500-5G", "IIVALUEF": 0}
+2024-07-18 09:04:27,328 - INFO - Success on 61: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:28,512 - INFO - Success on 61: 200 - {"StatusTo": 5}
+2024-07-18 09:04:28,876 - INFO - Success on 61: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:04:29,142 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:29,497 - INFO - Success on 61: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:29,851 - INFO - Success on 61: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:30,168 - INFO - Success on 61: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:04:30,487 - INFO - Success on 61: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:04:30,771 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:31,101 - INFO - Success on 61: 200 - {"IIVALUE": "ACF", "IIVALUEF": 0}
+2024-07-18 09:04:31,431 - INFO - Success on 61: 200 - {"IIVALUE": "112-80-1", "IIVALUEF": 0}
+2024-07-18 09:04:31,750 - INFO - Success on 61: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:04:32,055 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:32,375 - INFO - Success on 61: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:04:32,641 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:32,980 - INFO - Success on 61: 200 - {"IIVALUE": "oleic acid", "IIVALUEF": 0}
+2024-07-18 09:04:33,308 - INFO - Success on 61: 200 - {"IIVALUE": "Fluka", "IIVALUEF": 0}
+2024-07-18 09:04:33,582 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:33,909 - INFO - Success on 61: 200 - {"IIVALUE": "mL", "IIVALUEF": 0}
+2024-07-18 09:04:34,173 - INFO - Success on 61: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:34,572 - INFO - Success on 61: 200 - {"IIVALUE": "#1364173", "IIVALUEF": 0}
+2024-07-18 09:04:34,942 - INFO - Success on 61: 200 - {"IIVALUE": "75090", "IIVALUEF": 0}
+2024-07-18 09:04:35,400 - INFO - Success on 62: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:36,590 - INFO - Success on 62: 200 - {"StatusTo": 5}
+2024-07-18 09:04:36,922 - INFO - Success on 62: 200 - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 09:04:37,203 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:37,574 - INFO - Success on 62: 200 - {"IIVALUE": "09/15/2023 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:37,896 - INFO - Success on 62: 200 - {"IIVALUE": "09/14/2026 12:00:00 AM +00:00", "IIVALUEF": 0}
+2024-07-18 09:04:38,214 - INFO - Success on 62: 200 - {"IIVALUE": "GIC*L", "IIVALUEF": 0}
+2024-07-18 09:04:38,585 - INFO - Success on 62: 200 - {"IIVALUE": "Ventilated Cabinet 4", "IIVALUEF": 0}
+2024-07-18 09:04:38,859 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:39,194 - INFO - Success on 62: 200 - {"IIVALUE": "ACF", "IIVALUEF": 0}
+2024-07-18 09:04:39,542 - INFO - Success on 62: 200 - {"IIVALUE": "112-80-1", "IIVALUEF": 0}
+2024-07-18 09:04:39,944 - INFO - Success on 62: 200 - {"IIVALUE": "5.0", "IIVALUEF": 0}
+2024-07-18 09:04:40,222 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:40,561 - INFO - Success on 62: 200 - {"IIVALUE": "Adv. Chemistry", "IIVALUEF": 0}
+2024-07-18 09:04:40,832 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:41,242 - INFO - Success on 62: 200 - {"IIVALUE": "oleic acid ", "IIVALUEF": 0}
+2024-07-18 09:04:41,556 - INFO - Success on 62: 200 - {"IIVALUE": "Merck", "IIVALUEF": 0}
+2024-07-18 09:04:41,832 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:42,194 - INFO - Success on 62: 200 - {"IIVALUE": "mL", "IIVALUEF": 0}
+2024-07-18 09:04:42,501 - INFO - Success on 62: 200 - {"IIVALUE": null, "IIVALUEF": 0}
+2024-07-18 09:04:42,869 - INFO - Success on 62: 200 - {"IIVALUE": "#K24664181 803", "IIVALUEF": 0}
+2024-07-18 09:04:43,193 - INFO - Success on 62: 200 - {"IIVALUE": "1.00481.0005", "IIVALUEF": 0}
+2024-07-18 09:04:43,582 - INFO - Success on 63: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 09:04:44,746 - ERROR - Error at 62 on Try 1: 500 Server Error: Internal Server Error for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRq(9122)/ChangeStatus - {"StatusTo": 5}
+2024-07-18 09:04:45,428 - INFO - Success on 63: 200 - {"StatusTo": 5}

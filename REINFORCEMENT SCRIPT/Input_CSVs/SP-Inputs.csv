@@ -1,0 +1,20 @@
+FIELD_NAME,VALUE,Comments/Questions
+SP_VALUE,,This value will come from MIS.
+SP_VERSION,1,Which version should be used?
+FR_SHORT_DESC,RM - Direct,Need Confirmation
+FR_VERSION,9,Which version should be used?
+CONTEXT,,What should we insert here?
+SP_KEY1,,What should we insert here?
+SP_KEY2,,What should we insert here?
+SP_KEY3,,What should we insert here?
+SP_KEY4,,What should we insert here?
+SP_KEY5,,What should we insert here?
+STYPE_VALUE,RM,Need Confirmation
+CREATED_BY,shahbaz_ahmad@goodyear.com,Whose name should go here?
+LC_DESC,Goodyear LC for Material Specifications,What should we insert here?
+LC_VERSION,38,Which version should be used?
+SS_DESC,Active,
+CREATED_ON,2/26/2024,
+EFFECTIVE_FROM,,What should we insert here?
+EFFECTIVE_TILL,,What should we insert here?
+HAS_ADHOC_APPROVAL,,What should we insert here?

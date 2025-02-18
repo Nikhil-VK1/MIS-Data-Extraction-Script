@@ -1,0 +1,18 @@
+{
+    "SP_VALUE":null,
+    "SP_VERSION":null,
+    "CONTEXT":null,
+    "SP_KEY1":null,
+    "SP_KEY2":null,
+    "SP_KEY3":null,
+    "SP_KEY4":null,
+    "SP_KEY5":null,
+    "AU_SHORT_DESC":[
+        "auExpSpecCode",
+        "auSpecType",
+        "CodeMaskPrefix"
+    ],
+    "AU_VERSION":null,
+    "AUSEQ":null,
+    "VALUE":null
+}

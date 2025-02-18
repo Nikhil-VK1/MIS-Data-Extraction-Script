@@ -1,0 +1,60 @@
+{
+    "SP_VALUE": null,
+    "SP_VERSION": null,
+    "CONTEXT": null,
+    "SP_KEY1": null,
+    "SP_KEY2": null,
+    "SP_KEY3": null,
+    "SP_KEY4": null,
+    "SP_KEY5": null,
+    "IC_CAPTION": [
+        "Reinforcement - Basic"
+    ],
+    "IC_ORDER": null,
+    "II_CAPTION": {
+        "Raw Material - Basic": [
+            "Reinforcement - Basic PPSG"
+        ]
+    },
+    "IE_SHORT_DESC": {
+        "Reinforcement - Basic": {
+            "Raw Material - Basic PPSG": "ieRawMaterialBasicPPSG"
+        }
+    },
+    "II_ORDER": null,
+    "PR_SHORT_DESC": {
+        "Raw Material - Basic": {
+            "Raw Material - Basic PPSG": [
+                "prSpecificGravity",
+                "prPolymer",
+                "prOil",
+                "prFiller",
+                "prRubberHydrocarbon",
+                "prSoftener",
+                "prTotalSulfur"
+            ]
+        }
+    },
+    "PR_VERSION": null,
+    "PR_SEQ": {
+        "Raw Material - Basic": {
+            "Raw Material - Basic PPSG": {
+                "prSpecificGravity":1,
+                "prPolymer":2,
+                "prOil":3,
+                "prFiller":4,
+                "prRubberHydrocarbon":5,
+                "prSoftener":6,
+                "prTotalSulfur":7
+            }
+        }
+    },
+    "UNIT": null,
+    "LOW_LIMIT": null,
+    "LOW_SPEC": null,
+    "LOW_DEV": null,
+    "TARGET": null,
+    "HIGH_DEV": null,
+    "HIGH_SPEC": null,
+    "HIGH_LIMIT": null
+}

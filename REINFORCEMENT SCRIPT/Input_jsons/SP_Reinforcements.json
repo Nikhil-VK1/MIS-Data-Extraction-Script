@@ -1,0 +1,21 @@
+{
+    "SP_VALUE":null,
+    "SP_VERSION": 1,
+    "FR_SHORT_DESC": ["Reinforcement General Information", "Reinforcement - Basic"],
+    "FR_VERSION": null,
+    "CONTEXT": null,
+    "SP_KEY1": null,
+    "SP_KEY2": null,
+    "SP_KEY3": null,
+    "SP_KEY4": null,
+    "SP_KEY5": null,
+    "STYPE_VALUE": "RF",
+    "CREATED_BY": "EventManager",
+    "LC_DESC": "Goodyear LC for Material Specifications",
+    "LC_VERSION": null,
+    "SS_DESC": "AP",
+    "CREATED_ON": null,
+    "EFFECTIVE_FROM": null,
+    "EFFECTIVE_TILL": null,
+    "HAS_ADHOC_APPROVAL": null
+}

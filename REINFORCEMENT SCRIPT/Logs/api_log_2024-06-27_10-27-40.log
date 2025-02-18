@@ -1,0 +1,1 @@
+2024-06-27 10:27:40,559 - ERROR - Error at 0 on Try 1: 405 Client Error: Method Not Allowed for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/CreateRequestByRequestTypeShortDescript - {'SHORT_DESC': 'Chemical & Consumables Container', 'RQ_VALUE': 'T20040479', 'DESCRIPTION': 'Chemical & Consumables Container'}

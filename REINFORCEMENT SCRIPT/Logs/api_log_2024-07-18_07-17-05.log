@@ -1,0 +1,7 @@
+2024-07-18 07:17:05,472 - INFO - Success on 1: 200 - {"SHORT_DESC": "Chemical & Consumables Container", "RQ_VALUE": null, "DESCRIPTION": "Chemical & Consumables Container"}
+2024-07-18 07:17:06,642 - INFO - Success on 1: 200 - {"StatusTo": 5}
+2024-07-18 07:17:06,846 - ERROR - Error at 0 on Try 1: 404 Client Error: Not Found for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRqIi(9047,90,1000000,9,5000000)/Update - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 07:17:07,532 - ERROR - Error at 0 on Try 2: 404 Client Error: Not Found for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRqIi(9047,90,1000000,9,5000000)/Update - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 07:17:08,219 - ERROR - Error at 0 on Try 3: 404 Client Error: Not Found for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRqIi(9047,90,1000000,9,5000000)/Update - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 07:17:08,908 - ERROR - Error at 0 on Try 4: 404 Client Error: Not Found for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRqIi(9047,90,1000000,9,5000000)/Update - {"IIVALUE": "AS*L", "IIVALUEF": 0}
+2024-07-18 07:17:09,597 - ERROR - Error at 0 on Try 5: 404 Client Error: Not Found for url: https://opcenter-test.goodyear.com/OpcenterRDnLGIL/odata/RndvRqIi(9047,90,1000000,9,5000000)/Update - {"IIVALUE": "AS*L", "IIVALUEF": 0}
